@@ -82,9 +82,8 @@ body {
 /* Bottom middle text */
 .bottom-center-images-with-text {
 	position: absolute;
-	bottom: 0%;
-	left: 50%;
-	right: 50%;
+	bottom: 10%;
+	transform: translate(-50%, -50%);
 }
 
 /* Centered text */
