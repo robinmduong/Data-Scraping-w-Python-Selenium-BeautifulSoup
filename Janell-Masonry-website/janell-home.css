@@ -10,6 +10,16 @@ padding-bottom: 10px;
     display: none !important;
 }
 
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover {
+	text-decoration: none;
+	color: inherit;
+}
+
 body {
 	/*background-repeat: no-repeat !important;
 	  background-image: url(/images/355/toolsOnTable_1080.jpg) !important;
@@ -42,7 +52,11 @@ body {
          display: none;
 }
 
-/*----------------------------------TEXT OVER IMAGES------------*
+/*----------------------------------TEXT OVER IMAGES------------*/
+
+.darken-image {
+  filter: brightness(70%);
+}
 
  /* Container holding the image and the text */
 .container-images-with-text {
@@ -51,39 +65,12 @@ body {
   color: white;
 }
 
-/* Bottom left text */
-.bottom-left-images-with-text {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-
-/* Top left text */
-.top-left-images-with-text {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-}
-
-/* Top right text */
-.top-right-images-with-text {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right-images-with-text {
-  position: absolute;
-  bottom: 8px;
-  right: 16px;
-}
-
 /* Bottom middle text */
 .bottom-center-images-with-text {
 	position: absolute;
-	bottom: 10%;
-	transform: translate(-50%, -50%);
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 /* Centered text */
