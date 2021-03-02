@@ -275,16 +275,6 @@ p.right {
        display: none !important;
 }
 
-/*-----------------------------------Fixed Right Icon Menu---------------------*/
-
-#side-contact-menu {
-	position: fixed;
-	right: 0;
-	top: 50%;
-	width: 8em;
-	margin-top: -2.5em;
-}
-
 /*---------------------------------- News List---------------------------------*/
 #news-list li {
 	padding: 10px 2px;
