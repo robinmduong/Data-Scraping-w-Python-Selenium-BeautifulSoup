@@ -1,0 +1,652 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,600,700,400italic);
+body {
+	background-image: url(/images/472/p2.png);
+	background-attachment: fixed;
+	background-color: #f6f6f6;
+	font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body.home-page {
+	padding-top: 72px;
+}
+
+button.btn.btn-primary {
+      background-color: #4f91cd;
+}
+
+.container {
+  /* padding-right: 15px;
+    padding-left: 15px; */ 
+ padding-right: 0px;
+    padding-left: 0px;   
+margin-right: auto;
+    margin-left: auto;
+}
+
+#mainContainer {
+	background-color: #ffffff;
+	margin-top: 10px;
+	-webkit-box-shadow: 0 0 2px 1px rgba(0,0,0,.1);
+	box-shadow: 0 0 2px 1px rgba(0,0,0,.1);
+}
+@media only screen and (max-width: 768px) {
+ #slide-brickform{
+width:40%;
+}
+.aquaphalt-video{
+width:90%;
+}
+}
+
+.aquaphalt-video{
+width:100%;
+}
+.img-responsive.aquaphalt-img-main{
+width: 200px;
+height: 200px;
+}
+.img-responsive.wrapped-img{
+width: 200px;
+height: 290px;
+}
+
+.img-responsive.brulap-wrapped-img{
+width: 200px;
+height: 290px;
+}
+@media only screen and (max-width: 991px) {
+ #slide-brickform{
+width:40%;
+}
+
+}
+/*+++++++++++++ Typography +++++++++++++++*/
+h1.title {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 900;
+	color: #303030;
+	text-transform: uppercase;
+}
+h2.title {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 900;
+	color: #303030;
+	text-align: center;
+	text-transform: uppercase;
+}
+h3 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #4f91cd;
+}
+a.btn {
+	border-color: #555;
+	color: #333;
+	border-radius: 0px;
+	padding: 5px 20px;
+}
+a.btn.multi {
+	border-color: #555;
+	color: #333;
+	border-radius: 0px;
+	padding: 5px 20px;
+        margin-top: -10%;
+}
+/*++++++++++++++++++++++++++ FIXED NAVIGATION +++++++++++++++++++++++++*/
+
+#main-navbar .navbar-nav>li>a {
+	font-family: Montserrat, sans-serif;
+	padding: 17px 13px;
+	font-size: 12px;
+	letter-spacing: 1px;
+	text-decoration: none;
+	font-weight: 700;
+	list-style-type: none;
+
+	color: #777777;
+	text-shadow: 0 1px 0 #ffffff;
+}
+#main-navbar .navbar-nav>li>a:hover {
+	background-color: #e7e7e7;
+	list-style-type: none;
+}
+.navbar-fixed-top {
+	-webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .3);
+	box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .3);
+	background: #fefefe;
+	/* Old browsers */
+    /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+    
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIxJSIgc3RvcC1jb2xvcj0iI2ZlZmVmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmYmZiZmIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top, #fefefe 1%, #fbfbfb 100%);
+	/* FF3.6+ */
+    
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%, #fefefe), color-stop(100%, #fbfbfb));
+	/* Chrome,Safari4+ */
+    
+	background: -webkit-linear-gradient(top, #fefefe 1%, #fbfbfb 100%);
+	/* Chrome10+,Safari5.1+ */
+    
+	background: -o-linear-gradient(top, #fefefe 1%, #fbfbfb 100%);
+	/* Opera 11.10+ */
+    
+	background: -ms-linear-gradient(top, #fefefe 1%, #fbfbfb 100%);
+	/* IE10+ */
+    
+	background: linear-gradient(to bottom, #fefefe 1%, #fbfbfb 100%);
+    /* W3C */
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#fefefe', endColorstr='#fbfbfb', GradientType=0);
+	/* IE6-8 */
+    
+	border-top: 2px solid rgba(79, 145, 205, 1);
+}
+.transparent #main-navbar .navbar-nav>li>a {
+	color: #efefef;
+	text-shadow: 0px 0px 0px #ffffff;
+}
+.transparent #main-navbar .navbar-nav>li>a:hover {
+	background-color: rgba(255, 255, 255, .2);
+}
+.navbar-fixed-top.transparent {
+	border-bottom: 1px solid rgba(153, 153, 153, 0);
+	color: rgba(153, 153, 153, 0);
+	;
+	-webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .0);
+	box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .0);
+	background: transparent;
+	border-top: 2px solid rgba(245, 121, 31, 0);
+	border-color: rgba(245, 121, 31, 0);
+}
+/*+++++++++++++++++++++++++++++++++++++++ JUMBO-TRON / Hero Image HOME PAGE SLIDER +++++++++++++++++++++++++++++*/
+#home-cover {
+	background: #ffffff;
+}
+#home-cover.jumbotron {
+	padding-top: 0px;
+}
+#carousel-jumbotron .carousel-inner .item {
+	border-bottom: 3px solid #fff;
+	min-height: 510px;
+	margin-top: 0px;
+}
+
+.carousel-caption {
+	position: absolute;
+	top: 0px;
+	left: 10px;
+	background-color: rgba(0,0,0,.7);
+	height: 100%;
+}
+.carousel-caption h2 {
+	color: #4F91CD;
+	font-size: 40px;
+	font-weight: 900;
+	margin-bottom: 0px;
+	text-shadow: 1px 1px 0 #000000;
+}
+#spec-west-25 {
+	background-color: transparent;
+	position: initial;
+	top: initial;
+	left: initial;
+}
+#spec-west-25 img {
+	max-height: 455px;
+}
+#slide-zurn.carousel-caption p.text-strong {
+	font-size: 18px;
+}
+#slide-brickform h3 {
+	color: #fff;
+	font-size: 40px;
+	margin-top: 0px;
+	font-weight: inherit;
+	text-shadow: 1px 1px 0 #000000;
+}
+#slide-brickform ul {
+	font-size: 18px;
+	list-style: none;
+}
+#brickform-logo, #zurn-logo {
+	position: absolute;
+	bottom: 25px;
+	right: 25px;
+}
+#slide-brickform a.btn, #slide-zurn a.btn {
+	color: #fff;
+	border-color: #fff;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+}
+/*+++ Spec west sealer +++*/
+
+#slide-spec-west-sealer ul {
+	list-style: none;
+	margin-left: 0px;
+	padding: 0px;
+	font-size: 20px;
+	font-weight: 100;
+}
+#slide-spec-west-sealer a.btn {
+	border-color: #fff;
+	background: #fff;
+	color: #4f91cd;
+	border-radius: 0px;
+	padding: 5px 20px;
+}
+#spec-west-sealer-product-image {
+	position: absolute;
+	bottom: 10%;
+	right: 15%;
+}
+
+
+
+/*+++++++++++++++++++++++++++ Main Logo row  #divLogoContainer +++++++++++++++++*/
+
+#divLogoContainer { 
+
+	padding: 10px;
+	margin-top: -14px;
+	margin-bottom: 0px;
+        background-color: 	white;
+	padding-bottom: 0px;
+	border-bottom: 1px solid #ddd;
+}
+#dvHeaderInfo h3 {
+	color: #ffffff;
+	margin-top: 5px;
+}
+#dvHeaderInfo {
+	color: #ffffff;
+}
+#dvHeaderInfo a {
+	text-decoration: none;
+	color: #163a8c;
+}
+#dvHeaderInfo a:hover {
+	color: #337ab7;
+}
+/*++++++++++++++++++++++++++ Left Browse Categories Column +++++++++++++++*/
+
+#dvDisplayLeft li {
+	border-bottom: 1px solid #ddd;
+	padding: 3px 0;
+}
+#dvDisplayLeft li a {
+	color: #303030;
+}
+/*++++++++++++++++++++++++++ Home Page +++++++++++++++++++++++++*/
+/*++ Featured Mans ++*/
+.border.featured-manufacturer {
+	padding: 10px;
+}
+.text-center .img-responsive {
+	margin: 0 auto;
+}
+.featured-category-links ul {
+	list-style: none;
+}
+.featured-category-links ul li {
+	min-height: 120px
+}
+/*+++++++++++ spectator monthly +++++++++++*/
+#spectatorMonthly {
+	padding: 20px 20px 0px 20px;
+	background: url(/images/472/blue_broken_noise.jpg);
+	background-repeat: repeat;
+}
+#spectatorMonthly #issue-date {
+	font-size: 18px;
+	line-height: 20px;
+	font-family: monospace;
+	display: block;
+}
+#spectatorMonthly a.btn {
+	color: #fff;
+	border-color: #fff;
+}
+#masthead {
+	padding-bottom: 20px;
+}
+/*+++ Rental Items +++*/
+#rental-equipment-wrap .description {
+	min-height: 65px;
+}
+/*++ Popular Categories ++*/
+#popular-categories-wrap a img:hover {
+	opacity: .8;
+}
+/*++++++++ Organizations +++++++++*/
+#organizations-wrap {
+	margin: 15px;
+	padding: 20px;
+}
+/*+++++ Rental Items Page +++++*/
+#rental-items {
+	-webkit-column-count: 2;
+	-moz-column-count: 2;
+	column-count: 2;
+}
+#rental-items div {
+	-webkit-column-break-inside: avoid;
+	-moz-column-break-inside: avoid;
+	-o-column-break-inside: avoid;
+	-ms-column-break-inside: avoid;
+	column-break-inside: avoid;
+}
+/*+++ Company Contacts Page ++*/
+#company-contacts .contact {
+	background-repeat: no-repeat;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#company-contacts h3 {
+	font-size: 23px;
+	color: #303030;
+	margin-bottom: 0px;
+}
+#company-contacts .contact img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: 10px solid #fff;
+}
+/*---------------------------------------------------------------------------------*/
+/*  Deminars */
+/*---------------------------------------------------------------------------------*/
+.deminar-card {
+	border: 1px solid #ddd;
+	background-color: #fafafa;
+	padding: 0 10px;
+}
+.deminar-card h3 {
+	font-size: 23px;
+}
+.deminar-card h3 span {
+	font-size: 15px;
+	font-weight: 300;
+}
+/*++++++ Locations Page ++++++++*/
+.google-map {
+	position: relative;
+	padding-bottom: 75%;
+// This is the aspect ratio height: 0;
+	overflow: hidden;
+}
+.google-map iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+	pointer-events: none;
+}
+.location address {
+	margin-bottom: 0px;
+	font-style: italic;
+}
+/*++++++++++++++++++++++++ FOOTER ++++++++++++++++++++++++++++++*/
+footer {
+	background-image: url(/images/472/classy_fabric.png);
+	background-repeat: repeat;
+	border-top: 3px solid rgba(79, 145, 205, 1);
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+footer h2 {
+	font-size: 20px;
+}
+footer h2, footer h3, footer h4 {
+	color: #4f91cd;
+}
+footer h3 {
+	font-size: 25px;
+}
+footer h4 {
+	min-height: 38px;
+	font-size: 18px;
+	font-weight: bold;
+}
+footer h5 {
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+footer strong {
+	color: #dddddd;
+}
+footer a {
+	color: #efefef;
+}
+footer address {
+	font-style: italic;
+	margin-bottom: 0px;
+}
+#subfooter {
+	font-size: 11px;
+	padding: 5px;
+	background-color: #4f91cd;
+}
+#dvFooter nav li a {
+	padding: 7px 0px;
+	font-size: 13px;
+}
+/*+++ Back to top Button +++*/
+.cd-top.cd-is-visible {
+	/* the button becomes visible */
+	visibility: visible;
+	opacity: 1;
+}
+.cd-top.cd-fade-out {
+	/* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+	opacity: .5;
+}
+.cd-top {
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	position: fixed;
+	bottom: 40px;
+	right: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+	/* image replacement properties */
+	overflow: hidden;
+	text-indent: 100%;
+	white-space: nowrap;
+	background: rgba(80,143,203,.8) url(/images/472/cd-top-arrow.png) no-repeat center 50%;
+	visibility: hidden;
+	opacity: 0;
+	-webkit-transition: opacity .3s 0s, visibility 0s .3s;
+	-moz-transition: opacity .3s 0s, visibility 0s .3s;
+	transition: opacity .3s 0s, visibility 0s .3s;
+	z-index: 999;
+}
+.cd-is-visible.cd-top:hover{
+background: rgba(80,143,203,.9) url(/images/472/cd-top-arrow.png) no-repeat center 50%;
+}
+.cd-top.cd-is-visible, .cd-top.cd-fade-out, .no-touch .cd-top:hover {
+	-webkit-transition: opacity .3s 0s, visibility 0s 0s;
+	-moz-transition: opacity .3s 0s, visibility 0s 0s;
+	transition: opacity .3s 0s, visibility 0s 0s;
+}
+.cd-top.cd-is-visible {
+	/* the button becomes visible */
+	visibility: visible;
+	opacity: 1;
+}
+.cd-top.cd-fade-out {
+	/* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+	opacity: .5;
+}
+.no-touch .cd-top:hover {
+	background-color: #e86256;
+	opacity: 1;
+}
+@media only screen and (min-width: 768px) {
+.cd-top {
+	right: 20px;
+	bottom: 20px;
+}
+
+}
+@media only screen and (min-width: 1024px) {
+.cd-top {
+	height: 60px;
+	width: 60px;
+	right: 30px;
+	bottom: 30px;
+}
+}
+/*++++++ Floating Newsletter Signup ++++++*/
+
+
+#floating_link, #newsletter-signup {
+	-webkit-transition: all .5s ease-out;
+	-moz-transition: all .5s ease-out;
+	-ms-transition: all .5s ease-out;
+	-o-transition: all .5s ease-out;
+	transition: all .5s ease-out;
+}
+#floating_link {
+	position: fixed;
+	left: -86px;
+	top: 400px;
+	display: block;
+	width: 200px;
+	height: 33px;
+	/* text-indent: -10000px; */
+	overflow: hidden;
+	background-color: #337ab7;
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	padding-top: 4px;
+	border: 1px solid #303030;
+	border-radius: 3px;
+	-moz-transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
+	text-decoration: none;
+	z-index: 900;
+}
+#floating_link:hover {
+	-webkit-box-shadow: 2px 2px 5px 0 rgba(0,0,0,.4);
+	box-shadow: 2px 2px 5px 0 rgba(0,0,0,.4);
+}
+#newsletter-signup {
+	position: fixed;
+	left: -390px;
+	top: 230px;
+	display: block;
+	width: 400px;
+	height: 440px;
+	background-color: #fff;
+	border-radius: 10px;
+	border: 1px solid #ddd;
+	padding: 20px;
+	color: #303030;
+}
+body.home-page #newsletter-signup, body.home-page #floating_link {
+	position: absolute;
+}
+body.home-page #newsletter-signup {
+	top: 800px;
+}
+body.home-page #floating_link {
+	top: 1000px
+}
+#newsletter-signup.form-open {
+	left: -10px;
+	-webkit-box-shadow: 1px 4px 7px 2px rgba(0,0,0,.3);
+	box-shadow: 1px 4px 7px 2px rgba(0,0,0,.3);
+}
+#floating_link.form-open {
+	left: 300px;
+}
+
+/*++++++++++++++++++++++ MEDIA QUARIES ++++++++++++++++++++*/
+/*+++++ col-xs +++++++*/
+@media screen and (max-width: 767px) {
+#main-logo {
+	text-align: center;
+}
+#dvFooter nav {
+	text-align: center;
+}
+.carousel-caption {
+	left: 0px;
+}
+}
+
+/*+++++ col-md +++++++*/
+@media screen and (max-width: 1199px) {
+body, body.home-page {
+	padding-top: 126px;
+}
+}
+
+/*+++++ col-sm +++++++*/
+@media screen and (max-width: 991px) {
+body, body.home-page {
+	padding-top: 67px;
+}
+}
+
+
+
+/**************************************   custom ***************************/
+@media (min-width: 1200px){
+.container {
+width: 1250px;
+ }
+}
+/-----------------------------------------------------------------------------------/
+@media (min-width: 992px){
+.col-md-4 {
+    width: 32.7%;
+}
+}
+
+/*****************48WS Robin Custom*********************/
+#ContentPlaceHolder1_dvCategories>ul>li {
+	list-style-type: none;
+}
+
+#dvCategories-list>ul>li> {
+	list-style-type: none;
+}
+
+#ContentPlaceHolder1_dvProducts>ul>li {
+	list-style-type: none;
+}
+
+#dvMainContent>ul>li {
+	list-style-type: none;
+}
+
+#manufacturers-list>li {
+	list-style-type:none;
+}
+
+
+.footer-text {
+	color: white;
+}
+
+.footer-text:visited {
+	color: white;
+}
+
+.footer-text a {
+	color: white;
+}
+
+
+.footer-text a:visited {
+	color: white;
+}
