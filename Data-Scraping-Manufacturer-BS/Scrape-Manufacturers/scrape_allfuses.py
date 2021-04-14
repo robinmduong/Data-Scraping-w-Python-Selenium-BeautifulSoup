@@ -11,31 +11,31 @@ headers = {
 
 productlinks = []
 
-for x in range(1, 2):
+for x in range(1, 2): # Range specifics the page range
     r = requests.get(f'https://www.allfuses.com/all-products?p={x}&product_list_limit=100')
     soup = BeautifulSoup(r.content, 'lxml')# r.content to get everything on the page
     productlist = soup.find_all('li', class_='product-item')
     for item in productlist:
         for link in item.find_all('a', href=True):
             productlinks.append(link['href'])
-            # print(link['href'])
 
-print(productlinks)
-print(len(productlinks))
+itemlist = []
 
-testlink = 'https://www.allfuses.com/ferraz-08570'
-r = requests.get(testlink, headers=headers)
+for link in productlinks:
+    r = requests.get(link, headers=headers)
 
-soup = BeautifulSoup(r.content, 'lxml')
+    soup = BeautifulSoup(r.content, 'lxml')
 
-name_description = soup.find('span', itemprop='name').get_text()
-quick_overview = soup.find('div', itemprop='description').get_text()
-details = soup.find_all('div', class_='product attribute description')
-# image, weight, info_size_color 
-product = {
-    'description': name_description,
-    'quick_overview': quick_overview,
-    'details': details
-}
+    name_description = soup.find('span', itemprop='name').get_text()
+    quick_overview = soup.find('div', itemprop='description').get_text()
+    details = soup.find('div', class_='product attribute description')
+    # image, weight, info_size_color 
+    product = {
+        'description': name_description,
+        'quick_overview': quick_overview,
+        'details': details,
+    }
 
-print(product)
+    itemlist.append(product)
+
+print(itemlist)
