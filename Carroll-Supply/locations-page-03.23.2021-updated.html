@@ -1,0 +1,393 @@
+<h1><strong>
+26 Locations &amp; Growing</strong>
+</h1>
+<p>Carroll Construction Supply has 26 locations spanning the Midwest from Nebraska to Ohio. From road projects on the plains of Nebraska to skyscrapers on Lake Michigan, we have been providing quality construction materials for over 59 years.
+<strong>Click on one of our locations below for contact information.</strong></p>
+<div id="gmap-wrap">
+<div id="controls"></div>
+<div id="gmap"></div>
+</div>
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAH9GJpeMmD8zJbdg31zdzUpfQ8T5ziaYU&callback=initMap">
+</script><!--------------------------------->
+<script type="text/javascript">
+$(function() {
+var LocsAB = [
+{
+         lat: 41.01975,
+         lon: -92.41338,
+         title: ' Corporate Office Ottumwa, IA',
+         html: '<h2>Corporate Office Ottumwa, IA</h2><address>207 W. 2nd St. Suite 3 <br />Ottumwa, IA 52501</address><p><strong>President</strong> : Steve Carroll<br /></p><p><strong>Phone: </strong>(641) 455-5545<strong><br />Toll Free: </strong>(800) 568-4452<strong><br />Fax: </strong>(641) 683-3824</p>',
+         icon: 'http://maps.google.com/mapfiles/marker.png',
+         animation: google.maps.Animation.DROP,
+  zoom: 15
+     },
+{
+         lat: 41.742181,
+         lon: -88.340196,
+         title: 'Aurora, IL',
+         html: [
+             '<h2>Ottumwa, IA</h2>',
+             '<address>1031 W. Lake St.</br>Aurora, IL 60506</address>',
+'<p><strong>Store Manager: </strong>Jim Jones</p>',
+'<p><strong>Phone:</strong> (630) 892-4855<br />',
+'<strong>Toll Free:</strong> (800) 568-4453<br />',
+'<strong>Fax:</strong> (630) 892-7895</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 40.0939987,
+         lon: -86.0138905,
+         title: 'Cicero, IN',
+         html: [
+             '<h2>Cicero, IN</h2>',
+             '<address>20935 State Road 19</br>Cicero, IN 46034</address>',
+'<p><strong>Store Manager: </strong>Sheri Hudella</p>',
+'<p><strong>Phone:</strong> (317) 984-2400<br />',
+'<strong>Fax:</strong> (317) 984-2405</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 39.993273,
+         lon: -82.927356,
+         title: 'Gahanna, OH',
+         html: [
+             '<h2>Gahanna, OH</h2>',
+             '<address>1410 Blatt Blvd.</br>Gahanna, OH 43230</address>',
+'<p><strong>Store Manager: </strong>Tony Ripple</p>',
+'<p><strong>Phone:</strong> (614) 564-9799<br />',
+'<strong>Fax:</strong> (614) 564-9808</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 41.246258,
+         lon: -95.891336,
+         title: 'Council Bluffs, IA',
+         html: [
+             '<h2>Council Bluffs, IA</h2>',
+             '<address>2840 Nebraska Ave.</br>Council Bluffs, IA 51501</address>',
+'<p><strong>Store Manager: </strong>Ryan Lemmer</p>',
+'<p><strong>Phone:</strong> (712) 328-2929<br />',
+'<p><strong>Toll Free:</strong> (800) 333-2288<br />',
+'<strong>Fax:</strong> (712) 328-3013</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 32.884057,
+         lon: -96.694765,
+         title: 'Dallas, TX',
+         html: '<h2>Dallas, TX</h2><address>10930 Petal St.,<br />Dallas, TX 75238</address><p><strong>Store Manager</strong> : Mike Kozacek<br /></p><p><strong>Phone: </strong>(214) 341-7700<br /></p><p><strong>Fax: </strong>(214) 341-7684</p>',
+         icon: 'http://maps.google.com/mapfiles/marker.png',
+animation: google.maps.Animation.DROP ,
+  zoom: 15
+     },
+{
+lat: 41.644060,
+lon: -93.610234,
+title: 'Des Moines, IA',
+html: '<h2>Des Moines, IA</h2><address>4529 N.E. 7th St.<br />Des Moines, IA 50313</address><p><strong>Store Manager</strong> : Russ Keith<br /></p><p><strong>Phone: </strong>(515) 280-1122<strong><br />Fax: </strong> (515) 280-3221</p>',
+icon: 'http://maps.google.com/mapfiles/marker.png',
+animation: google.maps.Animation.DROP ,
+zoom: 15
+},
+{
+         lat: 41.480388,
+         lon: -87.846722,
+         title: 'Frankfort, IL',
+         html: [
+             '<h2>Frankfort, IL</h2>',
+             '<address>135 Industry Ave.</br>Frankfort, IL 60423</address>',
+'<p><strong>Store Manager: </strong>Scott Fischer</p>',
+'<p><strong>Phone:</strong> (815) 464-0100<br />',
+'<strong>Fax:</strong> (815) 464-0103</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 41.0907414,
+         lon: -96.2594792,
+         title: 'Gretna, NE',
+         html: [
+             '<h2>Gretna, NE</h2>',
+             '<address>21978 Platteview Rd.</br>Gretna, NE 68028</address>',
+'<p><strong>Store Manager: </strong>Ron Sparks</p>',
+'<p><strong>Phone:</strong> (402) 341-9941<br />',
+'<strong>Fax:</strong> (402) 341-7421</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 39.4251961,
+         lon: -84.4561459,
+         title: 'Hamilton, OH',
+         html: [
+             '<h2>Hamilton, OH</h2>',
+             '<address>4805 Hamilton Middletown Rd.</br>Liberty Township, OH 45011</address>',
+'<p><strong>Store Manager: </strong>Matthew McFadden</p>',
+'<p><strong>Phone:</strong> (513) 893-5483<br />',
+'<p><strong>Toll Free:</strong> (800) 327-3376<br />',
+'<strong>Fax:</strong> (513) 893-5484</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 40.421266,
+         lon: -89.450284,
+         title: 'Hopedale, IL',
+         html: [
+             '<h2> Hopedale, IL</h2>',
+             '<address>201 Ford Ave.</br>Hopedale, IL 61747</address>',
+'<p><strong>Store Manager: </strong> Dan Reed</p>',
+'<p><strong>Phone:</strong> (309) 449-6044<br />',
+'<strong>Fax:</strong> (309) 449-3314</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 39.7423351,
+         lon: -86.1375347,
+         title: 'Indianapolis, IN',
+         html: [
+             '<h2>Indianapolis, IN</h2>',
+             '<address>1405 E Naomi St.</br>Indianapolis, IN 46203</address>',
+'<p><strong>Store Manager: </strong>Mike McDowell</p>',
+'<p><strong>Phone:</strong> (317) 602-5660<br />',
+'<strong>Fax:</strong> (317) 602-5831</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 41.689736,
+         lon: -87.939470,
+         title: 'Lemont, IL',
+         html: [
+             '<h2>Lemont, IL</h2>',
+             '<address>13655 Main St.</br>Lemont, IL 60439</address>',
+'<p><strong>Store Manager: </strong>David Almarez</p>',
+'<p><strong>Phone:</strong> (630) 243-0272<br />',
+'<strong>Fax:</strong> (630) 257-7566</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 40.813788,
+         lon: -96.772879,
+         title: 'Lincoln, NE',
+         html: [
+             '<h2>Lincoln, NE</h2>',
+             '<address>3600 West O St.</br>Lincoln, NE 68528</address>',
+'<p><strong>Store Manager: </strong>Brian Johnson</p>',
+'<p><strong>Phone:</strong> (402) 438-3600<br />',
+'<strong>Fax:</strong> (402) 438-3654</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 45.179907,
+         lon: -93.121508,
+         title: 'Lino Lakes, MN',
+         html: [
+             '<h2>Lino Lakes, MN</h2>',
+             '<address>7540 4th Ave.</br>Lino Lakes, MN 55014</address>',
+'<p><strong>Store Manager: </strong>Stu Mickelson</p>',
+'<p><strong>Phone:</strong> (651) 784-0606<br />',
+'<strong>Fax:</strong> (651) 784-0609</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 38.2352062,
+         lon: -85.7507041,
+         title: 'Louisville, KY',
+         html: [
+             '<h2>Louisville, KY</h2>',
+             '<address>414 E. St. Catherine St.</br>Louisville, KY 40203</address>',
+'<p><strong>Store Manager: </strong>Tony Geracitano</p>',
+'<p><strong>Phone:</strong> (502) 966-6628<br />',
+'<strong>Fax:</strong> (502) 966-6659</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 42.031695,
+         lon: -91.551618,
+         title: 'Marion, IA',
+         html: [
+             '<h2>Marion, IA</h2>',
+             '<address>598 57th St.</br>Marion, IA 52302</address>',
+'<p><strong>Store Manager: </strong>Scott Sauer</p>',
+'<p><strong>Phone:</strong> (319) 377-5323<br />',
+'<strong>Fax:</strong> (319) 377-5363</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 41.452430,
+         lon: -87.320356,
+         title: 'Merrillville, IN',
+         html: [
+             '<h2>Merrillville, IN</h2>',
+             '<address>9122 Louisiana St.</br>Merrillville, IN 46410</address>',
+'<p><strong>Store Manager: </strong>Brady Smith</p>',
+'<p><strong>Phone:</strong> (219) 791-9020<br />',
+'<strong>Fax:</strong> (219) 791-9025</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 39.551167,
+         lon: -84.379126,
+         title: 'Middletown, OH',
+         html: [
+             '<h2>Middletown, OH</h2>',
+             '<address>4805 Hamilton Middletown Rd.</br>Liberty Township, OH 45011</address>',
+'<p><strong>Store Manager: </strong>Matthew McFadden</p>',
+'<p><strong>Phone:</strong> (513) 893-5483<br />',
+'<p><strong>Toll Free:</strong> (800) 949-3327<br />',
+'<strong>Fax:</strong> (513)893-5484</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 41.391811,
+         lon: -88.414611,
+         title: 'Morris, IL',
+         html: [
+             '<h2>Morris, IL</h2>',
+             '<address>460 Briscoe Dr.</br>Morris, IL 60450</address>',
+'<p><strong>Store Manager: </strong>Chuck Frazer</p>',
+'<p><strong>Phone:</strong> (815) 941-1549<br />',
+'<strong>Fax:</strong> (815) 941-1564</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 41.773799,
+         lon: -88.191063,
+         title: 'Naperville, IL',
+         html: [
+             '<h2>Naperville, IL</h2>',
+             '<address>1700 Quincy Ave.</br>Naperville, IL 60540</address>',
+'<p><strong>Store Manager: </strong>Matt Maslow</p>',
+'<p><strong>Phone:</strong> (630) 369-6520<br />',
+'<strong>Fax:</strong> (630) 369-1172</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 44.297881,
+         lon: -94.447196,
+         title: 'New Ulm, MN',
+         html: [
+             '<h2>New Ulm, MN</h2>',
+             '<address>1426 S. Broadway St.</br>New Ulm, MN 56073</address>',
+'<p><strong>Store Manager: </strong>Andy Schmiesing</p>',
+'<p><strong>Phone:</strong> (507) 354-4216<br />',
+'<strong>Fax:</strong> (507) 354-4461</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 41.480388,
+         lon: -87.846722,
+         title: 'Ottumwa, IA',
+         html: [
+             '<h2>Ottumwa, IA</h2>',
+             '<address>1111 Wildwood Dr.,</br>Ottumwa, IA 52501</address>',
+'<p><strong>Store Manager: </strong>Curtis Humphrey</p>',
+'<p><strong>Phone:</strong> (641) 683-1888<br />',
+'<strong>Fax:</strong> (866) 812-1610</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 42.493464,
+         lon: -96.388021,
+         title: 'Sioux City, IA',
+         html: [
+             '<h2>Sioux City, IA</h2>',
+             '<address>1717 3rd St.</br>Sioux City, IA 51101</address>',
+'<p><strong>Store Manager: </strong>Michael Searls</p>',
+'<p><strong>Phone:</strong> (712) 255-1900<br />',
+'<strong>Fax:</strong> (712) 255-3060</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 43.144448,
+         lon: -95.152067,
+         title: 'Spencer, IA',
+         html: [
+             '<h2>Spencer, IA</h2>',
+             '<address>427 West 7th St.</br>Spencer, IA 51301</address>',
+'<p><strong>Store Manager: </strong>Brett Holman</p>',
+'<p><strong>Phone:</strong> (712) 262-5210<br />',
+'<strong>Fax:</strong> (712) 262-5211</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 43.465637,
+         lon: -96.815200,
+         title: 'Tea, SD',
+         html: [
+             '<h2>Tea, SD</h2>',
+             '<address>27073 Kerslake Pl.</br>Tea, SD 57064</address>',
+'<p><strong>Store Manager: </strong>Jonathan Haan</p>',
+'<p><strong>Phone:</strong> (605) 368-2700<br />',
+'<p><strong>Toll Free:</strong> (866) 355-3979<br />',
+'<strong>Fax:</strong> (605) 368-2039</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     },
+{
+         lat: 42.860277,
+         lon: -85.683579,
+         title: 'Wyoming, MI',
+         html: [
+             '<h2>Wyoming, MI</h2>',
+             '<address>5770 Clyde Park Avenue SW.</br>Wyoming, MI 49509</address>',
+'<p><strong>Store Manager: </strong>Art Markle</p>',
+'<p><strong>Phone:</strong> (616) 249-9070<br />',
+'<p><strong>Toll Free:</strong> (866) 364-3641<br />',
+'<strong>Fax:</strong> (616) 249-9261</p>'
+         ].join(''),
+         zoom: 15,
+         icon: 'http://maps.google.com/mapfiles/marker.png'
+     }
+];
+new Maplace({
+      locations: LocsAB,
+     map_div: '#gmap',
+     controls_type: 'list',
+     controls_on_map: false
+}).Load();
+});
+</script>
