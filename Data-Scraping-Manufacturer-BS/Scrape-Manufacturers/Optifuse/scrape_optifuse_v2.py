@@ -80,26 +80,27 @@ for i, row in df.iterrows():
         except Exception as e:
             print('Image not found. ', e)
 
+        
+        # Create 'product' object to represent SKU
+        product = {
+            'sku': sku,
+            'image': image_file_name,
+            'quick_overview': quick_overview,
+            'details': details
+        }
+
+        print(product)
+        product_list.append(product)
+
     except Exception as e:
         print(e)
         print('SKU not found.')
         pass
 
-    # Create 'product' object to represent SKU
-    product = {
-        'sku': sku,
-        'image': image_file_name,
-        'quick_overview': quick_overview,
-        'details': details
-    }
-
-    print(product)
-    product_list.append(product)
-
     # Update Pandas dataframe
-    df['Image'] = image_file_name
-    df['Quick Overview'] = quick_overview
-    df['Details'] = details
+    df.loc[i, 'Image'] = image_file_name
+    df.loc[i, 'Quick Overview'] = quick_overview
+    df.loc[i, 'Details'] = details
 
     print(df.head())
 
