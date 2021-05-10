@@ -105,7 +105,7 @@ for i, row in df.iterrows():
     print(df.head())
 
 # Clean up extraneous characters
-bad_characters = ['Â', '\\n', '\\r', '\u00a0'] #u00a0 is "&nbsp;"
+bad_characters = ['Â', '\\n', '\\r', '&nbsp', u00a0] #u00a0 is "&nbsp;"
 df = df.replace(bad_characters, '')
 print(df.head())
 
