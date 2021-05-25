@@ -1,0 +1,732 @@
+﻿store,websites,attribute_set,Type,category_ids,category_names,48WS_product_id,sku,has_options,name,Group_Name,meta_title,meta_description,Image,small_image,thumbnail,url_key,url_path,custom_design,page_layout,options_container,image_label,small_image_label,thumbnail_label,gift_message_available,manufacturer_url,price,special_price,cost,weight,manufacturer,manufacturer_id,color,status,visibility,tax_class_id,enable_googlecheckout,is_recurring,description,short_description,summary,upc,size_info,meta_keyword,custom_layout_update,news_from_date,news_to_date,special_from_date,special_to_date,custom_design_from,custom_design_to,qty,min_qty,use_config_min_qty,is_qty_decimal,backorders,use_config_backorders,min_sale_qty,use_config_min_sale_qty,max_sale_qty,use_config_max_sale_qty,is_in_stock,low_stock_date,notify_stock_qty,use_config_notify_stock_qty,manage_stock,use_config_manage_stock,stock_status_changed_automatically,use_config_qty_increments,qty_increments,use_config_enable_qty_increments,enable_qty_increments,product_name,store_id,product_type_id,product_status_changed,product_changed_websites
+admin,base,Default,simple,"266|21759","Floats|Floats",105295,"4KS",,"Grout Float","","Grout Float","8&quot; x 4&quot; x 1/2&quot;",/\4\K\Harrington-Tools-4KS-Grout.jpg,/\4\K\Harrington-Tools-4KS-Grout.jpg,http://www.48ws.com/images/product/4/K/Harrington-Tools-4KS-Grout.jpg,Harrington-Tools-4KS-Grout-Float,Harrington-Tools-4KS-Grout-Float,,No layout updates.,Block after Info Column,,"Grout Float","Grout Float",Use config,"http://harringtontools.com/Page%2016%20Floats.html",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"8&quot; x 4&quot; x 1/2&quot;","Excellent for grout work, epoxy, latexes, and as a squeegee. Adhesives won't stick to non-rubber pad. Lifetime guaranteed handle.","","","Harrington Tools 4KS Grout Float","Grout Float",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"266|21759","Floats|Floats",105296,"5SX",,"Sponge Float","","Sponge Float","8 1/2&quot; x 4 1/2&quot; x 1/2&quot; - Coarse",/\5\S\Harrington-Tools-5SX-Sponge.jpg,/\5\S\Harrington-Tools-5SX-Sponge.jpg,http://www.48ws.com/images/product/5/S/Harrington-Tools-5SX-Sponge.jpg,Harrington-Tools-5SX-Sponge-Float,Harrington-Tools-5SX-Sponge-Float,,No layout updates.,Block after Info Column,,"Sponge Float","Sponge Float",Use config,"http://harringtontools.com/Page%2017%20Floats.html",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"8 1/2&quot; x 4 1/2&quot; x 1/2&quot; - Coarse","<br>
+Excellent plaster's float with extra thick sponge rubber face. One-piece polypropylene handle and back increases durability.","","","Harrington Tools 5SX Sponge Float","Sponge Float",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"266|21759","Floats|Floats",105297,"5PG",,"Soft Sponge Float","","Soft Sponge Float","9 1/2&quot; x 4&quot; x 1&quot; - Fine",/\5\P\Harrington-Tools-5PG-Soft-Sponge.jpg,/\5\P\Harrington-Tools-5PG-Soft-Sponge.jpg,http://www.48ws.com/images/product/5/P/Harrington-Tools-5PG-Soft-Sponge.jpg,Harrington-Tools-5PG-Soft-Sponge-Float,Harrington-Tools-5PG-Soft-Sponge-Float,,No layout updates.,Block after Info Column,,"Soft Sponge Float","Soft Sponge Float",Use config,"http://harringtontools.com/Page%2016%20Floats.html",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"9 1/2&quot; x 4&quot; x 1&quot; - Fine","<br>
+The fastest selling float in the industry. Used by plasterer's primarily as a texture float. Polypropylene handle and back prevent rusting and warping.","","","Harrington Tools 5PG Soft Sponge Float","Soft Sponge Float",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"266|21759","Floats|Floats",105298,"5PF",,"Plastic Float","","Plastic Float","9 1/2&quot; x 4&quot; x 3/4&quot; - Coarse",/\5\P\Harrington-Tools-5PF-Plastic.jpg,/\5\P\Harrington-Tools-5PF-Plastic.jpg,http://www.48ws.com/images/product/5/P/Harrington-Tools-5PF-Plastic.jpg,Harrington-Tools-5PF-Plastic-Float,Harrington-Tools-5PF-Plastic-Float,,No layout updates.,Block after Info Column,,"Plastic Float","Plastic Float",Use config,"http://harringtontools.com/Page%2016%20Floats.html",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"9 1/2&quot; x 4&quot; x 3/4&quot; - Coarse","<br>
+The fastest selling float in the industry. Used by plasterer's primarily as a texture float. Polypropylene handle and back prevent rusting and warping.","","","Harrington Tools 5PF Plastic Float","Plastic Float",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"19799","Squeegee Replacement Blades and Refills",105299,"114RB",,"Replacement Scraper Blade","","Replacement Scraper Blade","14&quot; x 5&quot;",/\1\1\Harrington-Tools-114RB-Replacement-Scraper.jpg,/\1\1\Harrington-Tools-114RB-Replacement-Scraper.jpg,http://www.48ws.com/images/product/1/1/Harrington-Tools-114RB-Replacement-Scraper.jpg,harrington-tools-114RB-replacement-scraper-blade,harrington-tools-114RB-replacement-scraper-blade,,No layout updates.,Block after Info Column,,"Replacement Scraper Blade","Replacement Scraper Blade",Use config,"http://harringtontools.com/Page%2015%20Cement.html",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"14&quot; x 5&quot;","<br>
+Extra heavy duty, long wearing blades will increase the life of your scraper. Buy several. Blades will fit either steel or wood handled scraper and are adaptable to most manufacturers scrapers.","","","Harrington Tools 114RB Replacement Scraper Blade","Replacement Scraper Blade",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"19799","Squeegee Replacement Blades and Refills",105300,"114S",,"Heavy Duty Floor Scraper w/ Blade","","Heavy Duty Floor Scraper w/ Blade","14&quot; x 5&quot;",/\1\1\Harrington-Tools-114S-Heavy-Duty-Floor-Scraper-w.jpg,/\1\1\Harrington-Tools-114S-Heavy-Duty-Floor-Scraper-w.jpg,http://www.48ws.com/images/product/1/1/Harrington-Tools-114S-Heavy-Duty-Floor-Scraper-w.jpg,harrington-tools-114S-heavy-duty-floor-scraper-w-blade,harrington-tools-114S-heavy-duty-floor-scraper-w-blade,,No layout updates.,Block after Info Column,,"Heavy Duty Floor Scraper w/ Blade","Heavy Duty Floor Scraper w/ Blade",Use config,"http://harringtontools.com/Page%2015%20Cement.html",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"14&quot; x 5&quot;","<br>
+These sturdy scrapers come with either steel or sturdy wood handles. three popular sizes in each style. High carbon steel heat treated for strength and durability. Heavy duty steel bracket and steel strip.","","","Harrington Tools 114S Heavy Duty Floor Scraper w/ Blade","Heavy Duty Floor Scraper w/ Blade",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"423|28095","Drywall Tools|Plaster Trowels",105301,"15B",,"Aluminum Hawk","Aluminum Hawk","Aluminum Hawk","13&quot; x 13&quot;",/\1\5\Harrington-Tools-Aluminum.jpg,/\1\5\Harrington-Tools-Aluminum.jpg,http://www.48ws.com/images/product/1/5/Harrington-Tools-Aluminum.jpg,Harrington-Tools-15B-Aluminum-Hawk,Harrington-Tools-15B-Aluminum-Hawk,,No layout updates.,Block after Info Column,,"Aluminum Hawk","Aluminum Hawk",Use config,"http://harringtontools.com/Page%2018%20Plaster.html",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","<br>Heavy duty aluminum designed to give long wear. Shank is secured with 6 aluminum rivets. Strong yet lightweight. Has a SOLID polypropylene handle which is much superior to those with a hollow handle.","","","13&quot; x 13&quot;","Aluminum Hawk",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"423|28095","Drywall Tools|Plaster Trowels",105302,"15E",,"Aluminum Hawk","Aluminum Hawk","Aluminum Hawk","13&quot; x 13&quot;",/\1\5\Harrington-Tools-Aluminum.jpg,/\1\5\Harrington-Tools-Aluminum.jpg,http://www.48ws.com/images/product/1/5/Harrington-Tools-Aluminum.jpg,Harrington-Tools-Aluminum-Hawk,Harrington-Tools-Aluminum-Hawk,,No layout updates.,Block after Info Column,,"Aluminum Hawk","Aluminum Hawk",Use config,"http://harringtontools.com/Page%2018%20Plaster.html",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington Tools Aluminum Hawk","<br>Heavy duty aluminum designed to give long wear. Shank is secured with 6 aluminum rivets. Strong yet lightweight. Has a SOLID polypropylene handle which is much superior to those with a hollow handle.","","","8&quot; x 8&quot;","Aluminum Hawk",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"423|21685","Drywall Tools|Drywall Specialty Tools",105303,"16B",,"Plaster Scarifier","","Plaster Scarifier","12&quot;",/\1\6\Harrington-Tools-16B-Plaster.jpg,/\1\6\Harrington-Tools-16B-Plaster.jpg,http://www.48ws.com/images/product/1/6/Harrington-Tools-16B-Plaster.jpg,Harrington-Tools-16B-Plaster-Scarifier,Harrington-Tools-16B-Plaster-Scarifier,,No layout updates.,Block after Info Column,,"Plaster Scarifier","Plaster Scarifier",Use config,"http://harringtontools.com/Page%2019%20Plaster.html",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"12&quot;","<br>
+Tempered steel tines are lightweight and easy to use yet will stand up under hard use. For scratch coat. Poly handle.","","","Harrington Tools 16B Plaster Scarifier","Plaster Scarifier",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"423|21685","Drywall Tools|Drywall Specialty Tools",105304,"GS50",,"Grout Saw","Grout Saw","Grout Saw","",/\G\S\Harrington-Tools-GS50-Grout.jpg,/\G\S\Harrington-Tools-GS50-Grout.jpg,http://www.48ws.com/images/product/G/S/Harrington-Tools-GS50-Grout.jpg,Harrington-Tools-GS50-Grout-Saw,Harrington-Tools-GS50-Grout-Saw,,No layout updates.,Block after Info Column,,"Grout Saw","Grout Saw",Use config,"http://harringtontools.com/Page%2028%20Tile.html",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","Long lasting carbide edged blade together with durable construction make this the preferred tool among tile men. Use 2 blades on wide grout joints.","","","12 Pack","Grout Saw",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"423|21685","Drywall Tools|Drywall Specialty Tools",105305,"GS50RP",,"Grout Saw","Grout Saw","Grout Saw","",/\G\S\Harrington-Tools-GS50-Grout.jpg,/\G\S\Harrington-Tools-GS50-Grout.jpg,http://www.48ws.com/images/product/G/S/Harrington-Tools-GS50-Grout.jpg,Harrington-Tools-Grout-Saw,Harrington-Tools-Grout-Saw,,No layout updates.,Block after Info Column,,"Grout Saw","Grout Saw",Use config,"http://harringtontools.com/Page%2028%20Tile.html",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington Tools Grout Saw","Long lasting carbide edged blade together with durable construction make this the preferred tool among tile men. Use 2 blades on wide grout joints.","","","2 Pack","Grout Saw",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23131","Manual Chain Hoists",630141,"CF005-10",,"HARRINGTON CF005-10 1/2TON 10 LIFT CHAIN HOIST","CF Hand Chain Hoist","HARRINGTON CF005-10 1/2TON 10 LIFT CHAIN HOIST","",/\C\F\harrington-tools-cf005-10-harrington-cf005-10-12ton-10-lift-chain-hoist.png,/\C\F\harrington-tools-cf005-10-harrington-cf005-10-12ton-10-lift-chain-hoist.png,http://www.48ws.com/images/product/C/F/harrington-tools-cf005-10-harrington-cf005-10-12ton-10-lift-chain-hoist.png,harrington-tools-CF005-10-harrington-cf005-10-12ton-10-lift-chain-hoist,harrington-tools-CF005-10-harrington-cf005-10-12ton-10-lift-chain-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON CF005-10 1/2TON 10 LIFT CHAIN HOIST","HARRINGTON CF005-10 1/2TON 10 LIFT CHAIN HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using
+fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and
+high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision
+machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service
+and low maintenance. Experience exceptional strength with a thick die-cast aluminum body.
+Handle tough demands with high-strength, heat-treated main pinion shaft and load gear.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components.
+Simplify maintenance with fewer parts and an easy-to-work-on design.","Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service and low maintenance. Experience exceptional strength with a thick die-cast aluminum body. Handle tough demands with high-strength, heat-treated main pinion shaft and load gear. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components. Simplify maintenance with fewer parts and an easy-to-work-on design.","<ul>
+<li>Capacity: 1/2 Ton</li>
+<li>Headroom: 12.8 in.</li>
+<li>Approx. Weight: 24 lbs.</li>
+<li>Lift: 10 ft.</li>
+<li>Pull Force: 60 lbs.</li>
+<li>Reeving: 1</li>
+</ul>","","<ul>
+<li>Capacity: 1/2 Ton</li>
+<li>Headroom: 12.8 in.</li>
+<li>Approx. Weight: 24 lbs.</li>
+<li>Lift: 10 ft.</li>
+<li>Pull Force: 60 lbs.</li>
+<li>Reeving: 1</li>
+</ul>","HARRINGTON CF005-10 1/2TON 10 LIFT CHAIN HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23131","Manual Chain Hoists",630142,"CF005-15",,"HARRINGTON CF005-15 1/2TON 15 LIFT CHAIN HOIST","CF Hand Chain Hoist","HARRINGTON CF005-15 1/2TON 15 LIFT CHAIN HOIST","",/\C\F\harrington-tools-cf005-15-harrington-cf005-15-12ton-15-lift-chain-hoist.png,/\C\F\harrington-tools-cf005-15-harrington-cf005-15-12ton-15-lift-chain-hoist.png,http://www.48ws.com/images/product/C/F/harrington-tools-cf005-15-harrington-cf005-15-12ton-15-lift-chain-hoist.png,harrington-tools-CF005-15-harrington-cf005-15-12ton-15-lift-chain-hoist,harrington-tools-CF005-15-harrington-cf005-15-12ton-15-lift-chain-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON CF005-15 1/2TON 15 LIFT CHAIN HOIST","HARRINGTON CF005-15 1/2TON 15 LIFT CHAIN HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using
+fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and
+high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision
+machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service
+and low maintenance. Experience exceptional strength with a thick die-cast aluminum body.
+Handle tough demands with high-strength, heat-treated main pinion shaft and load gear.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components.
+Simplify maintenance with fewer parts and an easy-to-work-on design.","Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service and low maintenance. Experience exceptional strength with a thick die-cast aluminum body. Handle tough demands with high-strength, heat-treated main pinion shaft and load gear. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components. Simplify maintenance with fewer parts and an easy-to-work-on design.","<ul>
+<li>Capacity: 1/2 Ton</li>
+<li>Headroom: 12.8 in.</li>
+<li>Approx. Weight: 29 lbs.</li>
+<li>Lift: 15 ft.</li>
+<li>Pull Force: 60 lbs.</li>
+<li>Reeving: 1</li>
+</ul>","","<ul>
+<li>Capacity: 1/2 Ton</li>
+<li>Headroom: 12.8 in.</li>
+<li>Approx. Weight: 29 lbs.</li>
+<li>Lift: 15 ft.</li>
+<li>Pull Force: 60 lbs.</li>
+<li>Reeving: 1</li>
+</ul>","HARRINGTON CF005-15 1/2TON 15 LIFT CHAIN HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23131","Manual Chain Hoists",630143,"CF010-10",,"HARRINGTON CF010-10 1TON 10 LIFT CHAIN HOIST","CF Hand Chain Hoist","HARRINGTON CF010-10 1TON 10 LIFT CHAIN HOIST","",/\C\F\harrington-tools-cf010-10-harrington-cf010-10-1ton-10-lift-chain-hoist.png,/\C\F\harrington-tools-cf010-10-harrington-cf010-10-1ton-10-lift-chain-hoist.png,http://www.48ws.com/images/product/C/F/harrington-tools-cf010-10-harrington-cf010-10-1ton-10-lift-chain-hoist.png,harrington-tools-CF010-10-harrington-cf010-10-1ton-10-lift-chain-hoist,harrington-tools-CF010-10-harrington-cf010-10-1ton-10-lift-chain-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON CF010-10 1TON 10 LIFT CHAIN HOIST","HARRINGTON CF010-10 1TON 10 LIFT CHAIN HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using
+fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and
+high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision
+machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service
+and low maintenance. Experience exceptional strength with a thick die-cast aluminum body.
+Handle tough demands with high-strength, heat-treated main pinion shaft and load gear.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components.
+Simplify maintenance with fewer parts and an easy-to-work-on design.","Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service and low maintenance. Experience exceptional strength with a thick die-cast aluminum body. Handle tough demands with high-strength, heat-treated main pinion shaft and load gear. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components. Simplify maintenance with fewer parts and an easy-to-work-on design.","<ul>
+<li>Capacity: 1 Ton</li>
+<li>Headroom: 14.6 in.</li>
+<li>Approx. Weight: 29 lbs.</li>
+<li>Lift: 10 ft.</li>
+<li>Pull Force: 72 lbs.</li>
+<li>Reeving: 1</li>
+</ul>","","<ul>
+<li>Capacity: 1 Ton</li>
+<li>Headroom: 14.6 in.</li>
+<li>Approx. Weight: 29 lbs.</li>
+<li>Lift: 10 ft.</li>
+<li>Pull Force: 72 lbs.</li>
+<li>Reeving: 1</li>
+</ul>","HARRINGTON CF010-10 1TON 10 LIFT CHAIN HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23131","Manual Chain Hoists",630144,"CF010-15",,"HARRINGTON CF010-15 1TON 15 LIFT CHAIN HOIST","CF Hand Chain Hoist","HARRINGTON CF010-15 1TON 15 LIFT CHAIN HOIST","",/\C\F\harrington-tools-cf010-15-harrington-cf010-15-1ton-15-lift-chain-hoist.png,/\C\F\harrington-tools-cf010-15-harrington-cf010-15-1ton-15-lift-chain-hoist.png,http://www.48ws.com/images/product/C/F/harrington-tools-cf010-15-harrington-cf010-15-1ton-15-lift-chain-hoist.png,harrington-tools-CF010-15-harrington-cf010-15-1ton-15-lift-chain-hoist,harrington-tools-CF010-15-harrington-cf010-15-1ton-15-lift-chain-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON CF010-15 1TON 15 LIFT CHAIN HOIST","HARRINGTON CF010-15 1TON 15 LIFT CHAIN HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using
+fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and
+high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision
+machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service
+and low maintenance. Experience exceptional strength with a thick die-cast aluminum body.
+Handle tough demands with high-strength, heat-treated main pinion shaft and load gear.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components.
+Simplify maintenance with fewer parts and an easy-to-work-on design.","Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service and low maintenance. Experience exceptional strength with a thick die-cast aluminum body. Handle tough demands with high-strength, heat-treated main pinion shaft and load gear. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components. Simplify maintenance with fewer parts and an easy-to-work-on design.","<ul>
+<li>Capacity: 1 Ton</li>
+<li>Headroom: 14.6 in.</li>
+<li>Approx. Weight: 35 lbs.</li>
+<li>Lift: 15 ft.</li>
+<li>Pull Force: 72 lbs.</li>
+<li>Reeving: 1</li>
+</ul>","","<ul>
+<li>Capacity: 1 Ton</li>
+<li>Headroom: 14.6 in.</li>
+<li>Approx. Weight: 35 lbs.</li>
+<li>Lift: 15 ft.</li>
+<li>Pull Force: 72 lbs.</li>
+<li>Reeving: 1</li>
+</ul>","HARRINGTON CF010-15 1TON 15 LIFT CHAIN HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23131","Manual Chain Hoists",630145,"CF015-10",,"HARRINGTON CF015-10 1-1/2TON CHAIN HOIST WITH 10 LIFT","CF Hand Chain Hoist","HARRINGTON CF015-10 1-1/2TON CHAIN HOIST WITH 10 LIFT","",/\C\F\harrington-tools-cf015-10-harrington-cf015-10-1-12ton-chain-hoist-with-10-lift.png,/\C\F\harrington-tools-cf015-10-harrington-cf015-10-1-12ton-chain-hoist-with-10-lift.png,http://www.48ws.com/images/product/C/F/harrington-tools-cf015-10-harrington-cf015-10-1-12ton-chain-hoist-with-10-lift.png,harrington-tools-CF015-10-harrington-cf015-10-1-12ton-chain-hoist-with-10-lift,harrington-tools-CF015-10-harrington-cf015-10-1-12ton-chain-hoist-with-10-lift,,No layout updates.,Block after Info Column,,"HARRINGTON CF015-10 1-1/2TON CHAIN HOIST WITH 10 LIFT","HARRINGTON CF015-10 1-1/2TON CHAIN HOIST WITH 10 LIFT",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using
+fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and
+high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision
+machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service
+and low maintenance. Experience exceptional strength with a thick die-cast aluminum body.
+Handle tough demands with high-strength, heat-treated main pinion shaft and load gear.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components.
+Simplify maintenance with fewer parts and an easy-to-work-on design.","Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service and low maintenance. Experience exceptional strength with a thick die-cast aluminum body. Handle tough demands with high-strength, heat-treated main pinion shaft and load gear. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components. Simplify maintenance with fewer parts and an easy-to-work-on design.","<ul>
+<li>Capacity: 1 1/2 Ton</li>
+<li>Headroom: 17.3 in.</li>
+<li>Approx. Weight: 40 lbs.</li>
+<li>Lift: 10 ft.</li>
+<li>Pull Force: 84 lbs.</li>
+<li>Reeving: 1</li>
+</ul>","","<ul>
+<li>Capacity: 1 1/2 Ton</li>
+<li>Headroom: 17.3 in.</li>
+<li>Approx. Weight: 40 lbs.</li>
+<li>Lift: 10 ft.</li>
+<li>Pull Force: 84 lbs.</li>
+<li>Reeving: 1</li>
+</ul>","HARRINGTON CF015-10 1-1/2TON CHAIN HOIST WITH 10 LIFT",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23131","Manual Chain Hoists",630146,"CF020-15",,"HARRINGTON CF020-15 2TON 15 LIFT CHAIN HOIST","CF Hand Chain Hoist","HARRINGTON CF020-15 2TON 15 LIFT CHAIN HOIST","",/\C\F\harrington-tools-cf020-15-harrington-cf020-15-2ton-15-lift-chain-hoist.png,/\C\F\harrington-tools-cf020-15-harrington-cf020-15-2ton-15-lift-chain-hoist.png,http://www.48ws.com/images/product/C/F/harrington-tools-cf020-15-harrington-cf020-15-2ton-15-lift-chain-hoist.png,harrington-tools-CF020-15-harrington-cf020-15-2ton-15-lift-chain-hoist,harrington-tools-CF020-15-harrington-cf020-15-2ton-15-lift-chain-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON CF020-15 2TON 15 LIFT CHAIN HOIST","HARRINGTON CF020-15 2TON 15 LIFT CHAIN HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using
+fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and
+high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision
+machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service
+and low maintenance. Experience exceptional strength with a thick die-cast aluminum body.
+Handle tough demands with high-strength, heat-treated main pinion shaft and load gear.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components.
+Simplify maintenance with fewer parts and an easy-to-work-on design.","Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service and low maintenance. Experience exceptional strength with a thick die-cast aluminum body. Handle tough demands with high-strength, heat-treated main pinion shaft and load gear. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components. Simplify maintenance with fewer parts and an easy-to-work-on design.","<ul>
+<li>Capacity: 2 Ton</li>
+<li>Headroom: 20.1 in.</li>
+<li>Approx. Weight: 56 lbs.</li>
+<li>Lift: 15 ft.</li>
+<li>Pull Force: 80 lbs.</li>
+<li>Reeving: 2</li>
+</ul>","","<ul>
+<li>Capacity: 2 Ton</li>
+<li>Headroom: 20.1 in.</li>
+<li>Approx. Weight: 56 lbs.</li>
+<li>Lift: 15 ft.</li>
+<li>Pull Force: 80 lbs.</li>
+<li>Reeving: 2</li>
+</ul>","HARRINGTON CF020-15 2TON 15 LIFT CHAIN HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23131","Manual Chain Hoists",630147,"CF020-20",,"HARRINGTON CF020-20 2TON 20 LIFT CHAIN HOIST","CF Hand Chain Hoist","HARRINGTON CF020-20 2TON 20 LIFT CHAIN HOIST","",/\C\F\harrington-tools-cf020-20-harrington-cf020-20-2ton-20-lift-chain-hoist.png,/\C\F\harrington-tools-cf020-20-harrington-cf020-20-2ton-20-lift-chain-hoist.png,http://www.48ws.com/images/product/C/F/harrington-tools-cf020-20-harrington-cf020-20-2ton-20-lift-chain-hoist.png,harrington-tools-CF020-20-harrington-cf020-20-2ton-20-lift-chain-hoist,harrington-tools-CF020-20-harrington-cf020-20-2ton-20-lift-chain-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON CF020-20 2TON 20 LIFT CHAIN HOIST","HARRINGTON CF020-20 2TON 20 LIFT CHAIN HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using
+fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and
+high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision
+machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service
+and low maintenance. Experience exceptional strength with a thick die-cast aluminum body.
+Handle tough demands with high-strength, heat-treated main pinion shaft and load gear.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components.
+Simplify maintenance with fewer parts and an easy-to-work-on design.","Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service and low maintenance. Experience exceptional strength with a thick die-cast aluminum body. Handle tough demands with high-strength, heat-treated main pinion shaft and load gear. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components. Simplify maintenance with fewer parts and an easy-to-work-on design.","<ul>
+<li>Capacity: 2 Ton</li>
+<li>Headroom: 20.1 in.</li>
+<li>Approx. Weight: 65 lbs.</li>
+<li>Lift: 20 ft.</li>
+<li>Pull Force: 80 lbs.</li>
+<li>Reeving: 2</li>
+</ul>","","<ul>
+<li>Capacity: 2 Ton</li>
+<li>Headroom: 20.1 in.</li>
+<li>Approx. Weight: 65 lbs.</li>
+<li>Lift: 20 ft.</li>
+<li>Pull Force: 80 lbs.</li>
+<li>Reeving: 2</li>
+</ul>","HARRINGTON CF020-20 2TON 20 LIFT CHAIN HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23131","Manual Chain Hoists",630148,"CF030-15",,"HARRINGTON CF030-15 3TON 15 LIFT HAND CHAIN HOIST","CF Hand Chain Hoist","HARRINGTON CF030-15 3TON 15 LIFT HAND CHAIN HOIST","",/\C\F\harrington-tools-cf030-15-harrington-cf030-15-3ton-15-lift-hand-chain-hoist.png,/\C\F\harrington-tools-cf030-15-harrington-cf030-15-3ton-15-lift-hand-chain-hoist.png,http://www.48ws.com/images/product/C/F/harrington-tools-cf030-15-harrington-cf030-15-3ton-15-lift-hand-chain-hoist.png,harrington-tools-CF030-15-harrington-cf030-15-3ton-15-lift-hand-chain-hoist,harrington-tools-CF030-15-harrington-cf030-15-3ton-15-lift-hand-chain-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON CF030-15 3TON 15 LIFT HAND CHAIN HOIST","HARRINGTON CF030-15 3TON 15 LIFT HAND CHAIN HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using
+fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and
+high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision
+machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service
+and low maintenance. Experience exceptional strength with a thick die-cast aluminum body.
+Handle tough demands with high-strength, heat-treated main pinion shaft and load gear.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components.
+Simplify maintenance with fewer parts and an easy-to-work-on design.","Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service and low maintenance. Experience exceptional strength with a thick die-cast aluminum body. Handle tough demands with high-strength, heat-treated main pinion shaft and load gear. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components. Simplify maintenance with fewer parts and an easy-to-work-on design.","<ul>
+<li>Capacity: 3 Ton</li>
+<li>Headroom: 23.2 in.</li>
+<li>Approx. Weight: 72.5 lbs.</li>
+<li>Lift: 15 ft.</li>
+<li>Pull Force: 92 lbs.</li>
+<li>Reeving: 2</li>
+</ul>","","<ul>
+<li>Capacity: 3 Ton</li>
+<li>Headroom: 23.2 in.</li>
+<li>Approx. Weight: 72.5 lbs.</li>
+<li>Lift: 15 ft.</li>
+<li>Pull Force: 92 lbs.</li>
+<li>Reeving: 2</li>
+</ul>","HARRINGTON CF030-15 3TON 15 LIFT HAND CHAIN HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23131","Manual Chain Hoists",630149,"CF050-10",,"HARRINGTON CF050-10 5TON CHAIN HOIST 10 LIFT 10 PULL","CF Hand Chain Hoist","HARRINGTON CF050-10 5TON CHAIN HOIST 10 LIFT 10 PULL","",/\C\F\harrington-tools-cf050-10-harrington-cf050-10-5ton-chain-hoist-10-lift-10-pull.png,/\C\F\harrington-tools-cf050-10-harrington-cf050-10-5ton-chain-hoist-10-lift-10-pull.png,http://www.48ws.com/images/product/C/F/harrington-tools-cf050-10-harrington-cf050-10-5ton-chain-hoist-10-lift-10-pull.png,harrington-tools-CF050-10-harrington-cf050-10-5ton-chain-hoist-10-lift-10-pull,harrington-tools-CF050-10-harrington-cf050-10-5ton-chain-hoist-10-lift-10-pull,,No layout updates.,Block after Info Column,,"HARRINGTON CF050-10 5TON CHAIN HOIST 10 LIFT 10 PULL","HARRINGTON CF050-10 5TON CHAIN HOIST 10 LIFT 10 PULL",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using
+fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and
+high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision
+machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service
+and low maintenance. Experience exceptional strength with a thick die-cast aluminum body.
+Handle tough demands with high-strength, heat-treated main pinion shaft and load gear.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components.
+Simplify maintenance with fewer parts and an easy-to-work-on design.","Harrington CF hand chain hoists give you a practical alternative thanks to an economical design using fewer parts for trouble-free service. Outstanding durability is due to a die-cast aluminum body and high-strength, heat-treated main pinion shaft and load gear. Pre-lubricated ball bearings, precision machined gears, and Weston-style load brake make lifting smooth and easy while allowing long service and low maintenance. Experience exceptional strength with a thick die-cast aluminum body. Handle tough demands with high-strength, heat-treated main pinion shaft and load gear. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces.
+Minimize manual effort thanks to smooth running, pre-lubricated ball bearings, and precision machined drive train components. Simplify maintenance with fewer parts and an easy-to-work-on design.","<ul>
+<li>Capacity: 5 Ton</li>
+<li>Headroom: 24.4 in.</li>
+<li>Approx. Weight: 82 lbs.</li>
+<li>Lift: 10 ft.</li>
+<li>Pull Force: 92 lbs.</li>
+<li>Reeving: 3</li>
+</ul>","","<ul>
+<li>Capacity: 5 Ton</li>
+<li>Headroom: 24.4 in.</li>
+<li>Approx. Weight: 82 lbs.</li>
+<li>Lift: 10 ft.</li>
+<li>Pull Force: 92 lbs.</li>
+<li>Reeving: 3</li>
+</ul>","HARRINGTON CF050-10 5TON CHAIN HOIST 10 LIFT 10 PULL",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23131","Manual Chain Hoists",630150,"CX003-10",,"HARRINGTON CX003-10 1/4TON MINI HAND HOIST 10 LIFT","CX Mini Hand Chain Hoist","HARRINGTON CX003-10 1/4TON MINI HAND HOIST 10 LIFT","",/\C\X\harrington-tools-cx003-10-harrington-cx003-10-14ton-mini-hand-hoist-10-lift.jpg,/\C\X\harrington-tools-cx003-10-harrington-cx003-10-14ton-mini-hand-hoist-10-lift.jpg,http://www.48ws.com/images/product/C/X/harrington-tools-cx003-10-harrington-cx003-10-14ton-mini-hand-hoist-10-lift.jpg,harrington-tools-CX003-10-harrington-cx003-10-14ton-mini-hand-hoist-10-lift,harrington-tools-CX003-10-harrington-cx003-10-14ton-mini-hand-hoist-10-lift,,No layout updates.,Block after Info Column,,"HARRINGTON CX003-10 1/4TON MINI HAND HOIST 10 LIFT","HARRINGTON CX003-10 1/4TON MINI HAND HOIST 10 LIFT",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington’s CX mini hand chain hoist is the world’s smallest industrial hoist. This uniquely compact and
+lightweight hoist is the perfect choice for jobs with light loads in high or difficult to reach places such as
+duct installation, plumbing and heating, home automobile maintenance and crane repair. Unique design is extremely compact and lightweight
+Aluminum body with steel frame provides superior strength.
+Load limiter prevents the hoist from being used to lift damaging loads beyond rated capacity.
+Very low force is required to lift load.
+Metal chain guide allows smooth operation.
+Effortless to transport, install and store. ","Harrington’s CX mini hand chain hoist is the world’s smallest industrial hoist. This uniquely compact and lightweight hoist is the perfect choice for jobs with light loads in high or difficult to reach places such as duct installation, plumbing and heating, home automobile maintenance and crane repair. Unique design is extremely compact and lightweight Aluminum body with steel frame provides superior strength. Load limiter prevents the hoist from being used to lift damaging loads beyond rated capacity. Very low force is required to lift load. Metal chain guide allows smooth operation. Effortless to transport, install and store. ","<ul>
+<li>Capacity: 1/4 Ton</li>
+<li>Headroom: 8.5 in.</li>
+<li>Pull Force: 33 lbs.</li>
+<li>Reeving: 1</li>
+<li>Approx. Weight: 6.5 lbs.</li>
+</ul>","","<ul>
+<li>Lift: 10 ft.</li>
+</ul>","HARRINGTON CX003-10 1/4TON MINI HAND HOIST 10 LIFT",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23131","Manual Chain Hoists",630151,"CX003-5",,"HARRINGTON CX003-5 1/4TON 5 CHAIN HOIST","CX Mini Hand Chain Hoist","HARRINGTON CX003-5 1/4TON 5 CHAIN HOIST","",/\C\X\harrington-tools-cx003-5-harrington-cx003-5-14ton-5-chain-hoist.jpg,/\C\X\harrington-tools-cx003-5-harrington-cx003-5-14ton-5-chain-hoist.jpg,http://www.48ws.com/images/product/C/X/harrington-tools-cx003-5-harrington-cx003-5-14ton-5-chain-hoist.jpg,harrington-tools-CX003-5-harrington-cx003-5-14ton-5-chain-hoist,harrington-tools-CX003-5-harrington-cx003-5-14ton-5-chain-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON CX003-5 1/4TON 5 CHAIN HOIST","HARRINGTON CX003-5 1/4TON 5 CHAIN HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington’s CX mini hand chain hoist is the world’s smallest industrial hoist. This uniquely compact and
+lightweight hoist is the perfect choice for jobs with light loads in high or difficult to reach places such as
+duct installation, plumbing and heating, home automobile maintenance and crane repair. Unique design is extremely compact and lightweight
+Aluminum body with steel frame provides superior strength.
+Load limiter prevents the hoist from being used to lift damaging loads beyond rated capacity.
+Very low force is required to lift load.
+Metal chain guide allows smooth operation.
+Effortless to transport, install and store. ","Harrington’s CX mini hand chain hoist is the world’s smallest industrial hoist. This uniquely compact and lightweight hoist is the perfect choice for jobs with light loads in high or difficult to reach places such as duct installation, plumbing and heating, home automobile maintenance and crane repair. Unique design is extremely compact and lightweight Aluminum body with steel frame provides superior strength. Load limiter prevents the hoist from being used to lift damaging loads beyond rated capacity. Very low force is required to lift load. Metal chain guide allows smooth operation. Effortless to transport, install and store. ","<ul>
+<li>Capacity: 1/4 Ton</li>
+<li>Headroom: 8.5 in.</li>
+<li>Pull Force: 33 lbs.</li>
+<li>Reeving: 1</li>
+<li>Approx. Weight: 6.5 lbs.</li>
+</ul>","","<ul>
+<li>Lift: 5 ft.</li>
+</ul>","HARRINGTON CX003-5 1/4TON 5 CHAIN HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630152,"L5LB008-5",,"HARRINGTON L5LB008-5 3/4TON 5 LIFT LEVER PULLER","LB Lever Hoists","HARRINGTON L5LB008-5 3/4TON 5 LIFT LEVER PULLER","",/\L\5\harrington-tools-l5lb008-5-harrington-l5lb008-5-34ton-5-lift-lever-puller.jpg,/\L\5\harrington-tools-l5lb008-5-harrington-l5lb008-5-34ton-5-lift-lever-puller.jpg,http://www.48ws.com/images/product/L/5/harrington-tools-l5lb008-5-harrington-l5lb008-5-34ton-5-lift-lever-puller.jpg,harrington-tools-L5LB008-5-harrington-l5lb008-5-34ton-5-lift-lever-puller,harrington-tools-L5LB008-5-harrington-l5lb008-5-34ton-5-lift-lever-puller,,No layout updates.,Block after Info Column,,"HARRINGTON L5LB008-5 3/4TON 5 LIFT LEVER PULLER","HARRINGTON L5LB008-5 3/4TON 5 LIFT LEVER PULLER",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li> Lever Length: 9.6 Inch</li>
+<li> Lift: 5 ft</li>
+<li> Load Capacity: 3/4 ton</li>
+<li> Headroom: 11 Inch</li>
+<li> Required Pounds Of Pull To Lift Capacity: 54 lb</li>
+</ul>","HARRINGTON L5LB008-5 3/4TON 5 LIFT LEVER PULLER",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630153,"L5LB010-10",,"HARRINGTON L5LB010-10 LB010-10 1TON 10 LIFT LEVER HOIST","LB Lever Hoists","HARRINGTON L5LB010-10 LB010-10 1TON 10 LIFT LEVER HOIST","",/\L\5\harrington-tools-l5lb010-10-harrington-l5lb010-10-lb010-10-1ton-10-lift-lever-hoist.jpg,/\L\5\harrington-tools-l5lb010-10-harrington-l5lb010-10-lb010-10-1ton-10-lift-lever-hoist.jpg,http://www.48ws.com/images/product/L/5/harrington-tools-l5lb010-10-harrington-l5lb010-10-lb010-10-1ton-10-lift-lever-hoist.jpg,harrington-tools-L5LB010-10-harrington-l5lb010-10-lb010-10-1ton-10-lift-lever-hoist,harrington-tools-L5LB010-10-harrington-l5lb010-10-lb010-10-1ton-10-lift-lever-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON L5LB010-10 LB010-10 1TON 10 LIFT LEVER HOIST","HARRINGTON L5LB010-10 LB010-10 1TON 10 LIFT LEVER HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li> Load Capacity 2000 lb.</li>
+<li> Hoist Lift 10 ft.</li>
+<li> Hook Opening 1-1/8 In.</li>
+<li> Pull to Lift Rated Load 72 lb.</li>
+<li> Lever Length 9-5/8 In.</li>
+<li> Chain Length 11 ft.</li>
+</ul>","HARRINGTON L5LB010-10 LB010-10 1TON 10 LIFT LEVER HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630154,"L5LB015-15",,"HARRINGTON L5LB015-15 LB015-15 1-1/2TON 15 LIFT LEVER HOIST","LB Lever Hoists","HARRINGTON L5LB015-15 LB015-15 1-1/2TON 15 LIFT LEVER HOIST","",/\L\5\harrington-tools-l5lb015-15-harrington-l5lb015-15-lb015-15-1-12ton-15-lift-lever-hoist.jpg,/\L\5\harrington-tools-l5lb015-15-harrington-l5lb015-15-lb015-15-1-12ton-15-lift-lever-hoist.jpg,http://www.48ws.com/images/product/L/5/harrington-tools-l5lb015-15-harrington-l5lb015-15-lb015-15-1-12ton-15-lift-lever-hoist.jpg,harrington-tools-L5LB015-15-harrington-l5lb015-15-lb015-15-1-12ton-15-lift-lever-hoist,harrington-tools-L5LB015-15-harrington-l5lb015-15-lb015-15-1-12ton-15-lift-lever-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON L5LB015-15 LB015-15 1-1/2TON 15 LIFT LEVER HOIST","HARRINGTON L5LB015-15 LB015-15 1-1/2TON 15 LIFT LEVER HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Capacity: 1.5-Ton (3000 Lbs.)</li>
+<li> Lift: 15 Feet (Single Reeved)</li>
+<li> Headroom: 13.8”</li>
+<li> Pull to Lift: 58 Lbs.</li>
+<li> Weight: 25 Lbs.</li>
+</ul>","HARRINGTON L5LB015-15 LB015-15 1-1/2TON 15 LIFT LEVER HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630155,"L5LB020-10",,"HARRINGTON L5LB020-10 LB020-10 2TON 10 LIFT LEVER PULLER","LB Lever Hoists","HARRINGTON L5LB020-10 LB020-10 2TON 10 LIFT LEVER PULLER","",/\L\5\harrington-tools-l5lb020-10-harrington-l5lb020-10-lb020-10-2ton-10-lift-lever-puller.jpg,/\L\5\harrington-tools-l5lb020-10-harrington-l5lb020-10-lb020-10-2ton-10-lift-lever-puller.jpg,http://www.48ws.com/images/product/L/5/harrington-tools-l5lb020-10-harrington-l5lb020-10-lb020-10-2ton-10-lift-lever-puller.jpg,harrington-tools-L5LB020-10-harrington-l5lb020-10-lb020-10-2ton-10-lift-lever-puller,harrington-tools-L5LB020-10-harrington-l5lb020-10-lb020-10-2ton-10-lift-lever-puller,,No layout updates.,Block after Info Column,,"HARRINGTON L5LB020-10 LB020-10 2TON 10 LIFT LEVER PULLER","HARRINGTON L5LB020-10 LB020-10 2TON 10 LIFT LEVER PULLER",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li> Load Capacity 4000 lb.</li>
+<li> Hoist Lift 10 ft.</li>
+<li> Hook Opening 1-11/25 In.</li>
+<li> Min. Between Hooks 14-13/16 In.</li>
+<li> Lever Length 10-13/32 In.</li>
+<li> Chain Length 11 ft.</li>
+</ul>","HARRINGTON L5LB020-10 LB020-10 2TON 10 LIFT LEVER PULLER",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630156,"L5LB020-20",,"HARRINGTON L5LB020-20 LB020-20 2TON 20 LIFT LEVER HOIST","LB Lever Hoists","HARRINGTON L5LB020-20 LB020-20 2TON 20 LIFT LEVER HOIST","",/\L\5\harrington-tools-l5lb020-20-harrington-l5lb020-20-lb020-20-2ton-20-lift-lever-hoist.jpg,/\L\5\harrington-tools-l5lb020-20-harrington-l5lb020-20-lb020-20-2ton-20-lift-lever-hoist.jpg,http://www.48ws.com/images/product/L/5/harrington-tools-l5lb020-20-harrington-l5lb020-20-lb020-20-2ton-20-lift-lever-hoist.jpg,harrington-tools-L5LB020-20-harrington-l5lb020-20-lb020-20-2ton-20-lift-lever-hoist,harrington-tools-L5LB020-20-harrington-l5lb020-20-lb020-20-2ton-20-lift-lever-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON L5LB020-20 LB020-20 2TON 20 LIFT LEVER HOIST","HARRINGTON L5LB020-20 LB020-20 2TON 20 LIFT LEVER HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 4000 lb.</li>
+<li>Hook Opening: 1-7/16&quot;</li>
+<li>Chain Length: 21 ft.</li>
+<li>Lever Length: 10-13/32&quot;</li>
+<li>Hoist Lift: 20 ft.</li>
+<li>Min. Between Hooks: 14-13/16&quot;</li>
+</ul>","HARRINGTON L5LB020-20 LB020-20 2TON 20 LIFT LEVER HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630157,"L5LB030-5",,"HARRINGTON L5LB030-5 LB030-5 3TON 5 LIFT LEVER PULLER","LB Lever Hoists","HARRINGTON L5LB030-5 LB030-5 3TON 5 LIFT LEVER PULLER","",/\L\5\harrington-tools-l5lb030-5-harrington-l5lb030-5-lb030-5-3ton-5-lift-lever-puller.jpg,/\L\5\harrington-tools-l5lb030-5-harrington-l5lb030-5-lb030-5-3ton-5-lift-lever-puller.jpg,http://www.48ws.com/images/product/L/5/harrington-tools-l5lb030-5-harrington-l5lb030-5-lb030-5-3ton-5-lift-lever-puller.jpg,harrington-tools-L5LB030-5-harrington-l5lb030-5-lb030-5-3ton-5-lift-lever-puller,harrington-tools-L5LB030-5-harrington-l5lb030-5-lb030-5-3ton-5-lift-lever-puller,,No layout updates.,Block after Info Column,,"HARRINGTON L5LB030-5 LB030-5 3TON 5 LIFT LEVER PULLER","HARRINGTON L5LB030-5 LB030-5 3TON 5 LIFT LEVER PULLER",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 6000 lb.</li>
+<li>Hook Opening: 1-1/2&quot;</li>
+<li>Chain Length: 6 ft.</li>
+<li>Lever Length: 16-5/16&quot;</li>
+<li>Hoist Lift: 5 ft.</li>
+<li>Min. Between Hooks: 15-39/64&quot;</li>
+</ul>","HARRINGTON L5LB030-5 LB030-5 3TON 5 LIFT LEVER PULLER",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630158,"LB008-10",,"HARRINGTON LB008-10 3/4TON PULLER 10 LIFT","LB Lever Hoists","HARRINGTON LB008-10 3/4TON PULLER 10 LIFT","",/\L\B\harrington-tools-lb008-10-harrington-lb008-10-34ton-puller-10-lift.jpg,/\L\B\harrington-tools-lb008-10-harrington-lb008-10-34ton-puller-10-lift.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb008-10-harrington-lb008-10-34ton-puller-10-lift.jpg,harrington-tools-LB008-10-harrington-lb008-10-34ton-puller-10-lift,harrington-tools-LB008-10-harrington-lb008-10-34ton-puller-10-lift,,No layout updates.,Block after Info Column,,"HARRINGTON LB008-10 3/4TON PULLER 10 LIFT","HARRINGTON LB008-10 3/4TON PULLER 10 LIFT",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 1500 lb.</li>
+<li>Hook Opening: 7/8&quot;</li>
+<li>Chain Length: 11 ft.</li>
+<li>Lever Length: 9-5/8&quot;</li>
+<li>Hoist Lift: 10 ft.</li>
+<li>Min. Between Hooks: 11&quot;</li>
+</ul>","HARRINGTON LB008-10 3/4TON PULLER 10 LIFT",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630159,"LB008-15",,"HARRINGTON LB008-15 3/4TON LEVER HOIST 15 LIFT","LB Lever Hoists","HARRINGTON LB008-15 3/4TON LEVER HOIST 15 LIFT","",/\L\B\harrington-tools-lb008-15-harrington-lb008-15-34ton-lever-hoist-15-lift.jpg,/\L\B\harrington-tools-lb008-15-harrington-lb008-15-34ton-lever-hoist-15-lift.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb008-15-harrington-lb008-15-34ton-lever-hoist-15-lift.jpg,harrington-tools-LB008-15-harrington-lb008-15-34ton-lever-hoist-15-lift,harrington-tools-LB008-15-harrington-lb008-15-34ton-lever-hoist-15-lift,,No layout updates.,Block after Info Column,,"HARRINGTON LB008-15 3/4TON LEVER HOIST 15 LIFT","HARRINGTON LB008-15 3/4TON LEVER HOIST 15 LIFT",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li> 3/4 ton</li>
+<li> 15 ft Lifting Height</li>
+<li> 11 in Minimum Between Hooks</li>
+<li> 0.9 in Hook Opening</li>
+<li> 54 lb Pull to Lift</li>
+<li> 9.6 in Lever Length</li>
+</ul>","HARRINGTON LB008-15 3/4TON LEVER HOIST 15 LIFT",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630160,"LB008-20",,"HARRINGTON LB008-20 3/4TON 20 LIFT LEVER PULLER","LB Lever Hoists","HARRINGTON LB008-20 3/4TON 20 LIFT LEVER PULLER","",/\L\B\harrington-tools-lb008-20-harrington-lb008-20-34ton-20-lift-lever-puller.jpg,/\L\B\harrington-tools-lb008-20-harrington-lb008-20-34ton-20-lift-lever-puller.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb008-20-harrington-lb008-20-34ton-20-lift-lever-puller.jpg,harrington-tools-LB008-20-harrington-lb008-20-34ton-20-lift-lever-puller,harrington-tools-LB008-20-harrington-lb008-20-34ton-20-lift-lever-puller,,No layout updates.,Block after Info Column,,"HARRINGTON LB008-20 3/4TON 20 LIFT LEVER PULLER","HARRINGTON LB008-20 3/4TON 20 LIFT LEVER PULLER",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Capacity: 3/4-Ton (1500 Lbs.)</li>
+<li> Lift: 20 Feet (Single Reeved)</li>
+<li> Headroom: 11”</li>
+<li> Pull to Lift: 58 Lbs.</li>
+<li> Weight: 20.5 Lbs.</li>
+</ul>","HARRINGTON LB008-20 3/4TON 20 LIFT LEVER PULLER",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630161,"LB008-5-LWH",,"HARRINGTON LB008-5-LWH 3/4TON 5 LIFT LEVER PULLER WITH LOAD LIMIT WAR","LB Lever Hoists","HARRINGTON LB008-5-LWH 3/4TON 5 LIFT LEVER PULLER WITH LOAD LIMIT WAR","",/\L\B\harrington-tools-lb008-5-lwh-harrington-lb008-5-lwh-34ton-5-lift-lever-puller-with-load-limit-war.jpg,/\L\B\harrington-tools-lb008-5-lwh-harrington-lb008-5-lwh-34ton-5-lift-lever-puller-with-load-limit-war.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb008-5-lwh-harrington-lb008-5-lwh-34ton-5-lift-lever-puller-with-load-limit-war.jpg,harrington-tools-LB008-5-LWH-harrington-lb008-5-lwh-34ton-5-lift-lever-puller-with-load-limit-war,harrington-tools-LB008-5-LWH-harrington-lb008-5-lwh-34ton-5-lift-lever-puller-with-load-limit-war,,No layout updates.,Block after Info Column,,"HARRINGTON LB008-5-LWH 3/4TON 5 LIFT LEVER PULLER WITH LOAD LIMIT WAR","HARRINGTON LB008-5-LWH 3/4TON 5 LIFT LEVER PULLER WITH LOAD LIMIT WAR",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li> Lever Length: 9.6 Inch</li>
+<li> Lift: 5 ft</li>
+<li> Load Capacity: 3/4 ton</li>
+<li> Headroom: 11 Inch</li>
+</ul>","HARRINGTON LB008-5-LWH 3/4TON 5 LIFT LEVER PULLER WITH LOAD LIMIT WAR",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630162,"LB010-15",,"HARRINGTON LB010-15 1TON 15 LIFT LEVER HOIST","LB Lever Hoists","HARRINGTON LB010-15 1TON 15 LIFT LEVER HOIST","",/\L\B\harrington-tools-lb010-15-harrington-lb010-15-1ton-15-lift-lever-hoist.jpg,/\L\B\harrington-tools-lb010-15-harrington-lb010-15-1ton-15-lift-lever-hoist.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb010-15-harrington-lb010-15-1ton-15-lift-lever-hoist.jpg,harrington-tools-LB010-15-harrington-lb010-15-1ton-15-lift-lever-hoist,harrington-tools-LB010-15-harrington-lb010-15-1ton-15-lift-lever-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON LB010-15 1TON 15 LIFT LEVER HOIST","HARRINGTON LB010-15 1TON 15 LIFT LEVER HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 2000 lb.</li>
+<li>Hook Opening: 1-7/50&quot;</li>
+<li>Chain Length: 16 ft.</li>
+<li>Lever Length: 9-39/64&quot;</li>
+<li>Hoist Lift: 15 ft.</li>
+<li>Min. Between Hooks: 11-13/16&quot;</li>
+</ul>","HARRINGTON LB010-15 1TON 15 LIFT LEVER HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630163,"LB015-10",,"HARRINGTON LB015-10 1-1/2TON 10 LIFT LEVER PULLER","LB Lever Hoists","HARRINGTON LB015-10 1-1/2TON 10 LIFT LEVER PULLER","",/\L\B\harrington-tools-lb015-10-harrington-lb015-10-1-12ton-10-lift-lever-puller.jpg,/\L\B\harrington-tools-lb015-10-harrington-lb015-10-1-12ton-10-lift-lever-puller.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb015-10-harrington-lb015-10-1-12ton-10-lift-lever-puller.jpg,harrington-tools-LB015-10-harrington-lb015-10-1-12ton-10-lift-lever-puller,harrington-tools-LB015-10-harrington-lb015-10-1-12ton-10-lift-lever-puller,,No layout updates.,Block after Info Column,,"HARRINGTON LB015-10 1-1/2TON 10 LIFT LEVER PULLER","HARRINGTON LB015-10 1-1/2TON 10 LIFT LEVER PULLER",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Capacity: 1.5-Ton (3000 Lbs.)</li>
+<li> Lift: 10 Feet (Single Reeved)</li>
+<li> Headroom: 13.8”</li>
+<li> Pull to Lift: 58 Lbs.</li>
+<li> Weight: 21.5 Lbs.</li>
+</ul>","HARRINGTON LB015-10 1-1/2TON 10 LIFT LEVER PULLER",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630164,"LB015-20",,"HARRINGTON LB015-20 1-1/2TON 20 LIFT LEVER PULLER","LB Lever Hoists","HARRINGTON LB015-20 1-1/2TON 20 LIFT LEVER PULLER","",/\L\B\harrington-tools-lb015-20-harrington-lb015-20-1-12ton-20-lift-lever-puller.jpg,/\L\B\harrington-tools-lb015-20-harrington-lb015-20-1-12ton-20-lift-lever-puller.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb015-20-harrington-lb015-20-1-12ton-20-lift-lever-puller.jpg,harrington-tools-LB015-20-harrington-lb015-20-1-12ton-20-lift-lever-puller,harrington-tools-LB015-20-harrington-lb015-20-1-12ton-20-lift-lever-puller,,No layout updates.,Block after Info Column,,"HARRINGTON LB015-20 1-1/2TON 20 LIFT LEVER PULLER","HARRINGTON LB015-20 1-1/2TON 20 LIFT LEVER PULLER",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Capacity: 1.5-Ton (3000 Lbs.)</li>
+<li> Lift: 20 Feet (Single Reeved)</li>
+<li> Headroom: 13.8”</li>
+<li> Pull to Lift: 58 Lbs.</li>
+<li> Weight: 28.5 Lbs.</li>
+</ul>","HARRINGTON LB015-20 1-1/2TON 20 LIFT LEVER PULLER",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630165,"LB015-5",,"HARRINGTON LB015-5 1-1/2TON LEVER PULLER 5 LIFT","LB Lever Hoists","HARRINGTON LB015-5 1-1/2TON LEVER PULLER 5 LIFT","",/\L\B\harrington-tools-lb015-5-harrington-lb015-5-1-12ton-lever-puller-5-lift.jpg,/\L\B\harrington-tools-lb015-5-harrington-lb015-5-1-12ton-lever-puller-5-lift.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb015-5-harrington-lb015-5-1-12ton-lever-puller-5-lift.jpg,harrington-tools-LB015-5-harrington-lb015-5-1-12ton-lever-puller-5-lift,harrington-tools-LB015-5-harrington-lb015-5-1-12ton-lever-puller-5-lift,,No layout updates.,Block after Info Column,,"HARRINGTON LB015-5 1-1/2TON LEVER PULLER 5 LIFT","HARRINGTON LB015-5 1-1/2TON LEVER PULLER 5 LIFT",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 3000 lb.</li>
+<li>Hook Opening: 1-5/16&quot;</li>
+<li>Chain Length: 6 ft.</li>
+<li>Lever Length: 10-3/8&quot;</li>
+<li>Hoist Lift: 5 ft.</li>
+<li>Min. Between Hooks: 13-13/64&quot;</li>
+</ul>","HARRINGTON LB015-5 1-1/2TON LEVER PULLER 5 LIFT",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630166,"LB020-15",,"HARRINGTON LB020-15 2TON 15 LIFT LEVER PULLER","LB Lever Hoists","HARRINGTON LB020-15 2TON 15 LIFT LEVER PULLER","",/\L\B\harrington-tools-lb020-15-harrington-lb020-15-2ton-15-lift-lever-puller.jpg,/\L\B\harrington-tools-lb020-15-harrington-lb020-15-2ton-15-lift-lever-puller.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb020-15-harrington-lb020-15-2ton-15-lift-lever-puller.jpg,harrington-tools-LB020-15-harrington-lb020-15-2ton-15-lift-lever-puller,harrington-tools-LB020-15-harrington-lb020-15-2ton-15-lift-lever-puller,,No layout updates.,Block after Info Column,,"HARRINGTON LB020-15 2TON 15 LIFT LEVER PULLER","HARRINGTON LB020-15 2TON 15 LIFT LEVER PULLER",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Capacity: 2-Ton (4000 Lbs.)</li>
+<li> Lift: 15 Feet (Single Reeved)</li>
+<li> Headroom: 13.8”</li>
+<li> Pull to Lift: 77 Lbs.</li>
+<li> Weight: 37 Lbs.</li>
+</ul>","HARRINGTON LB020-15 2TON 15 LIFT LEVER PULLER",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630167,"LB020-5-LWH",,"HARRINGTON LB020-5-LWH 2TON 5 LIFT LEVER HOIST WITH LOAD LIMIT WARNIN","LB Lever Hoists","HARRINGTON LB020-5-LWH 2TON 5 LIFT LEVER HOIST WITH LOAD LIMIT WARNIN","",/\L\B\harrington-tools-lb020-5-lwh-harrington-lb020-5-lwh-2ton-5-lift-lever-hoist-with-load-limit-warnin.jpg,/\L\B\harrington-tools-lb020-5-lwh-harrington-lb020-5-lwh-2ton-5-lift-lever-hoist-with-load-limit-warnin.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb020-5-lwh-harrington-lb020-5-lwh-2ton-5-lift-lever-hoist-with-load-limit-warnin.jpg,harrington-tools-LB020-5-LWH-harrington-lb020-5-lwh-2ton-5-lift-lever-hoist-with-load-limit-warnin,harrington-tools-LB020-5-LWH-harrington-lb020-5-lwh-2ton-5-lift-lever-hoist-with-load-limit-warnin,,No layout updates.,Block after Info Column,,"HARRINGTON LB020-5-LWH 2TON 5 LIFT LEVER HOIST WITH LOAD LIMIT WARNIN","HARRINGTON LB020-5-LWH 2TON 5 LIFT LEVER HOIST WITH LOAD LIMIT WARNIN",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 4000 lb.</li>
+<li>Hook Opening: 1-7/16&quot;</li>
+<li>Chain Length: 6 ft.</li>
+<li>Lever Length: 10-13/32&quot;</li>
+<li>Hoist Lift: 5 ft.</li>
+<li>Min. Between Hooks: 14-13/16&quot;</li>
+</ul>","HARRINGTON LB020-5-LWH 2TON 5 LIFT LEVER HOIST WITH LOAD LIMIT WARNIN",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630168,"LB028-10",,"HARRINGTON LB028-10 2-3/4TON 10 LIFT LEVER PULLER","LB Lever Hoists","HARRINGTON LB028-10 2-3/4TON 10 LIFT LEVER PULLER","",/\L\B\harrington-tools-lb028-10-harrington-lb028-10-2-34ton-10-lift-lever-puller.jpg,/\L\B\harrington-tools-lb028-10-harrington-lb028-10-2-34ton-10-lift-lever-puller.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb028-10-harrington-lb028-10-2-34ton-10-lift-lever-puller.jpg,harrington-tools-LB028-10-harrington-lb028-10-2-34ton-10-lift-lever-puller,harrington-tools-LB028-10-harrington-lb028-10-2-34ton-10-lift-lever-puller,,No layout updates.,Block after Info Column,,"HARRINGTON LB028-10 2-3/4TON 10 LIFT LEVER PULLER","HARRINGTON LB028-10 2-3/4TON 10 LIFT LEVER PULLER",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 5500 lb.</li>
+<li>Hook Opening: 1-3/8&quot;</li>
+<li>Chain Length: 11 ft.</li>
+<li>Lever Length: 10-3/8&quot;</li>
+<li>Hoist Lift: 10 ft.</li>
+<li>Min. Between Hooks: 14-13/16&quot;</li>
+</ul>","HARRINGTON LB028-10 2-3/4TON 10 LIFT LEVER PULLER",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630169,"LB030-10",,"HARRINGTON LB030-10 3TON 10 LIFT LEVER PULLER","LB Lever Hoists","HARRINGTON LB030-10 3TON 10 LIFT LEVER PULLER","",/\L\B\harrington-tools-lb030-10-harrington-lb030-10-3ton-10-lift-lever-puller.jpg,/\L\B\harrington-tools-lb030-10-harrington-lb030-10-3ton-10-lift-lever-puller.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb030-10-harrington-lb030-10-3ton-10-lift-lever-puller.jpg,harrington-tools-LB030-10-harrington-lb030-10-3ton-10-lift-lever-puller,harrington-tools-LB030-10-harrington-lb030-10-3ton-10-lift-lever-puller,,No layout updates.,Block after Info Column,,"HARRINGTON LB030-10 3TON 10 LIFT LEVER PULLER","HARRINGTON LB030-10 3TON 10 LIFT LEVER PULLER",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 6000 lb.</li>
+<li>Hook Opening: 1-1/2&quot;</li>
+<li>Chain Length: 11 ft.</li>
+<li>Lever Length: 16-5/16&quot;</li>
+<li>Hoist Lift: 10 ft.</li>
+<li>Min. Between Hooks: 15-39/64&quot;</li>
+</ul>","HARRINGTON LB030-10 3TON 10 LIFT LEVER PULLER",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630170,"LB030-20",,"HARRINGTON LB030-20 3TON 20 LIFT LEVER PULLER","LB Lever Hoists","HARRINGTON LB030-20 3TON 20 LIFT LEVER PULLER","",/\L\B\harrington-tools-lb030-20-harrington-lb030-20-3ton-20-lift-lever-puller.jpg,/\L\B\harrington-tools-lb030-20-harrington-lb030-20-3ton-20-lift-lever-puller.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb030-20-harrington-lb030-20-3ton-20-lift-lever-puller.jpg,harrington-tools-LB030-20-harrington-lb030-20-3ton-20-lift-lever-puller,harrington-tools-LB030-20-harrington-lb030-20-3ton-20-lift-lever-puller,,No layout updates.,Block after Info Column,,"HARRINGTON LB030-20 3TON 20 LIFT LEVER PULLER","HARRINGTON LB030-20 3TON 20 LIFT LEVER PULLER",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 6000 lb.</li>
+<li>Chain Length: 21 ft.</li>
+<li>Lever Length: 16-5/16&quot;</li>
+<li>Hoist Lift: 20 ft.</li>
+<li>Min. Between Hooks: 15-39/64&quot;</li>
+</ul>","HARRINGTON LB030-20 3TON 20 LIFT LEVER PULLER",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630171,"LB030-5-SYH",,"HARRINGTON LB030-5-SYH 3TON 5 LIFT HOIST WITH SHIPYARD HOOKS","LB Lever Hoists","HARRINGTON LB030-5-SYH 3TON 5 LIFT HOIST WITH SHIPYARD HOOKS","",/\L\B\harrington-tools-lb030-5-syh-harrington-lb030-5-syh-3ton-5-lift-hoist-with-shipyard-hooks.jpg,/\L\B\harrington-tools-lb030-5-syh-harrington-lb030-5-syh-3ton-5-lift-hoist-with-shipyard-hooks.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb030-5-syh-harrington-lb030-5-syh-3ton-5-lift-hoist-with-shipyard-hooks.jpg,harrington-tools-LB030-5-SYH-harrington-lb030-5-syh-3ton-5-lift-hoist-with-shipyard-hooks,harrington-tools-LB030-5-SYH-harrington-lb030-5-syh-3ton-5-lift-hoist-with-shipyard-hooks,,No layout updates.,Block after Info Column,,"HARRINGTON LB030-5-SYH 3TON 5 LIFT HOIST WITH SHIPYARD HOOKS","HARRINGTON LB030-5-SYH 3TON 5 LIFT HOIST WITH SHIPYARD HOOKS",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 6000 lb.</li>
+<li>Hook Opening: 1-1/2&quot;</li>
+<li>Chain Length: 6 ft.</li>
+<li>Lever Length: 16-5/16&quot;</li>
+<li>Hoist Lift: 5 ft.</li>
+<li>Min. Between Hooks: 15-39/64&quot;</li>
+</ul>","HARRINGTON LB030-5-SYH 3TON 5 LIFT HOIST WITH SHIPYARD HOOKS",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630172,"LB060-10",,"HARRINGTON LB060-10 6TON PULLER 10 LIFT","LB Lever Hoists","HARRINGTON LB060-10 6TON PULLER 10 LIFT","",/\L\B\harrington-tools-lb060-10-harrington-lb060-10-6ton-puller-10-lift.jpg,/\L\B\harrington-tools-lb060-10-harrington-lb060-10-6ton-puller-10-lift.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb060-10-harrington-lb060-10-6ton-puller-10-lift.jpg,harrington-tools-LB060-10-harrington-lb060-10-6ton-puller-10-lift,harrington-tools-LB060-10-harrington-lb060-10-6ton-puller-10-lift,,No layout updates.,Block after Info Column,,"HARRINGTON LB060-10 6TON PULLER 10 LIFT","HARRINGTON LB060-10 6TON PULLER 10 LIFT",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 12,000 lb.</li>
+<li>Reeving: 2</li>
+<li>Chain Length: 22 ft.</li>
+<li>Lever Length: 16-5/16&quot;</li>
+<li>Hoist Lift: 10 ft.</li>
+<li>Min. Between Hooks: 21-5/16&quot;</li>
+</ul>","HARRINGTON LB060-10 6TON PULLER 10 LIFT",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630173,"LB060-5",,"HARRINGTON LB060-5 6TON LEVER PULLER 5 LIFT","LB Lever Hoists","HARRINGTON LB060-5 6TON LEVER PULLER 5 LIFT","",/\L\B\harrington-tools-lb060-5-harrington-lb060-5-6ton-lever-puller-5-lift.jpg,/\L\B\harrington-tools-lb060-5-harrington-lb060-5-6ton-lever-puller-5-lift.jpg,http://www.48ws.com/images/product/L/B/harrington-tools-lb060-5-harrington-lb060-5-6ton-lever-puller-5-lift.jpg,harrington-tools-LB060-5-harrington-lb060-5-6ton-lever-puller-5-lift,harrington-tools-LB060-5-harrington-lb060-5-6ton-lever-puller-5-lift,,No layout updates.,Block after Info Column,,"HARRINGTON LB060-5 6TON LEVER PULLER 5 LIFT","HARRINGTON LB060-5 6TON LEVER PULLER 5 LIFT",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight
+quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty
+construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models.
+Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability.
+Enjoy protection against dirt and moisture with a totally enclosed brake mechanism.
+Ensure long life with machined, heat-treated, split load double reduction gears.
+Operate in close quarters with short steel handle and 15-degree recovery strokes.
+Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load.
+Equipped with standard rubber grip for non-slip operation.","The LB Series of lever hoists offers a low headroom, compact design that is perfect for use in tight quarters. Regarded as the best lever hoist in the industry, our LB is recommended for use in heavy-duty construction work, mining, manufacturing, shipbuilding and day-to-day maintenance and repair. Rugged, all-steel construction that actually weighs less than comparable aluminum models. Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two brake pawls for additional reliability. Enjoy protection against dirt and moisture with a totally enclosed brake mechanism. Ensure long life with machined, heat-treated, split load double reduction gears. Operate in close quarters with short steel handle and 15-degree recovery strokes. Patented spring-loaded freewheel mechanism permits easy adjustment of the load chain and safeguards against accidental freewheeling under load. Equipped with standard rubber grip for non-slip operation.","<ul>
+<li>Rugged, all-steel construction that actually weighs less than comparable aluminum models.</li>
+<li>Get positive braking action with Weston-style load brake incorporating two moisture-resistant brake pads with four braking surfaces. Includes two b","","<ul>
+<li>Load Capacity: 12,000 lb.</li>
+<li>Reeving: 2</li>
+<li>Chain Length: 12 ft.</li>
+<li>Lever Length: 16-5/16&quot;</li>
+<li>Hoist Lift: 5 ft.</li>
+<li>Min. Between Hooks: 21-5/16&quot;</li>
+</ul>","HARRINGTON LB060-5 6TON LEVER PULLER 5 LIFT",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630174,"LX003-10",,"HARRINGTON LX003-10 1/4TON MINI LEVER HOIST","LX Mini Puller","HARRINGTON LX003-10 1/4TON MINI LEVER HOIST","",/\L\X\harrington-tools-lx003-10-harrington-lx003-10-14ton-mini-lever-hoist.jpg,/\L\X\harrington-tools-lx003-10-harrington-lx003-10-14ton-mini-lever-hoist.jpg,http://www.48ws.com/images/product/L/X/harrington-tools-lx003-10-harrington-lx003-10-14ton-mini-lever-hoist.jpg,harrington-tools-LX003-10-harrington-lx003-10-14ton-mini-lever-hoist,harrington-tools-LX003-10-harrington-lx003-10-14ton-mini-lever-hoist,,No layout updates.,Block after Info Column,,"HARRINGTON LX003-10 1/4TON MINI LEVER HOIST","HARRINGTON LX003-10 1/4TON MINI LEVER HOIST",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington’s LX mini puller is lightweight, compact and built to perform. It fits conveniently in a
+toolbox and will easily handle pulling and moving jobs in many applications including transportation,
+construction and plumbing. Available in two capacities to fit all applications. The 1/2 Ton capacity is
+unique to the industry. Durable die-cast aluminum body with steel frame is compact and lightweight.
+Very low headroom design for use in tight spaces.
+Free-chain mechanism allows for quick adjustments.
+Extremely low pulling force is required for operation.
+Weston-style brake is totally enclosed to protect against dirt, dust and rain.
+Single step reduction gear assures load holding performance.
+Load chain guide mechanism permits smooth and quiet guiding of chain.
+Rubber handle grip for ease of use.
+Effortless to transport, install and store","Harrington’s LX mini puller is lightweight, compact and built to perform. It fits conveniently in a toolbox and will easily handle pulling and moving jobs in many applications including transportation, construction and plumbing. Available in two capacities to fit all applications. The 1/2 Ton capacity is unique to the industry. Durable die-cast aluminum body with steel frame is compact and lightweight. Very low headroom design for use in tight spaces. Free-chain mechanism allows for quick adjustments. Extremely low pulling force is required for operation. Weston-style brake is totally enclosed to protect against dirt, dust and rain. Single step reduction gear assures load holding performance. Load chain guide mechanism permits smooth and quiet guiding of chain. Rubber handle grip for ease of use. Effortless to transport, install and store","<ul>
+<li>Capacity: 550 Lbs.</li>
+<li> Lift: 10 Feet (Single Reeved)</li>
+<li> Headroom: 8.1”</li>
+<li> Pull to Lift: 40 Lbs.</li>
+<li> Weight: 9 Lbs.</li>
+</ul>","","<ul>
+<li>Capacity: 550 Lbs.</li>
+<li> Lift: 10 Feet (Single Reeved)</li>
+<li> Headroom: 8.1”</li>
+<li> Pull to Lift: 40 Lbs.</li>
+<li> Weight: 9 Lbs.</li>
+</ul>","HARRINGTON LX003-10 1/4TON MINI LEVER HOIST",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630175,"LX003-15",,"HARRINGTON LX003-15 1/4TON MINI LEVER HOIST 15 LIFT","LX Mini Puller","HARRINGTON LX003-15 1/4TON MINI LEVER HOIST 15 LIFT","",/\L\X\harrington-tools-lx003-15-harrington-lx003-15-14ton-mini-lever-hoist-15-lift.jpg,/\L\X\harrington-tools-lx003-15-harrington-lx003-15-14ton-mini-lever-hoist-15-lift.jpg,http://www.48ws.com/images/product/L/X/harrington-tools-lx003-15-harrington-lx003-15-14ton-mini-lever-hoist-15-lift.jpg,harrington-tools-LX003-15-harrington-lx003-15-14ton-mini-lever-hoist-15-lift,harrington-tools-LX003-15-harrington-lx003-15-14ton-mini-lever-hoist-15-lift,,No layout updates.,Block after Info Column,,"HARRINGTON LX003-15 1/4TON MINI LEVER HOIST 15 LIFT","HARRINGTON LX003-15 1/4TON MINI LEVER HOIST 15 LIFT",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington’s LX mini puller is lightweight, compact and built to perform. It fits conveniently in a
+toolbox and will easily handle pulling and moving jobs in many applications including transportation,
+construction and plumbing. Available in two capacities to fit all applications. The 1/2 Ton capacity is
+unique to the industry. Durable die-cast aluminum body with steel frame is compact and lightweight.
+Very low headroom design for use in tight spaces.
+Free-chain mechanism allows for quick adjustments.
+Extremely low pulling force is required for operation.
+Weston-style brake is totally enclosed to protect against dirt, dust and rain.
+Single step reduction gear assures load holding performance.
+Load chain guide mechanism permits smooth and quiet guiding of chain.
+Rubber handle grip for ease of use.
+Effortless to transport, install and store","Harrington’s LX mini puller is lightweight, compact and built to perform. It fits conveniently in a toolbox and will easily handle pulling and moving jobs in many applications including transportation, construction and plumbing. Available in two capacities to fit all applications. The 1/2 Ton capacity is unique to the industry. Durable die-cast aluminum body with steel frame is compact and lightweight. Very low headroom design for use in tight spaces. Free-chain mechanism allows for quick adjustments. Extremely low pulling force is required for operation. Weston-style brake is totally enclosed to protect against dirt, dust and rain. Single step reduction gear assures load holding performance. Load chain guide mechanism permits smooth and quiet guiding of chain. Rubber handle grip for ease of use. Effortless to transport, install and store","<ul>
+<li>Lever Chain Hoist</li>
+<li> Load Capacity 500 lb.</li>
+<li> Hoist Lift 15 ft.</li>
+<li> Hook Opening 51/64 In.</li>
+<li> Min. Between Hooks 8 In.</li>
+<li> Pull to Lift Rated Load 40 lb.</li>
+<li> Lever Length 5-29/32 In.</li>
+<li> Brake Weston S","","<ul>
+<li> Load Capacity 500 lb.</li>
+<li> Hoist Lift 15 ft.</li>
+<li> Hook Opening 51/64 In.</li>
+<li> Pull to Lift Rated Load 40 lb.</li>
+<li> Lever Length 5-29/32 In.</li>
+<li> Chain Length 16 ft.</li>
+</ul>","HARRINGTON LX003-15 1/4TON MINI LEVER HOIST 15 LIFT",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"23130","Lever Chain Hoists",630176,"LX003-5",,"HARRINGTON LX003-5 1/4TON MINI LEVER HOIST 5 LIFT","LX Mini Puller","HARRINGTON LX003-5 1/4TON MINI LEVER HOIST 5 LIFT","",/\L\X\harrington-tools-lx003-5-harrington-lx003-5-14ton-mini-lever-hoist-5-lift.jpg,/\L\X\harrington-tools-lx003-5-harrington-lx003-5-14ton-mini-lever-hoist-5-lift.jpg,http://www.48ws.com/images/product/L/X/harrington-tools-lx003-5-harrington-lx003-5-14ton-mini-lever-hoist-5-lift.jpg,harrington-tools-LX003-5-harrington-lx003-5-14ton-mini-lever-hoist-5-lift,harrington-tools-LX003-5-harrington-lx003-5-14ton-mini-lever-hoist-5-lift,,No layout updates.,Block after Info Column,,"HARRINGTON LX003-5 1/4TON MINI LEVER HOIST 5 LIFT","HARRINGTON LX003-5 1/4TON MINI LEVER HOIST 5 LIFT",Use config,"https://www.harringtonhoists.com/",0,,,0,"Harrington Tools",757,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Harrington’s LX mini puller is lightweight, compact and built to perform. It fits conveniently in a
+toolbox and will easily handle pulling and moving jobs in many applications including transportation,
+construction and plumbing. Available in two capacities to fit all applications. The 1/2 Ton capacity is
+unique to the industry. Durable die-cast aluminum body with steel frame is compact and lightweight.
+Very low headroom design for use in tight spaces.
+Free-chain mechanism allows for quick adjustments.
+Extremely low pulling force is required for operation.
+Weston-style brake is totally enclosed to protect against dirt, dust and rain.
+Single step reduction gear assures load holding performance.
+Load chain guide mechanism permits smooth and quiet guiding of chain.
+Rubber handle grip for ease of use.
+Effortless to transport, install and store","Harrington’s LX mini puller is lightweight, compact and built to perform. It fits conveniently in a toolbox and will easily handle pulling and moving jobs in many applications including transportation, construction and plumbing. Available in two capacities to fit all applications. The 1/2 Ton capacity is unique to the industry. Durable die-cast aluminum body with steel frame is compact and lightweight. Very low headroom design for use in tight spaces. Free-chain mechanism allows for quick adjustments. Extremely low pulling force is required for operation. Weston-style brake is totally enclosed to protect against dirt, dust and rain. Single step reduction gear assures load holding performance. Load chain guide mechanism permits smooth and quiet guiding of chain. Rubber handle grip for ease of use. Effortless to transport, install and store","<ul>
+<li>Lever Chain Hoist</li>
+<li> Mini</li>
+<li> Series: LX Series</li>
+<li> 0.25 ton</li>
+<li> 5 ft Lifting Height</li>
+<li> 8-1/8 in Minimum Between Hooks</li>
+<li> 13/16 in Hook Opening</li>
+<li> 40 lb Pull to Lift</li>
+<li> 5-7/8 in Lever Length</l","","<ul>
+<li> 0.25 ton</li>
+<li> 5 ft Lifting Height</li>
+<li> 13/16 in Hook Opening</li>
+<li> 40 lb Pull to Lift</li>
+<li> 5-7/8 in Lever Length</li>
+<li> 6 ft Chain Length</li>
+</ul>","HARRINGTON LX003-5 1/4TON MINI LEVER HOIST 5 LIFT",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,

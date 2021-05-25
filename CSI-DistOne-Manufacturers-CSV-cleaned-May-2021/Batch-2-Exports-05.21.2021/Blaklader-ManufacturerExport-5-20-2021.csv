@@ -1,0 +1,884 @@
+﻿store,websites,attribute_set,Type,category_ids,category_names,48WS_product_id,sku,has_options,name,Group_Name,meta_title,meta_description,Image,small_image,thumbnail,url_key,url_path,custom_design,page_layout,options_container,image_label,small_image_label,thumbnail_label,gift_message_available,manufacturer_url,price,special_price,cost,weight,manufacturer,manufacturer_id,color,status,visibility,tax_class_id,enable_googlecheckout,is_recurring,description,short_description,summary,upc,size_info,meta_keyword,custom_layout_update,news_from_date,news_to_date,special_from_date,special_to_date,custom_design_from,custom_design_to,qty,min_qty,use_config_min_qty,is_qty_decimal,backorders,use_config_backorders,min_sale_qty,use_config_min_sale_qty,max_sale_qty,use_config_max_sale_qty,is_in_stock,low_stock_date,notify_stock_qty,use_config_notify_stock_qty,manage_stock,use_config_manage_stock,stock_status_changed_automatically,use_config_qty_increments,qty_increments,use_config_enable_qty_increments,enable_qty_increments,product_name,store_id,product_type_id,product_status_changed,product_changed_websites
+admin,base,Default,simple,"1743|26136","Belt|Tool and Work Belts",90318,"4019-1006",,"Suspenders","","Suspenders","",/\4\0\Blaklader-4019-1006.jpg,/\4\0\Blaklader-4019-1006.jpg,http://www.48ws.com/images/product/4/0/Blaklader-4019-1006.jpg,Blaklader-4019-1006-Suspenders,Blaklader-4019-1006-Suspenders,,No layout updates.,Block after Info Column,,"Suspenders","Suspenders",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","<li>One size fits all</li>
+<li>Color: Black</li>","","","Blaklader 4019-1006 Suspenders","Suspenders",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1740|26144","Hats|Hats",90320,"2050-9222",,"Heavy Duty Cap","","Heavy Duty Cap","",/\2\0\Blaklader-2050-9222-Heavy-Duty.jpg,/\2\0\Blaklader-2050-9222-Heavy-Duty.jpg,http://www.48ws.com/images/product/2/0/Blaklader-2050-9222-Heavy-Duty.jpg,Blaklader-2050-9222-Heavy-Duty-Cap,Blaklader-2050-9222-Heavy-Duty-Cap,,No layout updates.,Block after Info Column,,"Heavy Duty Cap","Heavy Duty Cap",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","<li>One size fits all</li>
+<li>Color: Black/Tan</li>","","","Blaklader 2050-9222 Heavy Duty Cap ","Heavy Duty Cap",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1740|26144","Hats|Hats",90322,"2051-8900",,"Blaklader Cap","","Blaklader Cap","",/\2\0\Blaklader-2051-8900-Blaklader.jpg,/\2\0\Blaklader-2051-8900-Blaklader.jpg,http://www.48ws.com/images/product/2/0/Blaklader-2051-8900-Blaklader.jpg,Blaklader-2051-8900-Blaklader-Cap,Blaklader-2051-8900-Blaklader-Cap,,No layout updates.,Block after Info Column,,"Blaklader Cap","Blaklader Cap",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","<li>One size fits all</li>
+<li>Color: Navy Blue</li>
+
+","","","Blaklader 2051-8900 Blaklader Cap","Blaklader Cap",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1743|26136","Belt|Tool and Work Belts",90324,"4013-9900",,"Black/Bronze Stretch Web Belt","","Black/Bronze Stretch Web Belt","Black Stretch web belt with bronze buckle fits up to 46&quot; waist.",/\4\0\Blaklader-4013-9900-BlackBronze-Stretch-Web.jpg,/\4\0\Blaklader-4013-9900-BlackBronze-Stretch-Web.jpg,http://www.48ws.com/images/product/4/0/Blaklader-4013-9900-BlackBronze-Stretch-Web.jpg,Blaklader-4013-9900-BlackBronze-Stretch-Web-Belt,Blaklader-4013-9900-BlackBronze-Stretch-Web-Belt,,No layout updates.,Block after Info Column,,"Black/Bronze Stretch Web Belt","Black/Bronze Stretch Web Belt",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Black Stretch web belt with bronze buckle fits up to 46&quot; waist.","<li>One size fits all</li>
+<li>Color: Bronze/Black</li>
+<li>Black stretch web belt with bronze blaklader buckle</li>","","","Blaklader 4013-9900 Black/Bronze Stretch Web Belt","Black/Bronze Stretch Web Belt",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1743|26136","Belt|Tool and Work Belts",90326,"4014-9900",,"Black/Silver Stretch Web Belt","","Black/Silver Stretch Web Belt","Black stretch web belt with silver buckle fits up to a 46&quot; waist.",/\4\0\Blaklader-4014-9900-BlackSilver-Stretch-Web.jpg,/\4\0\Blaklader-4014-9900-BlackSilver-Stretch-Web.jpg,http://www.48ws.com/images/product/4/0/Blaklader-4014-9900-BlackSilver-Stretch-Web.jpg,Blaklader-4014-9900-BlackSilver-Stretch-Web-Belt,Blaklader-4014-9900-BlackSilver-Stretch-Web-Belt,,No layout updates.,Block after Info Column,,"Black/Silver Stretch Web Belt","Black/Silver Stretch Web Belt",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Black stretch web belt with silver buckle fits up to a 46&quot; waist.","<li>One size fits up to a 46&quot; waist</li>
+<li>Colors: Silver/Black</li>
+<li>Stretch web belt with silver blaklader buckle</li>","","","Blaklader 4014-9900 Black/Silver Stretch Web Belt","Black/Silver Stretch Web Belt",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1743|26136","Belt|Tool and Work Belts",90327,"4017-3900-9900",,"Black Heavy Leather Belt","","Black Heavy Leather Belt","Black heavy leather belt that fits from 32&quot; to 46&quot; waist.",/\4\0\Blaklader-4017-3900-9900-Black-Heavy-Leather.jpg,/\4\0\Blaklader-4017-3900-9900-Black-Heavy-Leather.jpg,http://www.48ws.com/images/product/4/0/Blaklader-4017-3900-9900-Black-Heavy-Leather.jpg,Blaklader-4017-3900-9900-Black-Heavy-Leather-Belt,Blaklader-4017-3900-9900-Black-Heavy-Leather-Belt,,No layout updates.,Block after Info Column,,"Black Heavy Leather Belt","Black Heavy Leather Belt",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Black heavy leather belt that fits from 32&quot; to 46&quot; waist.","<li>One size fits all</li>
+<li>Colors: Black</li>
+<li>Black heavy leather belt</li>","","","Blaklader 4017-3900-9900 Black Heavy Leather Belt","Black Heavy Leather Belt",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1743|26136","Belt|Tool and Work Belts",90328,"4017-3900",,"Brown Heavy Leather Belt","","Brown Heavy Leather Belt","Heavy Leather Belt that fits from 32&quot; to 46&quot; waists.",/\4\0\Blaklader-4017-3900-Brown-Heavy-Leather.jpg,/\4\0\Blaklader-4017-3900-Brown-Heavy-Leather.jpg,http://www.48ws.com/images/product/4/0/Blaklader-4017-3900-Brown-Heavy-Leather.jpg,Blaklader-4017-3900-Brown-Heavy-Leather-Belt,Blaklader-4017-3900-Brown-Heavy-Leather-Belt,,No layout updates.,Block after Info Column,,"Brown Heavy Leather Belt","Brown Heavy Leather Belt",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Heavy Leather Belt that fits from 32&quot; to 46&quot; waists.","<li>Fits 32&quot; to 46&quot; waist</li>
+<li>Color: Brown</li>
+<li>Brown Heavy Leather Belt</li>","","","Blaklader 4017-3900 Brown Heavy Leather Belt","Brown Heavy Leather Belt",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"160|25618","Knee Pads|Protective Elbow and Knee Pads",90330,"4012-9900",,"Heavy Duty Knee Pad","","Heavy Duty Knee Pad","Extra durable, shock absorbing memory gel cradles your knees in the ultimate cushion. ",/\4\0\Blaklader-4012-9900-Heavy-Duty-Knee.jpg,/\4\0\Blaklader-4012-9900-Heavy-Duty-Knee.jpg,http://www.48ws.com/images/product/4/0/Blaklader-4012-9900-Heavy-Duty-Knee.jpg,Blaklader-4012-9900-Heavy-Duty-Knee-Pad,Blaklader-4012-9900-Heavy-Duty-Knee-Pad,,No layout updates.,Block after Info Column,,"Heavy Duty Knee Pad","Heavy Duty Knee Pad",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Extra durable, shock absorbing memory gel cradles your knees in the ultimate cushion. ","<li>One size fits all</li>
+<li>Colors: Black</li>
+<li>Extra durable, shock absorbing memory gel cradles your knees in the ultimate cushion</li>","","","Blaklader 4012-9900 Heavy Duty Knee Pad","Heavy Duty Knee Pad",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"160|25618","Knee Pads|Protective Elbow and Knee Pads",90332,"4011-1200",,"Light Duty Knee Pad","","Light Duty Knee Pad","Super lightweight foam that won't weigh you down yet provides protective cushioning when you need it.",/\4\0\Blaklader-4011-1200-Light-Duty-Knee.jpg,/\4\0\Blaklader-4011-1200-Light-Duty-Knee.jpg,http://www.48ws.com/images/product/4/0/Blaklader-4011-1200-Light-Duty-Knee.jpg,Blaklader-4011-1200-Light-Duty-Knee-Pad,Blaklader-4011-1200-Light-Duty-Knee-Pad,,No layout updates.,Block after Info Column,,"Light Duty Knee Pad","Light Duty Knee Pad",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Super lightweight foam that won't weigh you down yet provides protective cushioning when you need it.","<li>One size fits all</li>
+<li>Color: Grey</li>","","","Blaklader 4011-1200 Light Duty Knee Pad","Light Duty Knee Pad",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1738|26146","Jackets | Outerwear|Heated Outerwear",90334,"4062-1320",,"Brawny Canvas Jacket","","Brawny Canvas Jacket","Heavy weight durable 100% 12 oz. cotton is breathable and comfortable while providing excellent durability.",/\4\0\Blaklader-4062-1320-Brawny-Canvas.jpg,/\4\0\Blaklader-4062-1320-Brawny-Canvas.jpg,http://www.48ws.com/images/product/4/0/Blaklader-4062-1320-Brawny-Canvas.jpg,Blaklader-4062-1320-Brawny-Canvas-Jacket,Blaklader-4062-1320-Brawny-Canvas-Jacket,,No layout updates.,Block after Info Column,,"Brawny Canvas Jacket","Brawny Canvas Jacket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Heavy weight durable 100% 12 oz. cotton is breathable and comfortable while providing excellent durability.","<li>Sizes: Available in S-XXXL</li>
+<li>Colors: Steel Blue, Khaki, And Black</li>
+<li>8 front pockets allow for great organization</li>
+<li>Two breast pockets with zip, one with telephone pocket and one with pen pocket</li>
+<li>Front pockets with extra tool pockets</li>
+<li>Side pockets</li>
+<li>Sleeve pocket with three pen pockets and zip</li>
+<li>Two inner pockets</li>","<li>Adjustable waist</li>
+<li>Adjustable cuffs</li>
+<li>Extended back</li>
+<li>Bellows in the back</li>
+<li>Mesh lined</li>
+<li>Garment wash</li>
+","","Blaklader 4062-1320 Brawny Canvas Jacket","Brawny Canvas Jacket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1738|26146","Jackets | Outerwear|Heated Outerwear",90336,"4882-1380",,"Heavy Worker Lined Canvas","","Heavy Worker Lined Canvas","Durable 12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\4\8\Blaklader-4882-1380-Heavy-Worker-Lined.jpg,/\4\8\Blaklader-4882-1380-Heavy-Worker-Lined.jpg,http://www.48ws.com/images/product/4/8/Blaklader-4882-1380-Heavy-Worker-Lined.jpg,Blaklader-4882-1380-Heavy-Worker-Lined-Canvas,Blaklader-4882-1380-Heavy-Worker-Lined-Canvas,,No layout updates.,Block after Info Column,,"Heavy Worker Lined Canvas","Heavy Worker Lined Canvas",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Durable 12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements","<li>Size: Available in S - XXXL</li>
+<li>Colors: Khaki/Black, Black/Black</li>
+<li>Fleece inside collar</li>
+<li>CorduraÂ&reg; reinforced in exposed areas</li>
+<li>Adjustable waist width</li>
+<li>Extended back with bellows</li>
+<li>Key loop</li>","<li>Pockets:</li>
+<li>Breast pockets with flaps and bellows</li>
+<li>Front pockets with bellows</li>
+<li>Phone pocket</li>
+<li>Chisel pocket with double pencil holders</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Blaklader 4882-1380 Heavy Worker Lined Canvas","Heavy Worker Lined Canvas",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1738|26146","Jackets | Outerwear|Heated Outerwear",90338,"4082-1380",,"Heavy Worker Unlined Canvas","","Heavy Worker Unlined Canvas","Durable 12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\4\0\Blaklader-4082-1380-Heavy-Worker-Unlined.jpg,/\4\0\Blaklader-4082-1380-Heavy-Worker-Unlined.jpg,http://www.48ws.com/images/product/4/0/Blaklader-4082-1380-Heavy-Worker-Unlined.jpg,Blaklader-4082-1380-Heavy-Worker-Unlined-Canvas,Blaklader-4082-1380-Heavy-Worker-Unlined-Canvas,,No layout updates.,Block after Info Column,,"Heavy Worker Unlined Canvas","Heavy Worker Unlined Canvas",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Durable 12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements","<li>Sizes: Available in S - XXXL</li>
+<li>Colors: Navy/Blue, Khaki/Black</li>
+<li>CorduraÂ&reg; reinforced in exposed areas</li>
+<li>Adjustable waist width</li>
+<li>Extended back with bellows</li>
+<li>Key loop</li>","Pockets:
+<li>Breast pockets with flaps and bellows</li>
+<li>Front pockets with bellows</li>
+<li>Phone pocket</li>
+<li>Chisel pocket with double pencil holders</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Blaklader 4082-1380 Heavy Worker Unlined Canvas","Heavy Worker Unlined Canvas",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1738|26146","Jackets | Outerwear|Heated Outerwear",90339,"4816-1370",,"Toughguy Pile Line Jacket","","Toughguy Pile Line Jacket","Heavyweight 100% cotton 13 oz. shell with a soft, comfortable 11 oz. polyester lining",/\4\8\Blaklader-4816-1370-Toughguy-Pile-Line.jpg,/\4\8\Blaklader-4816-1370-Toughguy-Pile-Line.jpg,http://www.48ws.com/images/product/4/8/Blaklader-4816-1370-Toughguy-Pile-Line.jpg,Blaklader-4816-1370-Toughguy-Pile-Line-Jacket,Blaklader-4816-1370-Toughguy-Pile-Line-Jacket,,No layout updates.,Block after Info Column,,"Toughguy Pile Line Jacket","Toughguy Pile Line Jacket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Heavyweight 100% cotton 13 oz. shell with a soft, comfortable 11 oz. polyester lining","<li>Size: Available in S - XXXL</li>
+<li>Colors: Black, Navy Blue</li>
+<li>Quilted lined sleeves</li>
+<li>Lined with 300 gm pile in the torso</li>
+<li>Extended back</li>
+<li>Adjustable waist</li>
+<li>Key loop</li>","Pockets:
+<li>Two breast pockets</li>
+<li>Two side pockets</li>
+<li>Sleeve pocket with zip and pen pockets</li>
+<li>Phone pocket</li>","","Blaklader 4816-1370 Toughguy Pile Line Jacket","Toughguy Pile Line Jacket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1738|26146","Jackets | Outerwear|Heated Outerwear",90341,"4855-2520",,"Two Fisted Fleece Jacket","","Two Fisted Fleece Jacket","Combines a 460 gm 100% polyester shell with a wind and water resistant membrane and breathable mesh lining",/\4\8\Blaklader-4855-2520-Two-Fisted-Fleece.jpg,/\4\8\Blaklader-4855-2520-Two-Fisted-Fleece.jpg,http://www.48ws.com/images/product/4/8/Blaklader-4855-2520-Two-Fisted-Fleece.jpg,Blaklader-4855-2520-Two-Fisted-Fleece-Jacket,Blaklader-4855-2520-Two-Fisted-Fleece-Jacket,,No layout updates.,Block after Info Column,,"Two Fisted Fleece Jacket","Two Fisted Fleece Jacket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Combines a 460 gm 100% polyester shell with a wind and water resistant membrane and breathable mesh lining","<li>Sizes: Available in S - XXXL</li>
+<li>Colors: Black, Black/Grey</li>
+<li>Cordura reinforcement on the shoulders and sleeves</li>
+<li>Full length zip up to collar</li>
+<li>Full velcro secured zipper flap</li>
+<li>Drawstring waist</li>
+<li>Reinforced front sleeve sections</li>
+<li>Wind and water resistant membrane</li>
+<li>Key Loop</li>
+<li>Thumb grip</li>","Pockets:
+<li>Zipped breast pocket and side front pockets</li>
+<li>Phone pocket</li>
+<li>Document pocket in back</li>
+","","Blaklader 4855-2520 Two Fisted Fleece Jacket","Two Fisted Fleece Jacket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26165","Vests|Work Vests",90342,"3845-2520",,"Two Fisted Fleece Vest","","Two Fisted Fleece Vest","Combines a 460 gm 100% polyester shell with a wind and water resistant membrane and breathable mesh lining",/\3\8\Blaklader-3845-2520-Two-Fisted-Fleece.jpg,/\3\8\Blaklader-3845-2520-Two-Fisted-Fleece.jpg,http://www.48ws.com/images/product/3/8/Blaklader-3845-2520-Two-Fisted-Fleece.jpg,Blaklader-3845-2520-Two-Fisted-Fleece-Vest,Blaklader-3845-2520-Two-Fisted-Fleece-Vest,,No layout updates.,Block after Info Column,,"Two Fisted Fleece Vest","Two Fisted Fleece Vest",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Combines a 460 gm 100% polyester shell with a wind and water resistant membrane and breathable mesh lining","<li>Sizes: Available in S - XXXL</li>
+<li>Colors: Black</li>
+<li>Cordura reinforcement on the shoulders</li>
+<li>Full length zip up to collar</li>
+<li>Full velcro secured zipper flap</li>
+<li>Drawstring waist</li>
+<li>Wind and water resistant membrane</li>
+<li>Key loop</li>","Pockets:
+<li>Zipped breast pocket and side front pockets</li>
+<li>Document pocket in back</li>
+","","Blaklader 3845-2520 Two Fisted Fleece Vest","Two Fisted Fleece Vest",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1738|26146","Jackets | Outerwear|Heated Outerwear",90343,"4856-2525",,"Two Fisted Storm Jacket","","Two Fisted Storm Jacket","370gm 100% polyester wind and water proof fleece",/\4\8\Blaklader-4856-2525-Two-Fisted-Storm.jpg,/\4\8\Blaklader-4856-2525-Two-Fisted-Storm.jpg,http://www.48ws.com/images/product/4/8/Blaklader-4856-2525-Two-Fisted-Storm.jpg,Blaklader-4856-2525-Two-Fisted-Storm-Jacket,Blaklader-4856-2525-Two-Fisted-Storm-Jacket,,No layout updates.,Block after Info Column,,"Two Fisted Storm Jacket","Two Fisted Storm Jacket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"370gm 100% polyester wind and water proof fleece","<li>Sizes: Available in M - XXXL</li>
+<li>Colors: Black, Carmel</li>
+<li>370 gm 100% polyester fleece</li>
+<li>Wind and waterproof breathable laminate and mesh lining</li>
+<li>Three font zip pockets</li>
+<li>Quality YKK zippers</li>","","","Blaklader 4856-2525 Two Fisted Storm Jacket","Two Fisted Storm Jacket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1740|26144","Hats|Hats",90344,"2061-9900",,"Black Wool Watch Hat","","Black Wool Watch Hat","100% wool black watch hat",/\2\0\Blaklader-2061-9900-Black-Wool-Watch.jpg,/\2\0\Blaklader-2061-9900-Black-Wool-Watch.jpg,http://www.48ws.com/images/product/2/0/Blaklader-2061-9900-Black-Wool-Watch.jpg,Blaklader-2061-9900-Black-Wool-Watch-Hat,Blaklader-2061-9900-Black-Wool-Watch-Hat,,No layout updates.,Block after Info Column,,"Black Wool Watch Hat","Black Wool Watch Hat",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"100% wool black watch hat","<li>100% wool cap</li>
+<li>Small Blaklader logo</li>
+<li>Colors: Black</li>","","","Blaklader 2061-9900 Black Wool Watch Hat","Black Wool Watch Hat",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1740|26144","Hats|Hats",90345,"2062-B",,"Black Winter Hardware Hats","Blaklader Winter Hardware Hats","Black Winter Hardware Hats","One size fits all - 95% cotton, 5% Elastan, 100% polyester fleece lining",/\2\0\Blaklader-2062-Winter-Hardware.jpg,/\2\0\Blaklader-2062-Winter-Hardware.jpg,http://www.48ws.com/images/product/2/0/Blaklader-2062-Winter-Hardware.jpg,Blaklader-2062-Winter-Hardware-Hats,Blaklader-2062-Winter-Hardware-Hats,,No layout updates.,Block after Info Column,,"Black Winter Hardware Hats","Black Winter Hardware Hats",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 2062-B Black Winter Hardware Hats","<li>95% cotton</li>
+<li>5% Elastan</li>
+<li>100% polyester fleece lining</li>","","","Black","Black Winter Hardware Hats",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90346,"2399-30",,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 2399-30 Khaki/Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Khaki/Black, Waist: 30&quot;","Khaki/Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90347,"1634-1310-2700-30",,"Stone Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-1634-1310-Bantam-Shorts-with-Utility-Pockets,Blaklader-1634-1310-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Stone Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2700-30 Stone Bantam Shorts with Utility Pockets-Waist 30&quot;","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Stone, Waist 30&quot;","Stone Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90348,"1634-1210-30",,"White Toughguy Painter Shorts with Utility Pockets-Waist 30&quot;","Blaklader Toughguy Painter Shorts with Utility Pockets","White Toughguy Painter Shorts with Utility Pockets-Waist 30&quot;","Toughguy Painter Shorts",/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility-Pockets,Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"White Toughguy Painter Shorts with Utility Pockets-Waist 30&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 30&quot;",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1210-30 White Toughguy Painter Shorts with Utility Pockets-Waist 30&quot;","<li>Sizes: Waist from 30&quot; - 44&quot;</li>
+<li>Colors: White</li>
+<li>11 oz. cotton that provides high performance durability</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>
+","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneelingor squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Waist: 30&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 30&quot;",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26165","Vests|Work Vests",90349,"3110-1860",,"Roughneck Kangaroo Vest","","Roughneck Kangaroo Vest","Endurance-tested 11 oz. 65/35% poly/cotton blend provides excellent durability in a lightweight fabric",/\3\1\Blaklader-3110-1860-Roughneck-Kangaroo.jpg,/\3\1\Blaklader-3110-1860-Roughneck-Kangaroo.jpg,http://www.48ws.com/images/product/3/1/Blaklader-3110-1860-Roughneck-Kangaroo.jpg,Blaklader-3110-1860-Roughneck-Kangaroo-Vest,Blaklader-3110-1860-Roughneck-Kangaroo-Vest,,No layout updates.,Block after Info Column,,"Roughneck Kangaroo Vest","Roughneck Kangaroo Vest",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Endurance-tested 11 oz. 65/35% poly/cotton blend provides excellent durability in a lightweight fabric","<li>Sizes: Available in S - XXXL</li>
+<li>Colors: Black</li>
+<li>Concealed front zipper</li>
+<li>Extra long back for added protection</li>
+<li>Triple-stitched seams prevent rip outs</li>","Pockets: 
+<li>2 breast pockets with safety straps and phone pocket</li>
+<li>4 utility pockets front and back</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Blaklader 3110-1860 Roughneck Kangaroo Vest","Roughneck Kangaroo Vest",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26165","Vests|Work Vests",90350,"3120-1310",,"Bantam Kangaroo Vest","","Bantam Kangaroo Vest","100% 8 oz. cotton is lightweight and comfortable",/\3\1\Blaklader-3120-1310-Bantam-Kangaroo.jpg,/\3\1\Blaklader-3120-1310-Bantam-Kangaroo.jpg,http://www.48ws.com/images/product/3/1/Blaklader-3120-1310-Bantam-Kangaroo.jpg,Blaklader-3120-1310-Bantam-Kangaroo-Vest,Blaklader-3120-1310-Bantam-Kangaroo-Vest,,No layout updates.,Block after Info Column,,"Bantam Kangaroo Vest","Bantam Kangaroo Vest",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"100% 8 oz. cotton is lightweight and comfortable","<li>Sizes: Available in S - XXXL</li>
+<li>Colors: Stone</li>
+<li>Concealed front zipper</li>
+<li>Extra long back for added protection</li>
+<li>Triple-stitched seams prevent rip outs</li>","Pockets:
+<li>2 breast pockets with safety straps and phone pocket</li>
+<li>3 front utility pockets</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Blaklader 3120-1310 Bantam Kangaroo Vest","Bantam Kangaroo Vest",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26158","Vests|T-Shirts",90352,"3308-1030-9400-S",,"Grey Fleet Long Sleeve Tee-Small","Blaklader Fleet Long Sleeve Tee-Small","Grey Fleet Long Sleeve Tee-Small","Soft and durable 100% cotton that wicks away moisture and dries quickly",/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,http://www.48ws.com/images/product/3/3/Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,Blaklader-3308-1030-Fleet-Long-Sleeve-Tee,Blaklader-3308-1030-Fleet-Long-Sleeve-Tee,,No layout updates.,Block after Info Column,,"Grey Fleet Long Sleeve Tee-Small","Grey Fleet Long Sleeve Tee-Small",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 3308-1030-9400-S Grey Fleet Long Sleeve Tee-Small","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Grey, Black</li>
+<li>100% cotton long sleeve tee</li>","","","Grey, Size: Small","Grey Fleet Long Sleeve Tee-Small",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1741|20918","Shirts|Shirts",90353,"3309-1030",,"309-1030 Fleet Short Sleeve Tee","","309-1030 Fleet Short Sleeve Tee","Soft and durable 100% cotton that wicks away moisture and dries quickly",/\3\3\Blaklader-309-1030-Fleet-Short-Sleeve.jpg,/\3\3\Blaklader-309-1030-Fleet-Short-Sleeve.jpg,http://www.48ws.com/images/product/3/3/Blaklader-309-1030-Fleet-Short-Sleeve.jpg,Blaklader-309-1030-Fleet-Short-Sleeve-Tee,Blaklader-309-1030-Fleet-Short-Sleeve-Tee,,No layout updates.,Block after Info Column,,"309-1030 Fleet Short Sleeve Tee","309-1030 Fleet Short Sleeve Tee",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Soft and durable 100% cotton that wicks away moisture and dries quickly","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Grey, Black</li>
+<li>100% cotton short sleeve tee</li>","","","Blaklader 309-1030 Fleet Short Sleeve Tee","309-1030 Fleet Short Sleeve Tee",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1741|20918","Shirts|Shirts",90354,"3450-1710",,"Base Performance Tee","","Base Performance Tee","Soft and durable 100% polyester that wicks away moisture and dries quickly",/\3\4\Blaklader-3450-1710-Base-Performance.jpg,/\3\4\Blaklader-3450-1710-Base-Performance.jpg,http://www.48ws.com/images/product/3/4/Blaklader-3450-1710-Base-Performance.jpg,Blaklader-3450-1710-Base-Performance-Tee,Blaklader-3450-1710-Base-Performance-Tee,,No layout updates.,Block after Info Column,,"Base Performance Tee","Base Performance Tee",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 3450-1710 Base Performance Tee","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Black, Grey, and White</li>
+<li>100% polyester wicks away moisture</li>
+<li>Quick drying</li>","","","Black, Size: Small","Base Performance Tee",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90356,"1680-1380",,"Heavy Worker with Utility Pockets","","Heavy Worker with Utility Pockets","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura® reinforcements. ",/\1\6\Blaklader-1680-1380-Heavy-Worker-with-Utility.jpg,/\1\6\Blaklader-1680-1380-Heavy-Worker-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1680-1380-Heavy-Worker-with-Utility.jpg,Blaklader-1680-1380-Heavy-Worker-with-Utility-Pockets,Blaklader-1680-1380-Heavy-Worker-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Heavy Worker with Utility Pockets","Heavy Worker with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura&reg; reinforcements. ","<li>Colors: Khaki/Black, Navy Blue/Black, Black/Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+Kneepad Pockets: 
+<li>Constructed of lightweight, extra-strength CorduraÂ&reg; fabric</li>
+<li>Cushiony foam or gel inserts provide the right knee protection</li>
+<li>Lightweight, not bulky</li>
+<li>No constricting straps</li>
+<li>All-day comfort</li>
+Accessory Pockets:
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Blaklader 1680-1380 Heavy Worker with Utility Pockets","Heavy Worker with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90358,"1630-1310",,"Bantam Pant with Utility Pocket","","Bantam Pant with Utility Pocket","8 oz. 100% cotton with CorduraÂ® knee pockets and accessory pockets.",/\1\6\Blaklader-1630-1310-Bantam-Pant-with-Utility.jpg,/\1\6\Blaklader-1630-1310-Bantam-Pant-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1630-1310-Bantam-Pant-with-Utility.jpg,Blaklader-1630-1310-Bantam-Pant-with-Utility-Pocket,Blaklader-1630-1310-Bantam-Pant-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Bantam Pant with Utility Pocket","Bantam Pant with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"8 oz. 100% cotton with CorduraÂ&reg; knee pockets and accessory pockets.","<li>Colors: Stone, Khaki, Navy Blue, and Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility Pockets:
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+Kneepad Pockets: 
+<li>Constructed of lightweight, extra-strength CorduraÂ&reg; fabric</li>
+<li>Cushiony foam or gel inserts provide the right knee protection</li>
+<li>Lightweight, not bulky</li>
+<li>No constricting straps</li>
+<li>All-day comfort</li>
+Accessory Pockets:
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Blaklader 1630-1310 Bantam Pant with Utility Pocket","Bantam Pant with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90362,"1670-1310",,"Bantam Pant Without Utility Pockets","","Bantam Pant Without Utility Pockets","8 oz. 100% cotton with CorduraÂ® knee pockets and accessory pockets.",/\1\6\Blaklader-1670-1310-Bantam-Pant-Without-Utility.jpg,/\1\6\Blaklader-1670-1310-Bantam-Pant-Without-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1670-1310-Bantam-Pant-Without-Utility.jpg,Blaklader-1670-1310-Bantam-Pant-Without-Utility-Pockets,Blaklader-1670-1310-Bantam-Pant-Without-Utility-Pockets,,No layout updates.,Block after Info Column,,"Bantam Pant Without Utility Pockets","Bantam Pant Without Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"8 oz. 100% cotton with CorduraÂ&reg; knee pockets and accessory pockets.","<li>Colors: Khaki, Navy Blue, Stone, and Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Kneepad Pockets:
+<li>Constructed of lightweight, extra-strength CorduraÂ&reg; fabric</li>
+<li>Cushiony foam or gel inserts provide the right knee protection</li>
+<li>Lightweight, not bulky</li>
+<li>No constricting straps</li>
+<li>All-day comfort</li>
+Accessory Pockets: 
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Blaklader 1670-1310 Bantam Pant Without Utility Pockets","Bantam Pant Without Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90365,"1630-1320",,"Brawny Pant with Utility Pockets","","Brawny Pant with Utility Pockets","12 oz. 100% cotton with CorduraÂ® knee pockets and accessory pockets.",/\1\6\Blaklader-1630-1320-Brawny-Pant-with-Utility.jpg,/\1\6\Blaklader-1630-1320-Brawny-Pant-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1630-1320-Brawny-Pant-with-Utility.jpg,Blaklader-1630-1320-Brawny-Pant-with-Utility-Pockets,Blaklader-1630-1320-Brawny-Pant-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Brawny Pant with Utility Pockets","Brawny Pant with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"12 oz. 100% cotton with CorduraÂ&reg; knee pockets and accessory pockets.","<li>Colors: Khaki, Navy Blue, Moss, and Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility Pockets:
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+Kneepad Pockets:
+<li>Constructed of lightweight, extra-strength CorduraÂ&reg; fabric</li>
+<li>Cushiony foam or gel inserts provide the right knee protection</li>
+<li>Lightweight, not bulky</li>
+<li>No constricting straps</li>
+<li>All-day comfort</li>
+Accessory Pockets:
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Blaklader 1630-1320 Brawny Pant with Utility Pockets","Brawny Pant with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90368,"1670-1320",,"Brawny Pant Without Utility Pockets","","Brawny Pant Without Utility Pockets","12 oz. 100% cotton with CorduraÂ® knee pockets and accessory pockets.",/\1\6\Blaklader-1670-1320-Brawny-Pant-Without-Utility.jpg,/\1\6\Blaklader-1670-1320-Brawny-Pant-Without-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1670-1320-Brawny-Pant-Without-Utility.jpg,Blaklader-1670-1320-Brawny-Pant-Without-Utility-Pockets,Blaklader-1670-1320-Brawny-Pant-Without-Utility-Pockets,,No layout updates.,Block after Info Column,,"Brawny Pant Without Utility Pockets","Brawny Pant Without Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"12 oz. 100% cotton with Cordura &reg; knee pockets and accessory pockets.","<li>Colors: Khaki, Navy Blue, Moss, and Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>
+","Kneepad Pockets:
+<li>Constructed of lightweight, extra-strength CorduraÂ&reg; fabric</li>
+<li>Cushiony foam or gel inserts provide the right knee protection</li>
+<li>Lightweight, not bulky</li>
+<li>No constricting straps</li>
+<li>All-day comfort</li>
+Accessory Pockets:
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Blaklader 1670-1320 Brawny Pant Without Utility Pockets","Brawny Pant Without Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90377,"1634-1210-32",,"White Toughguy Painter Shorts with Utility Pockets-Waist 32&quot;","Blaklader Toughguy Painter Shorts with Utility Pockets","White Toughguy Painter Shorts with Utility Pockets-Waist 32&quot;","Toughguy Painter Shorts",/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,Blaklader-1634-1210-32-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-32,Blaklader-1634-1210-32-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-32,,No layout updates.,Block after Info Column,,"White Toughguy Painter Shorts with Utility Pockets-Waist 32&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 32&quot;",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1210-32 White Toughguy Painter Shorts with Utility Pockets-Waist 32&quot;","<li>Sizes: Waist from 30&quot; - 44&quot;</li>
+<li>Colors: White</li>
+<li>11 oz. cotton that provides high performance durability</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>
+","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneelingor squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Waist: 32&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 32&quot;",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90378,"1634-1210-34",,"White Toughguy Painter Shorts with Utility Pockets-Waist 34&quot;","Blaklader Toughguy Painter Shorts with Utility Pockets","White Toughguy Painter Shorts with Utility Pockets-Waist 34&quot;","Toughguy Painter Shorts",/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,Blaklader-1634-1210-34-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-34,Blaklader-1634-1210-34-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-34,,No layout updates.,Block after Info Column,,"White Toughguy Painter Shorts with Utility Pockets-Waist 34&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 34&quot;",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1210-34 White Toughguy Painter Shorts with Utility Pockets-Waist 34&quot;","<li>Sizes: Waist from 30&quot; - 44&quot;</li>
+<li>Colors: White</li>
+<li>11 oz. cotton that provides high performance durability</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>
+","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneelingor squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Waist: 34&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 34&quot;",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90380,"1634-1210-36",,"White Toughguy Painter Shorts with Utility Pockets-Waist 36&quot;","Blaklader Toughguy Painter Shorts with Utility Pockets","White Toughguy Painter Shorts with Utility Pockets-Waist 36&quot;","Toughguy Painter Shorts",/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,Blaklader-1634-1210-36-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-36,Blaklader-1634-1210-36-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-36,,No layout updates.,Block after Info Column,,"White Toughguy Painter Shorts with Utility Pockets-Waist 36&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 36&quot;",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1210-36 White Toughguy Painter Shorts with Utility Pockets-Waist 36&quot;","<li>Colors: White</li>
+<li>11 oz. cotton that provides high performance durability</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>
+","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneelingor squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Waist: 36&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 36&quot;",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90382,"1634-1210-38",,"White Toughguy Painter Shorts with Utility Pockets-Waist 38&quot;","Blaklader Toughguy Painter Shorts with Utility Pockets","White Toughguy Painter Shorts with Utility Pockets-Waist 38&quot;","Toughguy Painter Shorts",/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,Blaklader-1634-1210-38-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-38,Blaklader-1634-1210-38-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-38,,No layout updates.,Block after Info Column,,"White Toughguy Painter Shorts with Utility Pockets-Waist 38&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 38&quot;",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1210-38 White Toughguy Painter Shorts with Utility Pockets-Waist 38&quot;","<li>Sizes: Waist from 30&quot; - 44&quot;</li>
+<li>Colors: White</li>
+<li>11 oz. cotton that provides high performance durability</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>
+","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneelingor squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Waist: 38&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 38&quot;",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90384,"1634-1210-40",,"White Toughguy Painter Shorts with Utility Pockets-Waist 40&quot;","Blaklader Toughguy Painter Shorts with Utility Pockets","White Toughguy Painter Shorts with Utility Pockets-Waist 40&quot;","Toughguy Painter Shorts",/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,Blaklader-1634-1210-40-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-40,Blaklader-1634-1210-40-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-40,,No layout updates.,Block after Info Column,,"White Toughguy Painter Shorts with Utility Pockets-Waist 40&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 40&quot;",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1210-40 White Toughguy Painter Shorts with Utility Pockets-Waist 40&quot;","<li>Sizes: Waist from 30&quot; - 44&quot;</li>
+<li>Colors: White</li>
+<li>11 oz. cotton that provides high performance durability</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>
+","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneelingor squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Waist: 40&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 40&quot;",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90386,"1634-1210-42",,"White Toughguy Painter Shorts with Utility Pockets-Waist 42&quot;","Blaklader Toughguy Painter Shorts with Utility Pockets","White Toughguy Painter Shorts with Utility Pockets-Waist 42&quot;","Toughguy Painter Shorts",/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,Blaklader-1634-1210-42-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-42,Blaklader-1634-1210-42-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-42,,No layout updates.,Block after Info Column,,"White Toughguy Painter Shorts with Utility Pockets-Waist 42&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 42&quot;",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1210-42 White Toughguy Painter Shorts with Utility Pockets-Waist 42&quot;","<li>Sizes: Waist from 30&quot; - 44&quot;</li>
+<li>Colors: White</li>
+<li>11 oz. cotton that provides high performance durability</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>
+","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneelingor squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Waist: 42&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 42&quot;",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90387,"1634-1210-44",,"White Toughguy Painter Shorts with Utility Pockets-Waist 44&quot;","Blaklader Toughguy Painter Shorts with Utility Pockets","White Toughguy Painter Shorts with Utility Pockets-Waist 44&quot;","Toughguy Painter Shorts",/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1210-Toughguy-Painter-Shorts-with-Utility.jpg,Blaklader-1634-1210-44-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-44,Blaklader-1634-1210-44-White-Toughguy-Painter-Shorts-with-Utility-Pockets-Waist-44,,No layout updates.,Block after Info Column,,"White Toughguy Painter Shorts with Utility Pockets-Waist 44&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 44&quot;",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1210-44 White Toughguy Painter Shorts with Utility Pockets-Waist 44&quot;","<li>Sizes: Waist from 30&quot; - 44&quot;</li>
+<li>Colors: White</li>
+<li>11 oz. cotton that provides high performance durability</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>
+","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneelingor squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Waist: 44&quot;","White Toughguy Painter Shorts with Utility Pockets-Waist 44&quot;",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90389,"1634-1310-2700-32",,"Stone Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2700-32-Stone-Bantam-Shorts-with-Utility-Pockets,Blaklader-2700-32-Stone-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Stone Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2700-32 Stone Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Stone, Waist: 32&quot;","Stone Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90390,"1634-1310-2700-34",,"Stone Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2700-34-Stone-Bantam-Shorts-with-Utility-Pockets,Blaklader-2700-34-Stone-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Stone Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2700-34 Stone Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Stone, Waist: 34&quot;","Stone Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90391,"1634-1310-2700-36",,"Stone Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2700-36-Stone-Bantam-Shorts-with-Utility-Pockets,Blaklader-2700-36-Stone-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Stone Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2700-36 Stone Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Stone, Waist: 36&quot;","Stone Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90392,"1634-1310-2700-38",,"Stone Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2700-38-Stone-Bantam-Shorts-with-Utility-Pockets,Blaklader-2700-38-Stone-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Stone Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2700-38 Stone Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Stone, Waist: 38&quot;","Stone Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90393,"1634-1310-2700-40",,"Stone Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2700-40-Stone-Bantam-Shorts-with-Utility-Pockets,Blaklader-2700-40-Stone-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Stone Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2700-40 Stone Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Stone, Waist: 40&quot;","Stone Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90394,"1634-1310-2700-42",,"Stone Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2700-42-Stone-Bantam-Shorts-with-Utility-Pockets,Blaklader-2700-42-Stone-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Stone Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2700-42 Stone Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Stone, Waist: 42&quot;","Stone Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90395,"1634-1310-2700-44",,"Stone Bantam Shorts with Utility Pocket","Blaklader Bantam Shorts with Utility Pockets","Stone Bantam Shorts with Utility Pocket","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2700-44-Stone-Bantam-Shorts-with-Utility-Pocket,Blaklader-2700-44-Stone-Bantam-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Stone Bantam Shorts with Utility Pocket","Stone Bantam Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2700-44 Stone Bantam Shorts with Utility Pocket","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Stone, Waist: 44&quot;","Stone Bantam Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90396,"1634-1310-2800-30",,"Khaki Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2800-30-Khaki-Bantam-Shorts-with-Utility-Pockets,Blaklader-2800-30-Khaki-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Khaki Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2800-30 Khaki Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Khaki, Waist: 30&quot;","Khaki Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90397,"1634-1310-2800-32",,"Khaki Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2800-32-Khaki-Bantam-Shorts-with-Utility-Pockets,Blaklader-2800-32-Khaki-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Khaki Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2800-32 Khaki Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Khaki, Waist: 32&quot;","Khaki Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90398,"1634-1310-2800-34",,"Khaki Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2800-34-Khaki-Bantam-Shorts-with-Utility-Pockets,Blaklader-2800-34-Khaki-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Khaki Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2800-34 Khaki Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Khaki, Waist: 34&quot;","Khaki Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90399,"1634-1310-2800-36",,"Khaki Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2800-36-Khaki-Bantam-Shorts-with-Utility-Pockets,Blaklader-2800-36-Khaki-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Khaki Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2800-36 Khaki Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Khaki, Waist: 36&quot;","Khaki Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90401,"1634-1310-2800-38",,"Khaki Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2800-38-Khaki-Bantam-Shorts-with-Utility-Pockets,Blaklader-2800-38-Khaki-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Khaki Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2800-38 Khaki Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Khaki, Waist: 38&quot;","Khaki Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90402,"1634-1310-2800-40",,"Khaki Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2800-40-Khaki-Bantam-Shorts-with-Utility-Pockets,Blaklader-2800-40-Khaki-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Khaki Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2800-40 Khaki Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Khaki, Waist: 40&quot;","Khaki Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90404,"1634-1310-2800-42",,"Khaki Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2800-42-Khaki-Bantam-Shorts-with-Utility-Pockets,Blaklader-2800-42-Khaki-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Khaki Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2800-42 Khaki Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Khaki, Waist: 42&quot;","Khaki Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90405,"1634-1310-2800-44",,"Khaki Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-2800-44-Khaki-Bantam-Shorts-with-Utility-Pockets,Blaklader-2800-44-Khaki-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Khaki Bantam Shorts with Utility Pockets","Khaki Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-2800-44 Khaki Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Khaki, Waist: 44&quot;","Khaki Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90406,"1634-1310-8300-30",,"Navy Blue Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-8300-30-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,Blaklader-8300-30-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Navy Blue Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-8300-30 Navy Blue Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Navy Blue, Waist: 30&quot;","Navy Blue Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90407,"1634-1310-8300-32",,"Navy Blue Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-8300-32-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,Blaklader-8300-32-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Navy Blue Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-8300-32 Navy Blue Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Navy Blue, Waist: 32&quot;","Navy Blue Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90408,"1634-1310-8300-34",,"Navy Blue Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-8300-34-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,Blaklader-8300-34-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Navy Blue Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-8300-34 Navy Blue Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Navy Blue, Waist: 34&quot;","Navy Blue Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90410,"1634-1310-8300-36",,"Navy Blue Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-8300-36-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,Blaklader-8300-36-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Navy Blue Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-8300-36 Navy Blue Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Navy Blue, Waist: 36&quot;","Navy Blue Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90411,"1634-1310-8300-38",,"Navy Blue Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-8300-38-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,Blaklader-8300-38-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Navy Blue Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-8300-38 Navy Blue Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Navy Blue, Waist: 38&quot;","Navy Blue Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90412,"1634-1310-8300-40",,"Navy Blue Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-8300-40-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,Blaklader-8300-40-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Navy Blue Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-8300-40 Navy Blue Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Navy Blue, Waist: 40&quot;","Navy Blue Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90413,"1634-1310-8300-42",,"Navy Blue Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-8300-42-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,Blaklader-8300-42-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Navy Blue Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-8300-42 Navy Blue Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Navy Blue, Waist: 42&quot;","Navy Blue Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90414,"1634-1310-8300-44",,"Navy Blue Bantam Shorts with Utility Pockets","Blaklader Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets","13 oz. 100% twill with extra-strength Cordura® reinforcements",/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,/\1\6\Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1634-1310-Bantam-Shorts-with-Utility.jpg,Blaklader-8300-44-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,Blaklader-8300-44-Navy-Blue-Bantam-Shorts-with-Utility-Pockets,,No layout updates.,Block after Info Column,,"Navy Blue Bantam Shorts with Utility Pockets","Navy Blue Bantam Shorts with Utility Pockets",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 1634-1310-8300-44 Navy Blue Bantam Shorts with Utility Pockets","<li>Colors: Stone, Khaki, Navy Blue</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop and detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to get out screws and nails</li>
+<li>Bellow pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket with pencil holder and security pocket</li>
+<li>Phone pockets</li>","","Navy Blue, Waist: 44&quot;","Navy Blue Bantam Shorts with Utility Pockets",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90417,"2399-32",,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-2399-32-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-2399-32-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 2399-32 Khaki/Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Khaki/Black, Waist: 32&quot;","Khaki/Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90418,"2399-34",,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-2399-34-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-2399-34-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 2399-34 Khaki/Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Khaki/Black, Waist: 34&quot;","Khaki/Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90419,"2399-36",,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-2399-36-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-2399-36-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 2399-36 Khaki/Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Khaki/Black, Waist: 36&quot;","Khaki/Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90421,"2399-38",,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-2399-38-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-2399-38-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 2399-38 Khaki/Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Khaki/Black, Waist: 38&quot;","Khaki/Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90422,"2399-40",,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-2399-40-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-2399-40-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 2399-40 Khaki/Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Khaki/Black, Waist: 40&quot;","Khaki/Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90423,"2399-42",,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-2399-42-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-2399-42-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 2399-42 Khaki/Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Khaki/Black, Waist: 42&quot;","Khaki/Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|26164","Pants | Shorts|Work Shorts",90424,"2399-44",,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-2399-44-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-2399-44-KhakiBlack-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Khaki/Black Heavy Worker Shorts with Utility Pocket","Khaki/Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 2399-44 Khaki/Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Khaki/Black, Waist: 44&quot;","Khaki/Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90425,"9900-30",,"Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-9900-30-Black-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-9900-30-Black-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Black Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 9900-30 Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Black, Waist: 30&quot;","Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90427,"9900-32",,"Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-9900-32-Black-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-9900-32-Black-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Black Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 9900-32 Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Black, Waist: 32&quot;","Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90428,"9900-34",,"Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-9900-34-Black-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-9900-34-Black-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Black Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 9900-34 Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Black, Waist: 34&quot;","Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90429,"9900-36",,"Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-9900-36-Black-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-9900-36-Black-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Black Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 9900-36 Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Black, Waist: 36&quot;","Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90431,"9900-38",,"Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-9900-38-Black-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-9900-38-Black-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Black Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 9900-38 Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Black, Waist: 38&quot;","Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90432,"9900-40",,"Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-9900-40-Black-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-9900-40-Black-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Black Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 9900-40 Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Black, Waist: 40&quot;","Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90433,"9900-42",,"Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-9900-42-Black-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-9900-42-Black-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Black Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 9900-42 Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Black, Waist: 42&quot;","Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1739|20919","Pants | Shorts|Pants and Shorts",90435,"9900-44",,"Black Heavy Worker Shorts with Utility Pocket","Blaklader Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket","12 oz. 78-22% poly-cotton canvas combined with extra strength Cordura reinforcements",/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,/\1\6\Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,http://www.48ws.com/images/product/1/6/Blaklader-1640-1380-Heavy-Worker-Shorts-with-Utility.jpg,Blaklader-9900-44-Black-Heavy-Worker-Shorts-with-Utility-Pocket,Blaklader-9900-44-Black-Heavy-Worker-Shorts-with-Utility-Pocket,,No layout updates.,Block after Info Column,,"Black Heavy Worker Shorts with Utility Pocket","Black Heavy Worker Shorts with Utility Pocket",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 9900-44 Black Heavy Worker Shorts with Utility Pocket","<li>Colors: Khaki/Black, Black</li>
+<li>7 wide and thin belt loops strategically placed so pants won't pull down</li>
+<li>Heavy-duty webbed hammer loop & detached screwdriver pocket</li>
+<li>Strong metal fly zipper</li>
+<li>Triple-stitched seams prevent rip outs</li>","Utility and Accessory Pockets: 
+<li>2 reinforced utility pockets</li>
+<li>Easy access, even when kneeling or squatting</li>
+<li>Tuck into front pockets when not in use</li>
+<li>Angled pocket corners make it easy to grab screws and nails</li>
+<li>Bellowed pockets (2 in front; 2 in back) carry more and keep contents from cutting into legs</li>
+<li>Leg pocket w/ pencil holder & security pocket</li>
+<li>Phone pocket</li>
+<li>Bar tacks and no bottom seams prevent rip outs</li>","","Black, Waist: 44&quot;","Black Heavy Worker Shorts with Utility Pocket",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1740|26144","Hats|Hats",90437,"2062-G",,"Green Winter Hardware Hats","Blaklader Winter Hardware Hats","Green Winter Hardware Hats","One size fits all - 95% cotton, 5% Elastan, 100% polyester fleece lining",/\2\0\Blaklader-2062-Winter-Hardware.jpg,/\2\0\Blaklader-2062-Winter-Hardware.jpg,http://www.48ws.com/images/product/2/0/Blaklader-2062-Winter-Hardware.jpg,Blaklader-2062-G-Green-Winter-Hardware-Hats,Blaklader-2062-G-Green-Winter-Hardware-Hats,,No layout updates.,Block after Info Column,,"Green Winter Hardware Hats","Green Winter Hardware Hats",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 2062-G Green Winter Hardware Hats","<li>95% cotton</li>
+<li>5% Elastan</li>
+<li>100% polyester fleece lining</li>","","","Green","Green Winter Hardware Hats",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1740|26144","Hats|Hats",90438,"2062-BLU",,"Blue Winter Hardware Hats","Blaklader Winter Hardware Hats","Blue Winter Hardware Hats","One size fits all - 95% cotton, 5% Elastan, 100% polyester fleece lining",/\2\0\Blaklader-2062-Winter-Hardware.jpg,/\2\0\Blaklader-2062-Winter-Hardware.jpg,http://www.48ws.com/images/product/2/0/Blaklader-2062-Winter-Hardware.jpg,Blaklader-2062-BLU-Blue-Winter-Hardware-Hats,Blaklader-2062-BLU-Blue-Winter-Hardware-Hats,,No layout updates.,Block after Info Column,,"Blue Winter Hardware Hats","Blue Winter Hardware Hats",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 2062-BLU Blue Winter Hardware Hats","<li>95% cotton</li>
+<li>5% Elastan</li>
+<li>100% polyester fleece lining</li>","","","Blue","Blue Winter Hardware Hats",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26158","Vests|T-Shirts",90440,"3308-1030-9400-M",,"Grey Fleet Long Sleeve Tee-Medium","Blaklader Fleet Long Sleeve Tee-Small","Grey Fleet Long Sleeve Tee-Medium","Soft and durable 100% cotton that wicks away moisture and dries quickly",/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,http://www.48ws.com/images/product/3/3/Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,Blaklader-9400-M-Grey-Fleet-Long-Sleeve-Tee-Medium,Blaklader-9400-M-Grey-Fleet-Long-Sleeve-Tee-Medium,,No layout updates.,Block after Info Column,,"Grey Fleet Long Sleeve Tee-Medium","Grey Fleet Long Sleeve Tee-Medium",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 3308-1030-9400-M Grey Fleet Long Sleeve Tee-Medium","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Grey, Black</li>
+<li>100% cotton long sleeve tee</li>","","","Grey, Size: Medium","Grey Fleet Long Sleeve Tee-Medium",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26158","Vests|T-Shirts",90442,"3308-1030-9400-L",,"Grey Fleet Long Sleeve Tee","Blaklader Fleet Long Sleeve Tee-Small","Grey Fleet Long Sleeve Tee","Soft and durable 100% cotton that wicks away moisture and dries quickly",/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,http://www.48ws.com/images/product/3/3/Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,Blaklader-9400-L-Grey-Fleet-Long-Sleeve-Tee,Blaklader-9400-L-Grey-Fleet-Long-Sleeve-Tee,,No layout updates.,Block after Info Column,,"Grey Fleet Long Sleeve Tee","Grey Fleet Long Sleeve Tee",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 3308-1030-9400-L Grey Fleet Long Sleeve Tee","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Grey, Black</li>
+<li>100% cotton long sleeve tee</li>","","","Grey, Size: Large","Grey Fleet Long Sleeve Tee",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26158","Vests|T-Shirts",90443,"3308-1030-9400-XL",,"Grey Fleet Long Sleeve Tee-Small","Blaklader Fleet Long Sleeve Tee-Small","Grey Fleet Long Sleeve Tee-Small","Soft and durable 100% cotton that wicks away moisture and dries quickly",/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,http://www.48ws.com/images/product/3/3/Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,Blaklader-9400-XL-Grey-Fleet-Long-Sleeve-Tee-Small,Blaklader-9400-XL-Grey-Fleet-Long-Sleeve-Tee-Small,,No layout updates.,Block after Info Column,,"Grey Fleet Long Sleeve Tee-Small","Grey Fleet Long Sleeve Tee-Small",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 3308-1030-9400-XL Grey Fleet Long Sleeve Tee-Small","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Grey, Black</li>
+<li>100% cotton long sleeve tee</li>","","","Grey, Size: Extra Large","Grey Fleet Long Sleeve Tee-Small",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26158","Vests|T-Shirts",90444,"3308-1030-9400-XXL",,"Grey Fleet Long Sleeve Tee","Blaklader Fleet Long Sleeve Tee-Small","Grey Fleet Long Sleeve Tee","Soft and durable 100% cotton that wicks away moisture and dries quickly",/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,http://www.48ws.com/images/product/3/3/Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,Blaklader-9400-XXL-Grey-Fleet-Long-Sleeve-Tee,Blaklader-9400-XXL-Grey-Fleet-Long-Sleeve-Tee,,No layout updates.,Block after Info Column,,"Grey Fleet Long Sleeve Tee","Grey Fleet Long Sleeve Tee",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 3308-1030-9400-XXL Grey Fleet Long Sleeve Tee","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Grey, Black</li>
+<li>100% cotton long sleeve tee</li>","","","Grey, Size: 2x Large","Grey Fleet Long Sleeve Tee",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26158","Vests|T-Shirts",90446,"3308-1030-9900-S",,"Black Fleet Long Sleeve Tee-Small","Blaklader Fleet Long Sleeve Tee-Small","Black Fleet Long Sleeve Tee-Small","Soft and durable 100% cotton that wicks away moisture and dries quickly",/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,http://www.48ws.com/images/product/3/3/Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,Blaklader-9900-S-Black-Fleet-Long-Sleeve-Tee-Small,Blaklader-9900-S-Black-Fleet-Long-Sleeve-Tee-Small,,No layout updates.,Block after Info Column,,"Black Fleet Long Sleeve Tee-Small","Black Fleet Long Sleeve Tee-Small",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 3308-1030-9900-S Black Fleet Long Sleeve Tee-Small","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Grey, Black</li>
+<li>100% cotton long sleeve tee</li>","","","Black, Size: Small","Black Fleet Long Sleeve Tee-Small",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26158","Vests|T-Shirts",90447,"3308-1030-9900-M",,"Black Fleet Long Sleeve Tee-Small","Blaklader Fleet Long Sleeve Tee-Small","Black Fleet Long Sleeve Tee-Small","Soft and durable 100% cotton that wicks away moisture and dries quickly",/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,http://www.48ws.com/images/product/3/3/Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,Blaklader-9900-M-Black-Fleet-Long-Sleeve-Tee-Small,Blaklader-9900-M-Black-Fleet-Long-Sleeve-Tee-Small,,No layout updates.,Block after Info Column,,"Black Fleet Long Sleeve Tee-Small","Black Fleet Long Sleeve Tee-Small",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 3308-1030-9900-M Black Fleet Long Sleeve Tee-Small","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Grey, Black</li>
+<li>100% cotton long sleeve tee</li>","","","Black, Size: Medium","Black Fleet Long Sleeve Tee-Small",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26158","Vests|T-Shirts",90448,"3308-1030-9900-L",,"Black Fleet Long Sleeve Tee-Small","Blaklader Fleet Long Sleeve Tee-Small","Black Fleet Long Sleeve Tee-Small","Soft and durable 100% cotton that wicks away moisture and dries quickly",/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,http://www.48ws.com/images/product/3/3/Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,Blaklader-9900-L-Black-Fleet-Long-Sleeve-Tee-Small,Blaklader-9900-L-Black-Fleet-Long-Sleeve-Tee-Small,,No layout updates.,Block after Info Column,,"Black Fleet Long Sleeve Tee-Small","Black Fleet Long Sleeve Tee-Small",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 3308-1030-9900-L Black Fleet Long Sleeve Tee-Small","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Grey, Black</li>
+<li>100% cotton long sleeve tee</li>","","","Black, Size: Large","Black Fleet Long Sleeve Tee-Small",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26158","Vests|T-Shirts",90449,"3308-1030-9900-XL",,"Black Fleet Long Sleeve Tee-Small","Blaklader Fleet Long Sleeve Tee-Small","Black Fleet Long Sleeve Tee-Small","Soft and durable 100% cotton that wicks away moisture and dries quickly",/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,http://www.48ws.com/images/product/3/3/Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,Blaklader-9900-XL-Black-Fleet-Long-Sleeve-Tee-Small,Blaklader-9900-XL-Black-Fleet-Long-Sleeve-Tee-Small,,No layout updates.,Block after Info Column,,"Black Fleet Long Sleeve Tee-Small","Black Fleet Long Sleeve Tee-Small",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 3308-1030-9900-XL Black Fleet Long Sleeve Tee-Small","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Grey, Black</li>
+<li>100% cotton long sleeve tee</li>","","","Black, Size: Extra Large","Black Fleet Long Sleeve Tee-Small",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1742|26158","Vests|T-Shirts",90450,"3308-1030-9900-XXL",,"Black Fleet Long Sleeve Tee-Small","Blaklader Fleet Long Sleeve Tee-Small","Black Fleet Long Sleeve Tee-Small","Soft and durable 100% cotton that wicks away moisture and dries quickly",/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,/\3\3\Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,http://www.48ws.com/images/product/3/3/Blaklader-3308-1030-Fleet-Long-Sleeve.jpg,Blaklader-9900-XXL-Black-Fleet-Long-Sleeve-Tee-Small,Blaklader-9900-XXL-Black-Fleet-Long-Sleeve-Tee-Small,,No layout updates.,Block after Info Column,,"Black Fleet Long Sleeve Tee-Small","Black Fleet Long Sleeve Tee-Small",Use config,"",0,,,0,"Blaklader",189,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Blaklader 3308-1030-9900-XXL Black Fleet Long Sleeve Tee-Small","<li>Sizes: Available in S - XXL</li>
+<li>Colors: Grey, Black</li>
+<li>100% cotton long sleeve tee</li>","","","Black, Size: 2x Large","Black Fleet Long Sleeve Tee-Small",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
