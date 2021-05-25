@@ -1,0 +1,394 @@
+﻿store,websites,attribute_set,Type,category_ids,category_names,48WS_product_id,sku,has_options,name,Group_Name,meta_title,meta_description,Image,small_image,thumbnail,url_key,url_path,custom_design,page_layout,options_container,image_label,small_image_label,thumbnail_label,gift_message_available,manufacturer_url,price,special_price,cost,weight,manufacturer,manufacturer_id,color,status,visibility,tax_class_id,enable_googlecheckout,is_recurring,description,short_description,summary,upc,size_info,meta_keyword,custom_layout_update,news_from_date,news_to_date,special_from_date,special_to_date,custom_design_from,custom_design_to,qty,min_qty,use_config_min_qty,is_qty_decimal,backorders,use_config_backorders,min_sale_qty,use_config_min_sale_qty,max_sale_qty,use_config_max_sale_qty,is_in_stock,low_stock_date,notify_stock_qty,use_config_notify_stock_qty,manage_stock,use_config_manage_stock,stock_status_changed_automatically,use_config_qty_increments,qty_increments,use_config_enable_qty_increments,enable_qty_increments,product_name,store_id,product_type_id,product_status_changed,product_changed_websites
+admin,base,Default,simple,"1082|26338","Radios | Two Way (INACTIVE)|Two Way Radios",37302,"KBH 10",,"Belt Clip","","Belt Clip","Spring action belt clip.",/\K\B\Kenwood-USA-KBH.jpg,/\K\B\Kenwood-USA-KBH.jpg,http://www.48ws.com/images/product/K/B/Kenwood-USA-KBH.jpg,Kenwood-USA-KBH-10,Kenwood-USA-KBH-10,,No layout updates.,Block after Info Column,,"Belt Clip","Belt Clip",Use config,"http://www.kenwoodusa.com/Communications/Land_Mobile_Radio/Accessories/KBH-10",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Spring action belt clip.","","","","Kenwood U.S.A KBH 10 Belt Clip","Belt Clip",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1082|26338","Radios | Two Way (INACTIVE)|Two Way Radios",37303,"KMB-23",,"Charger Adapter","","Charger Adapter","Six unit charger adapter. Chargers not included.",/\K\M\Kenwood-USA-KMB.jpg,/\K\M\Kenwood-USA-KMB.jpg,http://www.48ws.com/images/product/K/M/Kenwood-USA-KMB.jpg,Kenwood-USA-KMB-23,Kenwood-USA-KMB-23,,No layout updates.,Block after Info Column,,"Charger Adapter","Charger Adapter",Use config,"http://www.kenwoodusa.com/Communications/Land_Mobile_Radio/Accessories/KMB-23",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Six unit charger adapter. Chargers not included.","","","","Kenwood U.S.A KMB-23 Charger Adapter","Charger Adapter",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1082|26338","Radios | Two Way (INACTIVE)|Two Way Radios",37304,"KMC 45",,"Microphone","","Microphone","MIL-SPEC, IP54/45 speaker microphone.",/\K\M\Kenwood-USA-KMC.jpg,/\K\M\Kenwood-USA-KMC.jpg,http://www.48ws.com/images/product/K/M/Kenwood-USA-KMC.jpg,Kenwood-USA-KMC-45,Kenwood-USA-KMC-45,,No layout updates.,Block after Info Column,,"Microphone","Microphone",Use config,"http://www.kenwoodusa.com/Communications/Land_Mobile_Radio/Accessories/KMC-45",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"MIL-SPEC, IP54/45 speaker microphone.","","","","Kenwood U.S.A KMC 45 Microphone","Microphone",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1082|26338","Radios | Two Way (INACTIVE)|Two Way Radios",37306,"KNB 29N",,"Battery","","Battery","NiMh Battery (1500mAh)",/\K\N\Kenwood-USA-KNB.jpg,/\K\N\Kenwood-USA-KNB.jpg,http://www.48ws.com/images/product/K/N/Kenwood-USA-KNB.jpg,Kenwood-USA-KNB-29N,Kenwood-USA-KNB-29N,,No layout updates.,Block after Info Column,,"Battery","Battery",Use config,"http://www.kenwoodusa.com/search?m=or&q=Communications+Land_Mobile_Radio+Accessories+Batteries_-_Chargers+KNB-29N",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"NiMh Battery (1500mAh)","","","","Kenwood U.S.A KNB 29N Battery","Battery",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1082|26338","Radios | Two Way (INACTIVE)|Two Way Radios",37307,"KRA 27M",,"Antenna","","Antenna","UHF Whip Antenna 440-490mhz.",/\K\R\Kenwood-USA-KRA.jpg,/\K\R\Kenwood-USA-KRA.jpg,http://www.48ws.com/images/product/K/R/Kenwood-USA-KRA.jpg,Kenwood-USA-KRA-27M,Kenwood-USA-KRA-27M,,No layout updates.,Block after Info Column,,"Antenna","Antenna",Use config,"http://www.kenwoodusa.com/Communications/Land_Mobile_Radio/Accessories/Antenna/KRA-27",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"UHF Whip Antenna 440-490mhz.","","","","Kenwood U.S.A KRA 27M Antenna","Antenna",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1082|26338","Radios | Two Way (INACTIVE)|Two Way Radios",89594,"TK2300V4P",,"2 Watt 4 Channel Radio","","2 Watt 4 Channel Radio","ProTalk 2 Watt Portable VHF/UHF Business On-Site Radios<br></br>
+Kenwood's new 300 Series ProTalk® model VHF and UHF 2 watt portables take quality and value to an even higher level offering additional channels (4 & 16), a larger selection of UHF frequenc",/\T\K\TK2300V4P-Kenwood-2-Watt-4-Channel.jpg,/\T\K\TK2300V4P-Kenwood-2-Watt-4-Channel.jpg,http://www.48ws.com/images/product/T/K/TK2300V4P-Kenwood-2-Watt-4-Channel.jpg,TK2300V4P-Kenwood-2-Watt-4-Channel-Radio,TK2300V4P-Kenwood-2-Watt-4-Channel-Radio,,No layout updates.,Block after Info Column,,"2 Watt 4 Channel Radio","2 Watt 4 Channel Radio",Use config,"http://www.kenwoodusa.com/search?m=or&q=Communications+Business_Radio+ProTalk+TK-2300VP-3300UP",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"ProTalk 2 Watt Portable VHF/UHF Business On-Site Radios<br></br>
+Kenwood's new 300 Series ProTalk&reg; model VHF and UHF 2 watt portables take quality and value to an even higher level offering additional channels (4 & 16), a larger selection of UHF frequencies (89), improved sound quality and advanced ergonomic controls.","<li>4 & 16 Channel VHF / UHF Models</li>
+<li>89 UHF Pre-Programmed Frequencies</li>
+<li>27 VHF Pre-Programmed Frequencies</li>
+<li>QT/DQT Encode/Decode</li>
+<li>Wireless Cloning</li>
+<li>Audio Companding</li>
+<li>Channel Confirmation Model</li>
+<li>Scan w/ Temporary Nuisance Delete</li>
+<li>Selected/Fixed Priority Channel</li>
+<li>Channel Voice Announcement</li>
+<li>Voice Scrambler (by channel)</li>
+<li>Internal VOX (by channel)</li>
+<li>MIL Spec 810 C/D/E/F</li>
+<li>IP 54/55</li>
+<li>2 Year Warranty</li>","","","TK2300V4P Kenwood 2 Watt 4 Channel Radio","2 Watt 4 Channel Radio",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",89595,"KMC-45",,"KMC-45","","KMC-45","MIL-SPEC, IP54/55 Speaker microphone",/\K\M\KMC-45-Kenwood-Speaker.jpg,/\K\M\KMC-45-Kenwood-Speaker.jpg,http://www.48ws.com/images/product/K/M/KMC-45-Kenwood-Speaker.jpg,kenwood-usa-KMC-45-kmc-45,kenwood-usa-KMC-45-kmc-45,,No layout updates.,Block after Info Column,,"KMC-45","KMC-45",Use config,"http://www.kenwoodusa.com/Communications/Land_Mobile_Radio/Accessories/KMC-45",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Compact speaker microphone–heavy duty","","Compatible with: 
+All TK Models","","KMC-45 Kenwood Speaker Microphone","KMC-45",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1082|26338","Radios | Two Way (INACTIVE)|Two Way Radios",89596,"KMB27",,"Charger","","Charger","Six Unit Charger Adapter",/\K\M\KMB27-Kenwood.jpg,/\K\M\KMB27-Kenwood.jpg,http://www.48ws.com/images/product/K/M/KMB27-Kenwood.jpg,KMB27-Kenwood-Charger,KMB27-Kenwood-Charger,,No layout updates.,Block after Info Column,,"Charger","Charger",Use config,"http://www.kenwoodusa.com/Communications/Land_Mobile_Radio/Accessories/KMB-27",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Six Unit Charger Adapter","Charger Cups Not Included","","","KMB27 Kenwood Charger","Charger",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"1082|26338","Radios | Two Way (INACTIVE)|Two Way Radios",93404,"Protalk TK-3302U16P",,"2 Way Radio","","2 Way Radio","16C UHF Two-Way Radio w/Li-Ion Battery w/Rapid Charger",/\P\r\Kenwood-Protalk-TK-3302U16P-2-Way.jpg,/\P\r\Kenwood-Protalk-TK-3302U16P-2-Way.jpg,http://www.48ws.com/images/product/P/r/Kenwood-Protalk-TK-3302U16P-2-Way.jpg,Kenwood-Protalk-TK-3302U16P-2-Way-Radio,Kenwood-Protalk-TK-3302U16P-2-Way-Radio,,No layout updates.,Block after Info Column,,"2 Way Radio","2 Way Radio",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"16C UHF Two-Way Radio w/Li-Ion Battery w/Rapid Charger","<li>4 Watts</li>
+<li>16 Channels</li>
+<li>UHF</li>
+<li>PC Programmable Only (No field programming - Include frequency information in comment box as you check out.)</li>
+<li>121 Privacy Codes</li>
+<li>Channel Scan</li>
+<li>VOX - Voice Activated when using VOX capable headsets</li>
+<li>Lock - Locks all user controls (except PTT and volume) to prevent accidental channel changes</li>
+<li>Mil Spec</li>
+<li>Diecast Body for strength</li>
+<li>Polycarbonate Case</li>
+<li>Voice Annunciation</li>
+<li>Wireless Cloning Mode</li>
+<li>Time out timer</li>
+<li>Call Alert Tone</li>
+<li>Battery save and low battery warning</li>
+<br><br>
+<b>In The Box:</b><br><br>
+<li>Antenna - KRA-27</li>
+<li>Battery - 12hr Li-Ion</li>
+<li>Charger - 3hr Rapid Charger</li>
+<li>Clip</li>","<li><b>This radio requires FCC Licensing.</b></li><br><br>
+<li><b>This is a PC Programmable Radio.</b> This requires CPS Programming Software, Cables and some Technical expertise.</li><br><br>
+<li>Color: Black</li>
+<li>Warranty: 2 Years</li>
+<li>Product Dimensions: 6 x 2 x 2(inches)</li>","","Kenwood Protalk TK-3302U16P 2 Way Radio","2 Way Radio",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",488336,"NX-240V16P",,"ProTalk 2-Way Radio NX-240V16P","","ProTalk 2-Way Radio NX-240V16P","",/\N\X\kenwood-usa-nx-240v16p-protalk-2-way-radio-nx-240v16p.jpg,/\N\X\kenwood-usa-nx-240v16p-protalk-2-way-radio-nx-240v16p.jpg,http://www.48ws.com/images/product/N/X/kenwood-usa-nx-240v16p-protalk-2-way-radio-nx-240v16p.jpg,kenwood-usa-NX-240V16P-protalk-2-way-radio-nx-240v16p,kenwood-usa-NX-240V16P-protalk-2-way-radio-nx-240v16p,,No layout updates.,Block after Info Column,,"ProTalk 2-Way Radio NX-240V16P","ProTalk 2-Way Radio NX-240V16P",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","16 Channels, 5 Watt
+27 VHF / 99 UHF Preset Frequencies
+39 QT / 168 DQT / 64 (RAN) Privacy Codes
+Super Lock
+VOX Ready
+Privacy Talk Scrambler
+10-Call Alert Tone
+Wireless Cloning
+Channel Scan
+Removable Antenna
+2,000 mAh Li-Ion battery with up to 12 hours of talk time *(5-5-90) and 3 hours fast charger
+Diecast Chassis
+Weather-Sealed Construction
+Weighs only 9.9oz with Battery
+Meets 11 Mil-Spec standards
+Compatible with other analog business radios
+operating on the same frequency and code
+3 year radio warranty","","","ProTalk 2-Way Radio NX-240V16P",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",488337,"NX-340U16P",,"ProTalk 2-Way Radio NX-340U16P","","ProTalk 2-Way Radio NX-340U16P","",/\N\X\kenwood-usa-nx-340u16p-protalk-2-way-radio-nx-340u16p.jpg,/\N\X\kenwood-usa-nx-340u16p-protalk-2-way-radio-nx-340u16p.jpg,http://www.48ws.com/images/product/N/X/kenwood-usa-nx-340u16p-protalk-2-way-radio-nx-340u16p.jpg,kenwood-usa-NX-340U16P-protalk-2-way-radio-nx-340u16p,kenwood-usa-NX-340U16P-protalk-2-way-radio-nx-340u16p,,No layout updates.,Block after Info Column,,"ProTalk 2-Way Radio NX-340U16P","ProTalk 2-Way Radio NX-340U16P",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","16 Channels, 5 Watt
+27 VHF / 99 UHF Preset Frequencies
+39 QT / 168 DQT / 64 (RAN) Privacy Codes
+Super Lock
+VOX Ready
+Privacy Talk Scrambler
+10-Call Alert Tone
+Wireless Cloning
+Channel Scan
+Removable Antenna
+2,000 mAh Li-Ion battery with up to 12 hours of talk time *(5-5-90) and 3 hours fast charger
+Diecast Chassis
+Weather-Sealed Construction
+Weighs only 9.9oz with Battery
+Meets 11 Mil-Spec standards
+Compatible with other analog business radios
+operating on the same frequency and code
+3 year radio warranty","","","ProTalk 2-Way Radio NX-340U16P",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",488338,"PKT-23K",,"ProTalk 2-Way Radio PKT-23K","","ProTalk 2-Way Radio PKT-23K","",/\P\K\kenwood-usa-pkt-23k-protalk-2-way-radio-pkt-23k.jpg,/\P\K\kenwood-usa-pkt-23k-protalk-2-way-radio-pkt-23k.jpg,http://www.48ws.com/images/product/P/K/kenwood-usa-pkt-23k-protalk-2-way-radio-pkt-23k.jpg,kenwood-usa-PKT-23K-protalk-2-way-radio-pkt-23k,kenwood-usa-PKT-23K-protalk-2-way-radio-pkt-23k,,No layout updates.,Block after Info Column,,"ProTalk 2-Way Radio PKT-23K","ProTalk 2-Way Radio PKT-23K",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","1.5 Watts Transmit Power
+4 Channels
+39-QT/168-DQT Coded Squelch
+Super Lock (Manager Key Lock)
+Scan Function
+2 PF Keys
+Enhanced Kenwood Audio
+VOX Ready
+Voice Announcement
+Bell Tone Alert
+LED Battery Status Indicator
+IP54 & MIL-STD 810 C/D/E/F/G 11 items
+Battery Saver
+Time Out Timer
+Monitor
+Wireless Clone
+2-year Warranty","","","ProTalk 2-Way Radio PKT-23K",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",488339,"TK-2400V16P",,"ProTalk 2-Way Radio TK-2400V16P","","ProTalk 2-Way Radio TK-2400V16P","",/\T\K\kenwood-usa-tk-2400v16p-protalk-2-way-radio-tk-2400v16p.jpg,/\T\K\kenwood-usa-tk-2400v16p-protalk-2-way-radio-tk-2400v16p.jpg,http://www.48ws.com/images/product/T/K/kenwood-usa-tk-2400v16p-protalk-2-way-radio-tk-2400v16p.jpg,kenwood-usa-TK-2400V16P-protalk-2-way-radio-tk-2400v16p,kenwood-usa-TK-2400V16P-protalk-2-way-radio-tk-2400v16p,,No layout updates.,Block after Info Column,,"ProTalk 2-Way Radio TK-2400V16P","ProTalk 2-Way Radio TK-2400V16P",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","Exceptional 1 watt Audio Quality
+2 Watts of Transmit Power
+16 Channel Model - UHF (89 Bank)
+38 Privacy Codes (CTCSS)
+89 UHF BANK of Programmed Freq’s.
+Weight – only 9.9 oz.
+High Efficiency Antenna
+Rugged Die-Cast Chassis
+Built to MIL STD 810C-D-E-F, IP54, IP55
+Wireless Cloning Mode
+VOX (with Audio Accessory)
+Channel Scan & Super Lock
+Channel Confirmation Mode
+Battery Saver Mode
+Low Battery Alert Tone
+Spring Action Belt Clip
+Includes 2000 mAh Li-Ion Battery
+Includes Desktop Fast 3Hr. Charger","","","ProTalk 2-Way Radio TK-2400V16P",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",488340,"TK-2400V4P",,"ProTalk 2-Way Radio TK-2400V4P","","ProTalk 2-Way Radio TK-2400V4P","",/\T\K\kenwood-usa-tk-2400v4p-protalk-2-way-radio-tk-2400v4p.jpg,/\T\K\kenwood-usa-tk-2400v4p-protalk-2-way-radio-tk-2400v4p.jpg,http://www.48ws.com/images/product/T/K/kenwood-usa-tk-2400v4p-protalk-2-way-radio-tk-2400v4p.jpg,kenwood-usa-TK-2400V4P-protalk-2-way-radio-tk-2400v4p,kenwood-usa-TK-2400V4P-protalk-2-way-radio-tk-2400v4p,,No layout updates.,Block after Info Column,,"ProTalk 2-Way Radio TK-2400V4P","ProTalk 2-Way Radio TK-2400V4P",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","1.5 Watts Transmit Power
+4 Channels
+39-QT/168-DQT Coded Squelch
+Super Lock (Manager Key Lock)
+Scan Function
+2 PF Keys
+Enhanced Kenwood Audio
+VOX Ready
+Voice Announcement
+Bell Tone Alert
+LED Battery Status Indicator
+IP54 & MIL-STD 810 C/D/E/F/G 11 items
+Battery Saver
+Time Out Timer
+Monitor
+Wireless Clone
+2-year Warranty","","","ProTalk 2-Way Radio TK-2400V4P",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",488341,"TK-2402V16P",,"ProTalk 2-Way Radio TK-2402V16P","","ProTalk 2-Way Radio TK-2402V16P","",/\T\K\kenwood-usa-tk-2402v16p-protalk-2-way-radio-tk-2402v16p.jpg,/\T\K\kenwood-usa-tk-2402v16p-protalk-2-way-radio-tk-2402v16p.jpg,http://www.48ws.com/images/product/T/K/kenwood-usa-tk-2402v16p-protalk-2-way-radio-tk-2402v16p.jpg,kenwood-usa-TK-2402V16P-protalk-2-way-radio-tk-2402v16p,kenwood-usa-TK-2402V16P-protalk-2-way-radio-tk-2402v16p,,No layout updates.,Block after Info Column,,"ProTalk 2-Way Radio TK-2402V16P","ProTalk 2-Way Radio TK-2402V16P",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","16 channels UHF
+5 Watts of Power
+Heavy Duty, meets tough MIL-STD810 C/D/E
+Narrow bandwidth
+2000 mAh Lithium battery (18 hours with battery save on)
+Package includes radio, charger, battery, belt clip and antenna
+Pre-programmed bank of 27 frequencies
+2 year warranty","","","ProTalk 2-Way Radio TK-2402V16P",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",488342,"TK-3230",,"ProTalk 2-Way Radio TK-3230","","ProTalk 2-Way Radio TK-3230","",/\T\K\kenwood-usa-tk-3230-protalk-2-way-radio-tk-3230.jpg,/\T\K\kenwood-usa-tk-3230-protalk-2-way-radio-tk-3230.jpg,http://www.48ws.com/images/product/T/K/kenwood-usa-tk-3230-protalk-2-way-radio-tk-3230.jpg,kenwood-usa-TK-3230-protalk-2-way-radio-tk-3230,kenwood-usa-TK-3230-protalk-2-way-radio-tk-3230,,No layout updates.,Block after Info Column,,"ProTalk 2-Way Radio TK-3230","ProTalk 2-Way Radio TK-3230",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","1.5 Watts of Power
+Heavy Duty, meets tough
+MIL-STD810 C/D/E/F
+6 Channels
+39-QT/83-DQT Coded Squelch
+Super Lock (Manager Lock Key)
+Scan Function
+2000 mAh Lithium Battery
+(18 hours with battery save on)
+Package includes radio, battery, charger, belt clip and antenna 2 year warranty","","","ProTalk 2-Way Radio TK-3230",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",488343,"TK-3400U16P",,"ProTalk 2-Way Radio TK-3400U16P","","ProTalk 2-Way Radio TK-3400U16P","",/\T\K\kenwood-usa-tk-3400u16p-protalk-2-way-radio-tk-3400u16p.jpg,/\T\K\kenwood-usa-tk-3400u16p-protalk-2-way-radio-tk-3400u16p.jpg,http://www.48ws.com/images/product/T/K/kenwood-usa-tk-3400u16p-protalk-2-way-radio-tk-3400u16p.jpg,kenwood-usa-TK-3400U16P-protalk-2-way-radio-tk-3400u16p,kenwood-usa-TK-3400U16P-protalk-2-way-radio-tk-3400u16p,,No layout updates.,Block after Info Column,,"ProTalk 2-Way Radio TK-3400U16P","ProTalk 2-Way Radio TK-3400U16P",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","Exceptional 1 watt Audio Quality
+2 Watts of Transmit Power
+16 Channel Model - UHF (89 Bank)
+38 Privacy Codes (CTCSS)
+89 UHF BANK of Programmed Freq’s.
+Weight – only 9.9 oz.
+High Efficiency Antenna
+Rugged Die-Cast Chassis
+Built to MIL STD 810C-D-E-F, IP54, IP55
+Wireless Cloning Mode
+VOX (with Audio Accessory)
+Channel Scan & Super Lock
+Channel Confirmation Mode
+Battery Saver Mode
+Low Battery Alert Tone
+Spring Action Belt Clip
+Includes 2000 mAh Li-Ion Battery
+Includes Desktop Fast 3Hr. Charger","","","ProTalk 2-Way Radio TK-3400U16P",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",488344,"TK-3400U4P",,"ProTalk 2-Way Radio TK-3400U4P","","ProTalk 2-Way Radio TK-3400U4P","",/\T\K\kenwood-usa-tk-3400u4p-protalk-2-way-radio-tk-3400u4p.jpg,/\T\K\kenwood-usa-tk-3400u4p-protalk-2-way-radio-tk-3400u4p.jpg,http://www.48ws.com/images/product/T/K/kenwood-usa-tk-3400u4p-protalk-2-way-radio-tk-3400u4p.jpg,kenwood-usa-TK-3400U4P-protalk-2-way-radio-tk-3400u4p,kenwood-usa-TK-3400U4P-protalk-2-way-radio-tk-3400u4p,,No layout updates.,Block after Info Column,,"ProTalk 2-Way Radio TK-3400U4P","ProTalk 2-Way Radio TK-3400U4P",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","Exceptional 1 watt Audio Quality
+2 Watts of Transmit Power
+4 Channel Model - UHF (89 Bank)
+38 Privacy Codes (CTCSS)
+89 UHF BANK of Programmed Freq’s.
+Weight – only 9.9 oz.
+High Efficiency Antenna
+Rugged Die-Cast Chassis
+Built to MIL STD 810C-D-E-F, IP54, IP55
+Wireless Cloning Mode
+VOX (with Audio Accessory)
+Channel Scan & Super Lock
+Channel Confirmation Mode
+Battery Saver Mode
+Low Battery Alert Tone
+Spring Action Belt Clip
+Includes 2000 mAh Li-Ion Battery
+Includes Desktop Fast 3Hr. Charger","","","ProTalk 2-Way Radio TK-3400U4P",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",488345,"TK-3402U16P",,"ProTalk 2-Way Radio TK-3402U16P","","ProTalk 2-Way Radio TK-3402U16P","",/\T\K\kenwood-usa-tk-3402u16p-protalk-2-way-radio-tk-3402u16p.jpg,/\T\K\kenwood-usa-tk-3402u16p-protalk-2-way-radio-tk-3402u16p.jpg,http://www.48ws.com/images/product/T/K/kenwood-usa-tk-3402u16p-protalk-2-way-radio-tk-3402u16p.jpg,kenwood-usa-TK-3402U16P-protalk-2-way-radio-tk-3402u16p,kenwood-usa-TK-3402U16P-protalk-2-way-radio-tk-3402u16p,,No layout updates.,Block after Info Column,,"ProTalk 2-Way Radio TK-3402U16P","ProTalk 2-Way Radio TK-3402U16P",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","Exceptional 1 watt Audio Quality
+5 Watts of Transmit Power
+4 Channel Model - UHF (89 Bank)
+38 Privacy Codes (CTCSS)
+89 UHF BANK of Programmed Freq’s.
+Weight – only 9.9 oz.
+High Efficiency Antenna
+Rugged Die-Cast Chassis
+Built to MIL STD 810C-D-E-F, IP54, IP55
+Wireless Cloning Mode
+VOX (with Audio Accessory)
+Channel Scan & Super Lock
+Channel Confirmation Mode
+Battery Saver Mode
+Low Battery Alert Tone
+Spring Action Belt Clip
+Includes 2000 mAh Li-Ion Battery
+Includes Desktop Fast 3Hr. Charger","","","ProTalk 2-Way Radio TK-3402U16P",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"20595","Antennas",488346,"KRA-22M",,"KRA-22M","","KRA-22M","",/\K\R\kenwood-usa-kra-22m-kra-22m.jpg,/\K\R\kenwood-usa-kra-22m-kra-22m.jpg,http://www.48ws.com/images/product/K/R/kenwood-usa-kra-22m-kra-22m.jpg,kenwood-usa-KRA-22M-kra-22m,kenwood-usa-KRA-22M-kra-22m,,No layout updates.,Block after Info Column,,"KRA-22M","KRA-22M",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","","","","KRA-22M",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"20595","Antennas",488347,"KRA-23M",,"KRA-23M","","KRA-23M","",/\K\R\kenwood-usa-kra-23m-kra-23m.jpg,/\K\R\kenwood-usa-kra-23m-kra-23m.jpg,http://www.48ws.com/images/product/K/R/kenwood-usa-kra-23m-kra-23m.jpg,kenwood-usa-KRA-23M-kra-23m,kenwood-usa-KRA-23M-kra-23m,,No layout updates.,Block after Info Column,,"KRA-23M","KRA-23M",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","","","","KRA-23M",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"20595","Antennas",488348,"KRA-26M",,"KRA-26M","","KRA-26M","",/\K\R\kenwood-usa-kra-26m-kra-26m.jpg,/\K\R\kenwood-usa-kra-26m-kra-26m.jpg,http://www.48ws.com/images/product/K/R/kenwood-usa-kra-26m-kra-26m.jpg,kenwood-usa-KRA-26M-kra-26m,kenwood-usa-KRA-26M-kra-26m,,No layout updates.,Block after Info Column,,"KRA-26M","KRA-26M",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","","","","KRA-26M",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"20595","Antennas",488349,"KRA-27M",,"KRA-27M","","KRA-27M","",/\K\R\kenwood-usa-kra-27m-kra-27m.jpg,/\K\R\kenwood-usa-kra-27m-kra-27m.jpg,http://www.48ws.com/images/product/K/R/kenwood-usa-kra-27m-kra-27m.jpg,kenwood-usa-KRA-27M-kra-27m,kenwood-usa-KRA-27M-kra-27m,,No layout updates.,Block after Info Column,,"KRA-27M","KRA-27M",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","","","","KRA-27M",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"20595","Antennas",488350,"KRA-41M",,"KRA-41M","","KRA-41M","",/\K\R\kenwood-usa-kra-41m-kra-41m.jpg,/\K\R\kenwood-usa-kra-41m-kra-41m.jpg,http://www.48ws.com/images/product/K/R/kenwood-usa-kra-41m-kra-41m.jpg,kenwood-usa-KRA-41M-kra-41m,kenwood-usa-KRA-41M-kra-41m,,No layout updates.,Block after Info Column,,"KRA-41M","KRA-41M",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"VHF Stubby Antenna","","","","","KRA-41M",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"20595","Antennas",488351,"KRA-42M",,"KRA-42M","","KRA-42M","",/\K\R\kenwood-usa-kra-42m-kra-42m.jpg,/\K\R\kenwood-usa-kra-42m-kra-42m.jpg,http://www.48ws.com/images/product/K/R/kenwood-usa-kra-42m-kra-42m.jpg,kenwood-usa-KRA-42M-kra-42m,kenwood-usa-KRA-42M-kra-42m,,No layout updates.,Block after Info Column,,"KRA-42M","KRA-42M",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"UHF Stubby Antenna","","","","","KRA-42M",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"20600","CB Radios",488352,"Ritron JBS-146D",,"Ritron JBS-146D Base Station","","Ritron JBS-146D Base Station","",/\R\i\kenwood-usa-ritron-jbs-146d-ritron-jbs-146d-base-station.jpg,/\R\i\kenwood-usa-ritron-jbs-146d-ritron-jbs-146d-base-station.jpg,http://www.48ws.com/images/product/R/i/kenwood-usa-ritron-jbs-146d-ritron-jbs-146d-base-station.jpg,kenwood-usa-Ritron-JBS-146D-ritron-jbs-146d-base-station,kenwood-usa-Ritron-JBS-146D-ritron-jbs-146d-base-station,,No layout updates.,Block after Info Column,,"Ritron JBS-146D Base Station","Ritron JBS-146D Base Station",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Fixed Location ... Shared Use ... Zero Replacement.
+
+The JobCom Display Series Wireless Intercom/Base Station is a cost-effective way to keep employees in a fixed indoor location communicating and it replaces the need for multiple portable radios. Typical","","","","","Ritron JBS-146D Base Station",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"20600","CB Radios",488353,"Ritron JBS-446D",,"Ritron JBS-446D Base Station","","Ritron JBS-446D Base Station","",/\R\i\kenwood-usa-ritron-jbs-446d-ritron-jbs-446d-base-station.jpg,/\R\i\kenwood-usa-ritron-jbs-446d-ritron-jbs-446d-base-station.jpg,http://www.48ws.com/images/product/R/i/kenwood-usa-ritron-jbs-446d-ritron-jbs-446d-base-station.jpg,kenwood-usa-Ritron-JBS-446D-ritron-jbs-446d-base-station,kenwood-usa-Ritron-JBS-446D-ritron-jbs-446d-base-station,,No layout updates.,Block after Info Column,,"Ritron JBS-446D Base Station","Ritron JBS-446D Base Station",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","2 Watts of Power Output
+Rugged All-Metal Steel Enclosure
+Bright, Easy-To-Read LED Display
+Compact Size: 1.4” X 3.8” X 5.6”
+Large 1 Watt Output Speaker â€”Loud, Easy-To-Hear Audio
+Built-in CTCSS and Digital Coded Squelch Codes
+NOAA Weather Scan & Alert (VHF models only)
+Programmable Narrow (12.5 kHz) or Wideband (25 kHz) Transmitter
+110VAC or 12VDC operation
+PTT Field & PC Programmable
+Call Feature
+One Year Warranty","","","Ritron JBS-446D Base Station",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26333","Two Way Radio Battery Packs",488354,"KNB-29N",,"KNB-29N","","KNB-29N","",/\K\N\kenwood-usa-knb-29n-knb-29n.jpg,/\K\N\kenwood-usa-knb-29n-knb-29n.jpg,http://www.48ws.com/images/product/K/N/kenwood-usa-knb-29n-knb-29n.jpg,kenwood-usa-KNB-29N-knb-29n,kenwood-usa-KNB-29N-knb-29n,,No layout updates.,Block after Info Column,,"KNB-29N","KNB-29N",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"1500 mAh battery, NiMH (14 hours)","","Compatible with: 
+TK–2200/3200/2300/3300","","","KNB-29N",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26333","Two Way Radio Battery Packs",488355,"KNB-45L",,"KNB-45L","","KNB-45L","",/\K\N\kenwood-usa-knb-45l-knb-45l.jpg,/\K\N\kenwood-usa-knb-45l-knb-45l.jpg,http://www.48ws.com/images/product/K/N/kenwood-usa-knb-45l-knb-45l.jpg,kenwood-usa-KNB-45L-knb-45l,kenwood-usa-KNB-45L-knb-45l,,No layout updates.,Block after Info Column,,"KNB-45L","KNB-45L",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"2000 mAh Li-Ion up to 22 hours life @ 5-5-90 duty","","Compatible with: 
+300 and 400 series radios","","","KNB-45L",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26333","Two Way Radio Battery Packs",488356,"KNB-46L",,"KNB-46L","","KNB-46L","",/\K\N\kenwood-usa-knb-46l-knb-46l.jpg,/\K\N\kenwood-usa-knb-46l-knb-46l.jpg,http://www.48ws.com/images/product/K/N/kenwood-usa-knb-46l-knb-46l.jpg,kenwood-usa-KNB-46L-knb-46l,kenwood-usa-KNB-46L-knb-46l,,No layout updates.,Block after Info Column,,"KNB-46L","KNB-46L",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"2000 mAh Li-Ion Battery for TK-3230","","Compatible with: 
+TK-3230","","","KNB-46L",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26333","Two Way Radio Battery Packs",488357,"KNB-71L",,"KNB-71L","","KNB-71L","",/\K\N\kenwood-usa-knb-71l-knb-71l.jpg,/\K\N\kenwood-usa-knb-71l-knb-71l.jpg,http://www.48ws.com/images/product/K/N/kenwood-usa-knb-71l-knb-71l.jpg,kenwood-usa-KNB-71L-knb-71l,kenwood-usa-KNB-71L-knb-71l,,No layout updates.,Block after Info Column,,"KNB-71L","KNB-71L",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"430 mAh Li-Ion up to 15 hours life @ 5-5-90 duty","","Compatible with: 
+PKT-23 ONLY","","","KNB-71L",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"20600","CB Radios",488358,"Quick Assist II",,"Quick Assist II Call Box","","Quick Assist II Call Box","",/\Q\u\kenwood-usa-quick-assist-ii-quick-assist-ii-call-box.jpg,/\Q\u\kenwood-usa-quick-assist-ii-quick-assist-ii-call-box.jpg,http://www.48ws.com/images/product/Q/u/kenwood-usa-quick-assist-ii-quick-assist-ii-call-box.jpg,kenwood-usa-Quick-Assist-II-quick-assist-ii-call-box,kenwood-usa-Quick-Assist-II-quick-assist-ii-call-box,,No layout updates.,Block after Info Column,,"Quick Assist II Call Box","Quick Assist II Call Box",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","Two-way communications
+Battery Powered or optional external power
+Wide or narrow band
+Adjustable power output (1 to 2 watts)
+Talking Callbox – Programmable voice recording for automatic greeting
+Voice Locations","","","Quick Assist II Call Box",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"20600","CB Radios",488359,"Ritron Callbox",,"Ritron Callbox ","","Ritron Callbox ","",/\R\i\kenwood-usa-ritron-callbox-ritron-callbox.jpg,/\R\i\kenwood-usa-ritron-callbox-ritron-callbox.jpg,http://www.48ws.com/images/product/R/i/kenwood-usa-ritron-callbox-ritron-callbox.jpg,kenwood-usa-Ritron-Callbox-ritron-callbox,kenwood-usa-Ritron-Callbox-ritron-callbox,,No layout updates.,Block after Info Column,,"Ritron Callbox ","Ritron Callbox ",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","Small size: Only 6.3”H x 5.5”W x 4.3”D
+Weight: 16oz. with Batteries
+Recordable Custom Voice Message
+Recordable Low Battery Message
+Programmable Repeat Message & Time Intervals
+Companed Audio On/Off
+Wideband/Narrow Band Selectable
+VHF/UHF Models Available
+CTCSS/DCS Interference Eliminator Codes
+Optional “Call Sent” LED Light
+Works with Voice Scrambling Systems","","","Ritron Callbox ",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26334","Two Way Radio Carrying Cases",488360,"KBH-10",,"KBH-10","","KBH-10","",/\K\B\kenwood-usa-kbh-10-kbh-10.jpg,/\K\B\kenwood-usa-kbh-10-kbh-10.jpg,http://www.48ws.com/images/product/K/B/kenwood-usa-kbh-10-kbh-10.jpg,kenwood-usa-KBH-10-kbh-10,kenwood-usa-KBH-10-kbh-10,,No layout updates.,Block after Info Column,,"KBH-10","KBH-10",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Spring action belt clip (same as provided w/radio)","","Compatible with: 
+TK-2200/3200/2300/3300/3302","","","KBH-10",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26334","Two Way Radio Carrying Cases",488361,"KBH-20",,"KBH-20","","KBH-20","",/\K\B\kenwood-usa-kbh-20-kbh-20.jpg,/\K\B\kenwood-usa-kbh-20-kbh-20.jpg,http://www.48ws.com/images/product/K/B/kenwood-usa-kbh-20-kbh-20.jpg,kenwood-usa-KBH-20-kbh-20,kenwood-usa-KBH-20-kbh-20,,No layout updates.,Block after Info Column,,"KBH-20","KBH-20",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Spring action belt clip (same as provided with radio)","","Compatible with: 
+PKT-23 ONLY","","","KBH-20",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26334","Two Way Radio Carrying Cases",488362,"KLH-113",,"KLH-113","","KLH-113","",/\K\L\kenwood-usa-klh-113-klh-113.jpg,/\K\L\kenwood-usa-klh-113-klh-113.jpg,http://www.48ws.com/images/product/K/L/kenwood-usa-klh-113-klh-113.jpg,kenwood-usa-KLH-113-klh-113,kenwood-usa-KLH-113-klh-113,,No layout updates.,Block after Info Column,,"KLH-113","KLH-113",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","","","","KLH-113",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26334","Two Way Radio Carrying Cases",488363,"KLH-126",,"KLH-126","","KLH-126","",/\K\L\kenwood-usa-klh-126-klh-126.jpg,/\K\L\kenwood-usa-klh-126-klh-126.jpg,http://www.48ws.com/images/product/K/L/kenwood-usa-klh-126-klh-126.jpg,kenwood-usa-KLH-126-klh-126,kenwood-usa-KLH-126-klh-126,,No layout updates.,Block after Info Column,,"KLH-126","KLH-126",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","","","","KLH-126",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26334","Two Way Radio Carrying Cases",488364,"KLH-150",,"KLH-150","","KLH-150","",/\K\L\kenwood-usa-klh-150-klh-150.jpg,/\K\L\kenwood-usa-klh-150-klh-150.jpg,http://www.48ws.com/images/product/K/L/kenwood-usa-klh-150-klh-150.jpg,kenwood-usa-KLH-150-klh-150,kenwood-usa-KLH-150-klh-150,,No layout updates.,Block after Info Column,,"KLH-150","KLH-150",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Nylon Carrying Case for TK-3230","","Compatible with: 
+TK-3230","","","KLH-150",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26334","Two Way Radio Carrying Cases",488365,"KLH-187",,"KLH-187","","KLH-187","",/\K\L\kenwood-usa-klh-187-klh-187.jpg,/\K\L\kenwood-usa-klh-187-klh-187.jpg,http://www.48ws.com/images/product/K/L/kenwood-usa-klh-187-klh-187.jpg,kenwood-usa-KLH-187-klh-187,kenwood-usa-KLH-187-klh-187,,No layout updates.,Block after Info Column,,"KLH-187","KLH-187",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Nylon Carrying Case","","","","","KLH-187",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26334","Two Way Radio Carrying Cases",488366,"KLH-65SW",,"KLH-65SW","","KLH-65SW","",/\K\L\kenwood-usa-klh-65sw-klh-65sw.jpg,/\K\L\kenwood-usa-klh-65sw-klh-65sw.jpg,http://www.48ws.com/images/product/K/L/kenwood-usa-klh-65sw-klh-65sw.jpg,kenwood-usa-KLH-65SW-klh-65sw,kenwood-usa-KLH-65SW-klh-65sw,,No layout updates.,Block after Info Column,,"KLH-65SW","KLH-65SW",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","","","","KLH-65SW",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26334","Two Way Radio Carrying Cases",488367,"KLH-83B",,"KLH-83B","","KLH-83B","",/\K\L\kenwood-usa-klh-83b-klh-83b.jpg,/\K\L\kenwood-usa-klh-83b-klh-83b.jpg,http://www.48ws.com/images/product/K/L/kenwood-usa-klh-83b-klh-83b.jpg,kenwood-usa-KLH-83B-klh-83b,kenwood-usa-KLH-83B-klh-83b,,No layout updates.,Block after Info Column,,"KLH-83B","KLH-83B",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","","","","KLH-83B",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26334","Two Way Radio Carrying Cases",488368,"KLH-84B",,"KLH-84B","","KLH-84B","",/\K\L\kenwood-usa-klh-84b-klh-84b.jpg,/\K\L\kenwood-usa-klh-84b-klh-84b.jpg,http://www.48ws.com/images/product/K/L/kenwood-usa-klh-84b-klh-84b.jpg,kenwood-usa-KLH-84B-klh-84b,kenwood-usa-KLH-84B-klh-84b,,No layout updates.,Block after Info Column,,"KLH-84B","KLH-84B",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","","","","KLH-84B",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26334","Two Way Radio Carrying Cases",488369,"KWR-1",,"KWR-1","","KWR-1","",/\K\W\kenwood-usa-kwr-1-kwr-1.jpg,/\K\W\kenwood-usa-kwr-1-kwr-1.jpg,http://www.48ws.com/images/product/K/W/kenwood-usa-kwr-1-kwr-1.jpg,kenwood-usa-KWR-1-kwr-1,kenwood-usa-KWR-1-kwr-1,,No layout updates.,Block after Info Column,,"KWR-1","KWR-1",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","","","","KWR-1",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26332","Two Way Radio Accessories",488370,"KCS-35",,"KCS-35","","KCS-35","",/\K\C\kenwood-usa-kcs-35-kcs-35.jpg,/\K\C\kenwood-usa-kcs-35-kcs-35.jpg,http://www.48ws.com/images/product/K/C/kenwood-usa-kcs-35-kcs-35.jpg,kenwood-usa-KCS-35-kcs-35,kenwood-usa-KCS-35-kcs-35,,No layout updates.,Block after Info Column,,"KCS-35","KCS-35",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Fast rate single unit charger for KNB-45L Li-Ion battery","","Compatible with: 
+Compatible with the KNB-45L","","","KCS-35",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26332","Two Way Radio Accessories",488371,"KCS-43",,"KCS-43","","KCS-43","",/\K\C\kenwood-usa-kcs-43-kcs-43.jpg,/\K\C\kenwood-usa-kcs-43-kcs-43.jpg,http://www.48ws.com/images/product/K/C/kenwood-usa-kcs-43-kcs-43.jpg,kenwood-usa-KCS-43-kcs-43,kenwood-usa-KCS-43-kcs-43,,No layout updates.,Block after Info Column,,"KCS-43","KCS-43",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Li-Ion Charger for TK-3230…KSC-43
+Dual Chemistry Compatible with KNB-29N and KNB-45L Batteries","","Compatible with: 
+TK-3230","","","KCS-43",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26332","Two Way Radio Accessories",488372,"KMB-27",,"KMB-27","","KMB-27","",/\K\M\kenwood-usa-kmb-27-kmb-27.jpg,/\K\M\kenwood-usa-kmb-27-kmb-27.jpg,http://www.48ws.com/images/product/K/M/kenwood-usa-kmb-27-kmb-27.jpg,kenwood-usa-KMB-27-kmb-27,kenwood-usa-KMB-27-kmb-27,,No layout updates.,Block after Info Column,,"KMB-27","KMB-27",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Low profile six unit charger adapter for the KSC-28 &amp; KSC-37 (chgrs not included)","","Compatible with: 
+KSC-28/KSC-37","","","KMB-27",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26332","Two Way Radio Accessories",488373,"KMB-28",,"KMB-28","","KMB-28","",/\K\M\kenwood-usa-kmb-28-kmb-28.jpg,/\K\M\kenwood-usa-kmb-28-kmb-28.jpg,http://www.48ws.com/images/product/K/M/kenwood-usa-kmb-28-kmb-28.jpg,kenwood-usa-KMB-28-kmb-28,kenwood-usa-KMB-28-kmb-28,,No layout updates.,Block after Info Column,,"KMB-28","KMB-28",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Low profile six unit charger adapter for the KSC-37 (chgrs not included)","","Compatible with: 
+KSC-35K","","","KMB-28",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26332","Two Way Radio Accessories",488374,"KSC-37",,"KSC-37","","KSC-37","",/\K\S\kenwood-usa-ksc-37-ksc-37.jpg,/\K\S\kenwood-usa-ksc-37-ksc-37.jpg,http://www.48ws.com/images/product/K/S/kenwood-usa-ksc-37-ksc-37.jpg,kenwood-usa-KSC-37-ksc-37,kenwood-usa-KSC-37-ksc-37,,No layout updates.,Block after Info Column,,"KSC-37","KSC-37",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Fast rate single unit charger for KNB-45L Li-Ion battery","","Compatible with: 
+Compatible with the KNB-46L","","","KSC-37",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488375,"G31 Series Ear Hook Lapel Microphone",,"G31 Series Ear Hook Lapel Microphone","","G31 Series Ear Hook Lapel Microphone","",/\G\3\kenwood-usa-g31-series-ear-hook-lapel-microphone-g31-series-ear-hook-lapel-microphone.jpg,/\G\3\kenwood-usa-g31-series-ear-hook-lapel-microphone-g31-series-ear-hook-lapel-microphone.jpg,http://www.48ws.com/images/product/G/3/kenwood-usa-g31-series-ear-hook-lapel-microphone-g31-series-ear-hook-lapel-microphone.jpg,kenwood-usa-G31-Series-Ear-Hook-Lapel-Microphone-g31-series-ear-hook-lapel-microphone,kenwood-usa-G31-Series-Ear-Hook-Lapel-Microphone-g31-series-ear-hook-lapel-microphone,,No layout updates.,Block after Info Column,,"G31 Series Ear Hook Lapel Microphone","G31 Series Ear Hook Lapel Microphone",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Clear Two-Way Transmission","","Compatible with: 
+All TK Models","","","G31 Series Ear Hook Lapel Microphone",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488376,"G32 Series &quot;G&quot; Ear Hook Lapel Microphone",,"G32 Series &quot;G&quot; Ear Hook Lapel Microphone","","G32 Series &quot;G&quot; Ear Hook Lapel Microphone","",/\G\3\kenwood-usa-g32-series-g-ear-hook-lapel-microphone-g32-series-g-ear-hook-lapel-microphone.jpg,/\G\3\kenwood-usa-g32-series-g-ear-hook-lapel-microphone-g32-series-g-ear-hook-lapel-microphone.jpg,http://www.48ws.com/images/product/G/3/kenwood-usa-g32-series-g-ear-hook-lapel-microphone-g32-series-g-ear-hook-lapel-microphone.jpg,kenwood-usa-G32-Series-G-Ear-Hook-Lapel-Microphone-g32-series-g-ear-hook-lapel-microphone,kenwood-usa-G32-Series-G-Ear-Hook-Lapel-Microphone-g32-series-g-ear-hook-lapel-microphone,,No layout updates.,Block after Info Column,,"G32 Series &quot;G&quot; Ear Hook Lapel Microphone","G32 Series &quot;G&quot; Ear Hook Lapel Microphone",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Enhanced Noise Reducing Design","","Compatible with: 
+All TK Models","","","G32 Series &quot;G&quot; Ear Hook Lapel Microphone",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488377,"G35 Series &quot;D&quot; Ring Lapel Microphone",,"G35 Series &quot;D&quot; Ring Lapel Microphone","","G35 Series &quot;D&quot; Ring Lapel Microphone","",/\G\3\kenwood-usa-g35-series-d-ring-lapel-microphone-g35-series-d-ring-lapel-microphone.jpg,/\G\3\kenwood-usa-g35-series-d-ring-lapel-microphone-g35-series-d-ring-lapel-microphone.jpg,http://www.48ws.com/images/product/G/3/kenwood-usa-g35-series-d-ring-lapel-microphone-g35-series-d-ring-lapel-microphone.jpg,kenwood-usa-G35-Series-D-Ring-Lapel-Microphone-g35-series-d-ring-lapel-microphone,kenwood-usa-G35-Series-D-Ring-Lapel-Microphone-g35-series-d-ring-lapel-microphone,,No layout updates.,Block after Info Column,,"G35 Series &quot;D&quot; Ring Lapel Microphone","G35 Series &quot;D&quot; Ring Lapel Microphone",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Kevlar Reinforced Cable","","Compatible with: 
+All TK Models","","","G35 Series &quot;D&quot; Ring Lapel Microphone",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26335","Two Way Radio Headsets",488378,"KHS-10BH",,"KHS-10BH","","KHS-10BH","",/\K\H\kenwood-usa-khs-10bh-khs-10bh.jpg,/\K\H\kenwood-usa-khs-10bh-khs-10bh.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-10bh-khs-10bh.jpg,kenwood-usa-KHS-10BH-khs-10bh,kenwood-usa-KHS-10BH-khs-10bh,,No layout updates.,Block after Info Column,,"KHS-10BH","KHS-10BH",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Heavy-duty noise reduction behind-the-headset with noise cancelling boom microphone &amp; in-line PTT (black)","","Compatible with: 
+All TK Models","","","KHS-10BH",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26335","Two Way Radio Headsets",488379,"KHS-22",,"KHS-22","","KHS-22","",/\K\H\kenwood-usa-khs-22-khs-22.jpg,/\K\H\kenwood-usa-khs-22-khs-22.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-22-khs-22.jpg,kenwood-usa-KHS-22-khs-22,kenwood-usa-KHS-22-khs-22,,No layout updates.,Block after Info Column,,"KHS-22","KHS-22",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Headset behind the head with flexible boom microphone, in-line PTT, single ear receiver, low profile wire headband","","Compatible with: 
+All TK Models","","","KHS-22",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488380,"KHS-25",,"KHS-25","","KHS-25","",/\K\H\kenwood-usa-khs-25-khs-25.jpg,/\K\H\kenwood-usa-khs-25-khs-25.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-25-khs-25.jpg,kenwood-usa-KHS-25-khs-25,kenwood-usa-KHS-25-khs-25,,No layout updates.,Block after Info Column,,"KHS-25","KHS-25",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"D-Ring ear hanger with PTT &amp; Boom microphone","","Compatible with: 
+All TK Models","","","KHS-25",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488381,"KHS-26",,"KHS-26","","KHS-26","",/\K\H\kenwood-usa-khs-26-khs-26.jpg,/\K\H\kenwood-usa-khs-26-khs-26.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-26-khs-26.jpg,kenwood-usa-KHS-26-khs-26,kenwood-usa-KHS-26-khs-26,,No layout updates.,Block after Info Column,,"KHS-26","KHS-26",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"D-Ring ear hanger with PTT &amp; Boom microphone","","Compatible with: 
+All TK Models","","","KHS-26",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488382,"KHS-27",,"KHS-27","","KHS-27","",/\K\H\kenwood-usa-khs-27-khs-27.jpg,/\K\H\kenwood-usa-khs-27-khs-27.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-27-khs-27.jpg,kenwood-usa-KHS-27-khs-27,kenwood-usa-KHS-27-khs-27,,No layout updates.,Block after Info Column,,"KHS-27","KHS-27",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"D-Ring ear hanger with PTT &amp; Boom microphone","","Compatible with: 
+All TK Models","","","KHS-27",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488383,"KHS-31",,"KHS-31","","KHS-31","",/\K\H\kenwood-usa-khs-31-khs-31.jpg,/\K\H\kenwood-usa-khs-31-khs-31.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-31-khs-31.jpg,kenwood-usa-KHS-31-khs-31,kenwood-usa-KHS-31-khs-31,,No layout updates.,Block after Info Column,,"KHS-31","KHS-31",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Two-Wire palm microphone with earphone (beige)","","Compatible with: 
+All TK Models","","","KHS-31",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488384,"KHS-33 Ear Bud",,"KHS-33 Ear Bud","","KHS-33 Ear Bud","",/\K\H\kenwood-usa-khs-33-ear-bud-khs-33-ear-bud.jpg,/\K\H\kenwood-usa-khs-33-ear-bud-khs-33-ear-bud.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-33-ear-bud-khs-33-ear-bud.jpg,kenwood-usa-KHS-33-Ear-Bud-khs-33-ear-bud,kenwood-usa-KHS-33-Ear-Bud-khs-33-ear-bud,,No layout updates.,Block after Info Column,,"KHS-33 Ear Bud","KHS-33 Ear Bud",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Ear Bud with In-Line PTT","","Compatible with: 
+PKT-23 ONLY","","","KHS-33 Ear Bud",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26335","Two Way Radio Headsets",488385,"KHS-34 C-Ring Ear Hanger",,"KHS-34 C-Ring Ear Hanger","","KHS-34 C-Ring Ear Hanger","",/\K\H\kenwood-usa-khs-34-c-ring-ear-hanger-khs-34-c-ring-ear-hanger.jpg,/\K\H\kenwood-usa-khs-34-c-ring-ear-hanger-khs-34-c-ring-ear-hanger.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-34-c-ring-ear-hanger-khs-34-c-ring-ear-hanger.jpg,kenwood-usa-KHS-34-C-Ring-Ear-Hanger-khs-34-c-ring-ear-hanger,kenwood-usa-KHS-34-C-Ring-Ear-Hanger-khs-34-c-ring-ear-hanger,,No layout updates.,Block after Info Column,,"KHS-34 C-Ring Ear Hanger","KHS-34 C-Ring Ear Hanger",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"C-Ring ear hanger with In-Line PTT","","Compatible with: 
+PKT-23 ONLY","","","KHS-34 C-Ring Ear Hanger",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26335","Two Way Radio Headsets",488386,"KHS-7A",,"KHS-7A","","KHS-7A","",/\K\H\kenwood-usa-khs-7a-khs-7a.jpg,/\K\H\kenwood-usa-khs-7a-khs-7a.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-7a-khs-7a.jpg,kenwood-usa-KHS-7A-khs-7a,kenwood-usa-KHS-7A-khs-7a,,No layout updates.,Block after Info Column,,"KHS-7A","KHS-7A",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Lt. Wt single muff headset with boom microphone &amp; in-line PTT (black)","","Compatible with: 
+All TK Models","","","KHS-7A",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488387,"KHS-8BL",,"KHS-8BL","","KHS-8BL","",/\K\H\kenwood-usa-khs-8bl-khs-8bl.jpg,/\K\H\kenwood-usa-khs-8bl-khs-8bl.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-8bl-khs-8bl.jpg,kenwood-usa-KHS-8BL-khs-8bl,kenwood-usa-KHS-8BL-khs-8bl,,No layout updates.,Block after Info Column,,"KHS-8BL","KHS-8BL",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Two-Wire palm microphone with earphone (black)","","Compatible with: 
+All TK Models","","","KHS-8BL",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488388,"KHS-9BE",,"KHS-9BE","","KHS-9BE","",/\K\H\kenwood-usa-khs-9be-khs-9be.jpg,/\K\H\kenwood-usa-khs-9be-khs-9be.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-9be-khs-9be.jpg,kenwood-usa-KHS-9BE-khs-9be,kenwood-usa-KHS-9BE-khs-9be,,No layout updates.,Block after Info Column,,"KHS-9BE","KHS-9BE",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Three-Wire lapel microphone with earphone (beige)","","Compatible with: 
+All TK Models","","","KHS-9BE",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488389,"KHS-9BL",,"KHS-9BL","","KHS-9BL","",/\K\H\kenwood-usa-khs-9bl-khs-9bl.jpg,/\K\H\kenwood-usa-khs-9bl-khs-9bl.jpg,http://www.48ws.com/images/product/K/H/kenwood-usa-khs-9bl-khs-9bl.jpg,kenwood-usa-KHS-9BL-khs-9bl,kenwood-usa-KHS-9BL-khs-9bl,,No layout updates.,Block after Info Column,,"KHS-9BL","KHS-9BL",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Three-Wire lapel microphone with earphone (black)","","Compatible with: 
+All TK Models","","","KHS-9BL",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488390,"KMC-21",,"KMC-21","","KMC-21","",/\K\M\kenwood-usa-kmc-21-kmc-21.jpg,/\K\M\kenwood-usa-kmc-21-kmc-21.jpg,http://www.48ws.com/images/product/K/M/kenwood-usa-kmc-21-kmc-21.jpg,kenwood-usa-KMC-21-kmc-21,kenwood-usa-KMC-21-kmc-21,,No layout updates.,Block after Info Column,,"KMC-21","KMC-21",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Compact speaker microphone","","Compatible with: 
+All TK Models","","","KMC-21",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26336","Two Way Radio Microphones",488391,"T21 Series One-Wire Surveillance Microphone",,"T21 Series One-Wire Surveillance Microphone","","T21 Series One-Wire Surveillance Microphone","",/\T\2\kenwood-usa-t21-series-one-wire-surveillance-microphone-t21-series-one-wire-surveillance-microphone.jpg,/\T\2\kenwood-usa-t21-series-one-wire-surveillance-microphone-t21-series-one-wire-surveillance-microphone.jpg,http://www.48ws.com/images/product/T/2/kenwood-usa-t21-series-one-wire-surveillance-microphone-t21-series-one-wire-surveillance-microphone.jpg,kenwood-usa-T21-Series-One-Wire-Surveillance-Microphone-t21-series-one-wire-surveillance-microphone,kenwood-usa-T21-Series-One-Wire-Surveillance-Microphone-t21-series-one-wire-surveillance-microphone,,No layout updates.,Block after Info Column,,"T21 Series One-Wire Surveillance Microphone","T21 Series One-Wire Surveillance Microphone",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"Knowles Microphone","","Compatible with: 
+All TK Models","","","T21 Series One-Wire Surveillance Microphone",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26337","Two Way Radio Repeaters",488392,"Kenwood NXR-810MPSD",,"Kenwood NXR-810MPSD","","Kenwood NXR-810MPSD","",/\K\e\kenwood-usa-kenwood-nxr-810mpsd-kenwood-nxr-810mpsd.jpg,/\K\e\kenwood-usa-kenwood-nxr-810mpsd-kenwood-nxr-810mpsd.jpg,http://www.48ws.com/images/product/K/e/kenwood-usa-kenwood-nxr-810mpsd-kenwood-nxr-810mpsd.jpg,kenwood-usa-Kenwood-NXR-810MPSD-kenwood-nxr-810mpsd,kenwood-usa-Kenwood-NXR-810MPSD-kenwood-nxr-810mpsd,,No layout updates.,Block after Info Column,,"Kenwood NXR-810MPSD","Kenwood NXR-810MPSD",Use config,"",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"","","151 - 159 MHz, 50W
+450 - 470 MHz, 40W
+25 / 25W @ 100% Duty
+Repeater Operation
+30 CH Scanning Base
+Two-Digit LED Display
+6 Lighted Programmable Function keys
+Front Panel Speaker
+4W External Speaker Audio
+Volume Control
+Programmable AUX I/O’s
+Power Supply Voltage Monitor
+RF Power Down Detect
+PC Serial Interface
+Windows® PC programming
+Flash Firmware Upgrading","","","Kenwood NXR-810MPSD",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",639623,"NX-240VP/340UP",,"Kenwood NX-240VP/340UP","","Kenwood NX-240VP/340UP","",/\N\X\kenwood-usa-nx-240vp340up-kenwood-nx-240vp340up.jpg,/\N\X\kenwood-usa-nx-240vp340up-kenwood-nx-240vp340up.jpg,http://www.48ws.com/images/product/N/X/kenwood-usa-nx-240vp340up-kenwood-nx-240vp340up.jpg,kenwood-usa-NX-240VP/340UP-kenwood-nx-240vp340up,kenwood-usa-NX-240VP/340UP-kenwood-nx-240vp340up,,No layout updates.,Block after Info Column,,"Kenwood NX-240VP/340UP","Kenwood NX-240VP/340UP",Use config,"https://www.kenwood.com/usa/com/osbr/",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The NX-240VP/340UP series is effectively two radios in one – analog and digital – operating on 12.5kHz in analog zones, and on 6.25kHz NXDN® in digital zones. For convenience, a PF key can be used to switch between zones. ","","NX-240VP/340UP series radios employ NXDN®, an FDMA digital air interface with AMBE+2TM voice coding technology, unique filtering and a 4-level FSK modulation technique with low bit error rate (BER) even at weak RF signal strengths. As RF signal strength weakens with distance, analog reception becomes increasingly noisy and intermittent. NXDN®’s low BER improves reception in fringe areas, thereby “effectively” increasing coverage as much as 20% over analog.
+
+Users can program a ProTalk® to any of the pre-stored frequencies, QT/DQT analog codes, RAN digital codes, thus assuring compatibility with other brands. The ProTalk® digital VHF NX-240V16P/P2 16-channel model
+has 27 pre-stored frequencies while the ProTalk® digital UHF NX-340U16P/P2 16-channel model has 99. Both models have 39 QT tones and 168 DQT codes in analog mode and 64 RAN codes in digital mode.
+
+<ul>
+<li>Voice Annunciation</li>
+<li>Battery Save</li>
+<li>Channel Confirmation Mode</li>
+<li>B.C.L. (Busy Channel Lockout)</li>
+<li>Key Lock</li>
+<li>4-color LEDs (blue, red, orange, green)</li>
+<li>Scan Del/Add</li>
+<li>KENWOOD ESN (Electronic Serial Number)</li>
+<li>Adjustable Microphone Gain (by FPU): High/Normal/Low</li>
+<li>Time-Out Timer</li>
+<li>Low Battery Warning</li>
+<li>Pre-set Frequencies: 27 (151-159 MHz), 99 (451-470 MHz)</li>
+<li>Number of Channels: 32</li>
+<li>Zones: 2</li>
+<li>Max. Channels per Zone: 16</li>
+<li>Channel Spacing Analog: 12.5 kHz</li>
+<li>Digital: 6.25 kHz</li>
+<li>Operating Voltage: 7.5V DC ± 20%</li>
+<li>Battery Life (5-5-90 during hi-power battery saver: OFF/ON with KNB-45L (2000mAh): Approx. 10/12 hours </li>
+<li>Operating Temperature Range*: -22 ° F ~ +140 ° F (-30 ° C ~ +60 ° C)</li>
+<li>Frequency Stability: ± 2.0 ppm ± 1.0 ppm</li>
+<li>Antenna Impedance: 50 O</li>
+<li>Dimensions (W x H x D) with KNB-45L: 2.13 x 4.8 x 1.39 in (54 x 122 x 35.3 mm)</li>
+<li>Projections Not Included</li>
+<li>Weight (net) Radio Only: 5.8 oz (165 g)</li>
+<li>Weight (net) with KNB-45L: 9.9 oz (281 g)</li>
+</ul>","","","Kenwood NX-240VP/340UP",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",639624,"TK-3230DX",,"Kenwood TK-3230DX","","Kenwood TK-3230DX","",/\T\K\kenwood-usa-tk-3230dx-kenwood-tk-3230dx.jpg,/\T\K\kenwood-usa-tk-3230dx-kenwood-tk-3230dx.jpg,http://www.48ws.com/images/product/T/K/kenwood-usa-tk-3230dx-kenwood-tk-3230dx.jpg,kenwood-usa-TK-3230DX-kenwood-tk-3230dx,kenwood-usa-TK-3230DX-kenwood-tk-3230dx,,No layout updates.,Block after Info Column,,"Kenwood TK-3230DX","Kenwood TK-3230DX",Use config,"https://www.kenwood.com/usa/com/osbr/",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"1.5 Watts of Power Heavy Duty, meets tough MIL-STD810 C/D/E/F 6 Channels 39-QT/83-DQT Coded Squelch Super Lock (Manager Lock Key) Scan Function 2000 mAh Lithium Battery (18 hours with battery save on) Package includes radio, battery, charger, belt clip and antenna 2 year warranty","","","","","Kenwood TK-3230DX",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
+admin,base,Default,simple,"26338","Two Way Radios",639625,"NX-P500K",,"Kenwood NX-P500","","Kenwood NX-P500","",/\N\X\kenwood-usa-nx-p500k-kenwood-nx-p500.jpg,/\N\X\kenwood-usa-nx-p500k-kenwood-nx-p500.jpg,http://www.48ws.com/images/product/N/X/kenwood-usa-nx-p500k-kenwood-nx-p500.jpg,kenwood-usa-NX-P500K-kenwood-nx-p500,kenwood-usa-NX-P500K-kenwood-nx-p500,,No layout updates.,Block after Info Column,,"Kenwood NX-P500","Kenwood NX-P500",Use config,"https://www.kenwood.com/usa/com/osbr/",0,,,0,"Kenwood U.S.A",319,,Enabled,"Catalog, Search",Taxable Goods,Yes,No,"The NX-P500 is a small, light and powerful UHF digital transceiver with mixed mode capability allowing for digital and analog communications for interoperability. This promotes a simple method for transitioning to digital operations at your own pace. Ideal for business, retail, hospitality, education and the restaurant industry. Put your employees in touch with each other instantly and raise the level of communication for better service. A stronger collaboration through communication increases team work quality.","","<ul>
+<li>Dual Mode NXDN Digital & FM Analog</li>
+<li>UHF 2 Watt Transmit Power</li>
+<li>Small (1.97” W x 3.70” H x 1.07” D) & Lightweight (5.6 oz)</li>
+<li>Li-Ion battery with over 15 Hours (w/Save On) Talk Time (5/5/90 duty cycle)</li>
+<li>750 mW Loud Speaker</li>
+<li>High Brightness LCD Display</li>
+<li>7-color LED Indicator</li>
+<li>IP67 Dust & Immersion / MIL-STD-810 C/D/E/F/G</li>
+<li>6 Channel Operation (Factory pre-set)</li>
+<li>99 User-Programmable Memory Bank Frequencies</li>
+<li>Digital/Analog Mixed Mode Operation</li>
+<li>Individual Call / Group Call</li>
+<li>Second PTT</li>
+<li>Channel Scan</li>
+<li>NXDN Digital Scrambler</li>
+<li>Repeater Mode</li>
+<li>Wireless Cloning Mode</li>
+<li>Key Lock/Super Lock</li>
+<li>User Programmable QT (45) and DQT (174) Signaling</li>
+<li>Compander</li>
+<li>FleetSync®</li>
+<li>LCD Battery Meter & Low Battery Alert</li>
+<li>VOX (Voice-activated transmit)</li>
+<li>Time Out Timer</li>
+<li>Free Programming Software (KPG-D5)</li>
+<li>FCC License required</li>
+</ul>","","","Kenwood NX-P500",,,,,,,,1,0,1,0,0,1,1,1,0,1,1,,,1,0,1,0,1,0,1,0,,0,simple,,
